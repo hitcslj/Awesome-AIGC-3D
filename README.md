@@ -2,7 +2,7 @@
 A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 
-![AIGC 3D generation](.asset/visualization.mp4)
+<img src="./asset/mvdream.gif" width="696px">
  
 
 
