@@ -2,6 +2,10 @@
 A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF).
 
 
+![AIGC 3D generation](.asset/visualization.mp4)
+ 
+
+
 #### [How to submit a pull request?](https://github.com/hitcslj/Awesome-AIGC-3D/blob/main/how-to-PR.md)
 
 
