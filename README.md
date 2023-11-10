@@ -16,6 +16,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 ## Survey
 
+TODO
 
 ## Papers
 - DreamFusion: DreamFusion: Text-to-3D using 2D Diffusion
