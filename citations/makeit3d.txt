@@ -1,0 +1,8 @@
+@InProceedings{Tang_2023_ICCV,
+    author    = {Tang, Junshu and Wang, Tengfei and Zhang, Bo and Zhang, Ting and Yi, Ran and Ma, Lizhuang and Chen, Dong},
+    title     = {Make-It-3D: High-fidelity 3D Creation from A Single Image with Diffusion Prior},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {22819-22829}
+}

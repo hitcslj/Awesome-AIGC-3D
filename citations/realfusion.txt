@@ -1,0 +1,7 @@
+@inproceedings{melaskyriazi2023realfusion,
+  author = {Melas-Kyriazi, Luke and Rupprecht, Christian and Laina, Iro and Vedaldi, Andrea},
+  title = {RealFusion: 360 Reconstruction of Any Object from a Single Image},
+  booktitle={CVPR}
+  year = {2023},
+  url = {https://arxiv.org/abs/2302.10663},
+}

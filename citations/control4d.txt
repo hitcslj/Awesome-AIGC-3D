@@ -1,0 +1,6 @@
+@misc{shao2023control4d,
+author = {Ruizhi Shao, Jingxiang Sun, Cheng Peng, Zerong Zheng, Boyao Zhou, Hongwen Zhang, Yebin Liu. },
+title = {Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor},
+publisher = {arxiv},
+year = {2023}
+}

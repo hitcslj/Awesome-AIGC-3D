@@ -1,0 +1,6 @@
+@article{sjc,
+      title={Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation},
+      author={Wang, Haochen and Du, Xiaodan and Li, Jiahao and Yeh, Raymond A. and Shakhnarovich, Greg},
+      journal={arXiv preprint arXiv:2212.00774},
+      year={2022},
+}

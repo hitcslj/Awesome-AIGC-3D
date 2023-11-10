@@ -1,0 +1,6 @@
+@article{raj2023dreambooth3d,
+  title={DreamBooth3D: Subject-Driven Text-to-3D Generation},
+  author={Raj, Amit and Kaza, Srinivas and Poole, Ben and Niemeyer, Michael and Mildenhall,Ben and Ruiz, Nataniel and Zada, Shiran and Aberman, Kfir and Rubenstein, Michael and Barron, Jonathan and Li, Yuanzhen and Jampani, Varun},
+  journal={ICCV},
+  year={2023}
+}

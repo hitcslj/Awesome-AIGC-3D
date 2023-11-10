@@ -1,0 +1,6 @@
+@article{zhang2023teca,
+      author    = {Zhang, Hao and Feng, Yao and Kulits, Peter and Wen, Yandong, and Thies, Justus and Black, Michael J.},
+      title     = {TECA: Text-Guided Generation and Editing of Compositional 3D Avatars},
+      journal   = {arXiv},
+      year      = {2023},
+}

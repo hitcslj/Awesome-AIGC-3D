@@ -1,0 +1,8 @@
+@misc{qian2023magic123,
+      title={Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors}, 
+      author={Guocheng Qian and Jinjie Mai and Abdullah Hamdi and Jian Ren and Aliaksandr Siarohin and Bing Li and Hsin-Ying Lee and Ivan Skorokhodov and Peter Wonka and Sergey Tulyakov and Bernard Ghanem},
+      year={2023},
+      eprint={2306.17843},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

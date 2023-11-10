@@ -1,0 +1,7 @@
+@inproceedings{xu2023dream3d,
+    title     = {Dream3d: Zero-shot text-to-3d synthesis using 3d shape prior and text-to-image diffusion models},
+    author    = {Xu, Jiale and Wang, Xintao and Cheng, Weihao and Cao, Yan-Pei and Shan, Ying and Qie, Xiaohu and Gao, Shenghua},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages     = {20908--20918},
+    year      = {2023}
+}
