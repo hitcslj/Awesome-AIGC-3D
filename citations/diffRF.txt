@@ -1,0 +1,7 @@
+@inproceedings{muller2023diffrf,
+  title={Diffrf: Rendering-guided 3d radiance field diffusion},
+  author={M{\"u}ller, Norman and Siddiqui, Yawar and Porzi, Lorenzo and Bulo, Samuel Rota and Kontschieder, Peter and Nie{\ss}ner, Matthias},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4328--4338},
+  year={2023}
+}

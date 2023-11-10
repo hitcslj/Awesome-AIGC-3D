@@ -1,0 +1,8 @@
+@misc{ntavelis2023autodecoding,
+    title={AutoDecoding Latent 3D Diffusion Models},
+    author={Evangelos Ntavelis and Aliaksandr Siarohin and Kyle Olszewski and Chaoyang Wang and Luc Van Gool and Sergey Tulyakov},
+    year={2023},
+    eprint={2307.05445},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
