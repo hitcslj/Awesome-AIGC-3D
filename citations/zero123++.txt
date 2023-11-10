@@ -1,0 +1,8 @@
+@misc{shi2023zero123plus,
+      title={Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model}, 
+      author={Ruoxi Shi and Hansheng Chen and Zhuoyang Zhang and Minghua Liu and Chao Xu and Xinyue Wei and Linghao Chen and Chong Zeng and Hao Su},
+      year={2023},
+      eprint={2310.15110},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -1,0 +1,8 @@
+@misc{hong2023lrm,
+      title={LRM: Large Reconstruction Model for Single Image to 3D}, 
+      author={Yicong Hong and Kai Zhang and Jiuxiang Gu and Sai Bi and Yang Zhou and Difan Liu and Feng Liu and Kalyan Sunkavalli and Trung Bui and Hao Tan},
+      year={2023},
+      eprint={2311.04400},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -1,0 +1,8 @@
+@misc{chen2023textto3d,
+      title={Text-to-3D using Gaussian Splatting}, 
+      author={Zilong Chen and Feng Wang and Huaping Liu},
+      year={2023},
+      eprint={2309.16585},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

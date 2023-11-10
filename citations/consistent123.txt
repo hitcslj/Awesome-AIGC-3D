@@ -1,0 +1,8 @@
+@misc{ye2023consistent1to3,
+      title={Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models}, 
+      author={Jianglong Ye and Peng Wang and Kejie Li and Yichun Shi and Heng Wang},
+      year={2023},
+      eprint={2310.03020},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

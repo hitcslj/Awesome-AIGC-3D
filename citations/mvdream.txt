@@ -1,0 +1,6 @@
+@article{shi2023MVDream,
+  author = {Shi, Yichun and Wang, Peng and Ye, Jianglong and Mai, Long and Li, Kejie and Yang, Xiao},
+  title = {MVDream: Multi-view Diffusion for 3D Generation},
+  journal = {arXiv:2308.16512},
+  year = {2023},
+}

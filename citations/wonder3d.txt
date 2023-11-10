@@ -1,0 +1,8 @@
+@misc{long2023wonder3d,
+  title={Wonder3D: Single Image to 3D using Cross-Domain Diffusion}, 
+  author={Xiaoxiao Long and Yuan-Chen Guo and Cheng Lin and Yuan Liu and Zhiyang Dou and Lingjie Liu and Yuexin Ma and Song-Hai Zhang and Marc Habermann and Christian Theobalt and Wenping Wang},
+  year={2023},
+  eprint={2310.15008},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}

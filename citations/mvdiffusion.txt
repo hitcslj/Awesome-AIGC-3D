@@ -1,0 +1,6 @@
+@article{tang2023MVDiffusion,
+  title={MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion},
+  author={Tang, Shitao and Zhang, Fuayng and Chen, Jiacheng and Wang, Peng and Yasutaka, Furukawa},
+  journal={arXiv preprint 2307.01097},
+  year={2023}
+}

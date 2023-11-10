@@ -1,0 +1,6 @@
+@misc{stable-dreamfusion,
+    Author = {Jiaxiang Tang},
+    Year = {2022},
+    Note = {https://github.com/ashawkey/stable-dreamfusion},
+    Title = {Stable-dreamfusion: Text-to-3D with Stable-diffusion}
+}

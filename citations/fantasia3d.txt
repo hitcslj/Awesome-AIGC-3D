@@ -1,0 +1,7 @@
+@InProceedings{Chen_2023_ICCV,
+  author    = {Chen, Rui and Chen, Yongwei and Jiao, Ningxin and Jia, Kui},
+  title     = {Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation},
+  booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  month     = {October},
+  year      = {2023}
+}

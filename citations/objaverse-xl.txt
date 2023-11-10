@@ -1,0 +1,10 @@
+@article{objaverseXL,
+  title={Objaverse-XL: A Universe of 10M+ 3D Objects},
+  author={Matt Deitke and Ruoshi Liu and Matthew Wallingford and Huong Ngo and
+          Oscar Michel and Aditya Kusupati and Alan Fan and Christian Laforte and
+          Vikram Voleti and Samir Yitzhak Gadre and Eli VanderBilt and
+          Aniruddha Kembhavi and Carl Vondrick and Georgia Gkioxari and
+          Kiana Ehsani and Ludwig Schmidt and Ali Farhadi},
+  journal={arXiv preprint arXiv:2307.05663},
+  year={2023}
+}

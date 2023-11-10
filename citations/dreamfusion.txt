@@ -1,0 +1,8 @@
+@misc{poole2022dreamfusion,
+      title={DreamFusion: Text-to-3D using 2D Diffusion}, 
+      author={Ben Poole and Ajay Jain and Jonathan T. Barron and Ben Mildenhall},
+      year={2022},
+      eprint={2209.14988},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -1,0 +1,8 @@
+@misc{sargent2023zeronvs,
+      title={ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image}, 
+      author={Kyle Sargent and Zizhang Li and Tanmay Shah and Charles Herrmann and Hong-Xing Yu and Yunzhi Zhang and Eric Ryan Chan and Dmitry Lagun and Li Fei-Fei and Deqing Sun and Jiajun Wu},
+      year={2023},
+      eprint={2310.17994},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
