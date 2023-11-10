@@ -16,7 +16,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 ## Survey
 
-TODO
+**TODO**
 
 ## Papers
 - DreamFusion: DreamFusion: Text-to-3D using 2D Diffusion
@@ -44,7 +44,7 @@ TODO
 </details>
 
 <details open>
-<summary>3D Diffusion</summary>
+<summary>3D diffusion</summary>
 
 - [DiffRF: Rendering-guided 3D Radiance Field Diffusion](https://sirwyver.github.io/DiffRF/), Müller et al., CVPR 2023 | [bibtex](./citations/diffRF.txt)
 - [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://snap-research.github.io/3DVADER/), Ntavelis et al., arxiv 2023 | [github](https://github.com/snap-research/3DVADER) | [bibtex](./citations/3dvader.txt)
@@ -52,7 +52,7 @@ TODO
 </details>
 
 <details open>
-<summary>consistent</summary>
+<summary>multi-view consistent</summary>
 
 - [Zero-1-to-3: Zero-shot One Image to 3D Object](https://zero123.cs.columbia.edu/), Liu et al., ICCV 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
 - [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://guochengqian.github.io/project/magic123/), Qian et al., arxiv 2023 | [github](https://github.com/guochengqian/Magic123) | [bibtex](./citations/magic123.txt)
