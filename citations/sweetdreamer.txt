@@ -1,0 +1,6 @@
+@article{sweetdreamer,
+author    = {Weiyu Li and Rui Chen and Xuelin Chen and Ping Tan},
+title     = {SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D},
+journal   = {arxiv:2310.02596},
+year      = {2023},
+}

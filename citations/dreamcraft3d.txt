@@ -1,0 +1,8 @@
+@misc{sun2023dreamcraft3d,
+        title={DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior}, 
+        author={Jingxiang Sun and Bo Zhang and Ruizhi Shao and Lizhen Wang and Wen Liu and Zhenda Xie and Yebin Liu},
+        year={2023},
+        eprint={2310.16818},
+        archivePrefix={arXiv},
+        primaryClass={cs.CV}
+  }
