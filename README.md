@@ -93,6 +93,12 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 </details>
 
+<details open>
+<summary>conditional control</summary>
+
+- [Control3D: Towards Controllable Text-to-3D Generation](https://arxiv.org/abs/2311.05461), Chen et al., ACM Multimedia 2023 | [bibtex](./citations/control3d.txt)
+
+</details>
 
 </details>
 
@@ -114,7 +120,6 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 <summary>Dynamic</summary>
 
 - [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., 3DV 2024 | [github](https://github.com/TingtingLiao/TADA) | [bibtext](./citations/tada.txt) 
-
 
 
 </details>

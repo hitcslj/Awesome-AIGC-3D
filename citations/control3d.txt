@@ -1,0 +1,8 @@
+@misc{chen2023control3d,
+      title={Control3D: Towards Controllable Text-to-3D Generation}, 
+      author={Yang Chen and Yingwei Pan and Yehao Li and Ting Yao and Tao Mei},
+      year={2023},
+      eprint={2311.05461},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
