@@ -1,0 +1,8 @@
+@article{singer2023text4d,
+  author = {Singer, Uriel and Sheynin, Shelly and Polyak, Adam and Ashual, Oron and
+           Makarov, Iurii and Kokkinos, Filippos and Goyal, Naman and Vedaldi, Andrea and
+           Parikh, Devi and Johnson, Justin and Taigman, Yaniv},
+  title = {Text-To-4D Dynamic Scene Generation},
+  journal = {arXiv:2301.11280},
+  year = {2023},
+}
