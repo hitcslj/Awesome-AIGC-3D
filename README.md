@@ -121,6 +121,9 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 - [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., 3DV 2024 | [github](https://github.com/TingtingLiao/TADA) | [bibtext](./citations/tada.txt) 
 
+- [Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video
+](https://consistent4d.github.io/), Jiang et al., arxiv 2023 | [github](https://github.com/yanqinJiang/Consistent4D) | [bibtext](./citations/consistent4d.txt) 
+
 
 </details>
 
