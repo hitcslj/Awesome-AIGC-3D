@@ -23,7 +23,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 **TODO**
 
 ## Papers
-- DreamFusion: DreamFusion: Text-to-3D using 2D Diffusion
+- DreamFusion: Text-to-3D using 2D Diffusion
 , Poole et al., ICLR 2023 | [github](https://dreamfusion3d.github.io/) | [bibtex](./citations/dreamfusion.txt)
 
 
