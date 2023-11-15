@@ -1,0 +1,6 @@
+@article{instant3d2023,
+    author = {Jiahao Li and Hao Tan and Kai Zhang and Zexiang Xu and Fujun Luan and Yinghao Xu and Yicong Hong and Kalyan Sunkavalli and Greg Shakhnarovich and Sai Bi},
+    title = {Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model},
+    journal = {https://arxiv.org/abs/2311.06214},
+    year = {2023},
+    }
