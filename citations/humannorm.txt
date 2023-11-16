@@ -1,0 +1,8 @@
+@misc{huang2023humannorm,
+      title={HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation}, 
+      author={Xin Huang and Ruizhi Shao and Qi Zhang and Hongwen Zhang and Ying Feng and Yebin Liu and Qing Wang},
+      year={2023},
+      eprint={2310.01406},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
