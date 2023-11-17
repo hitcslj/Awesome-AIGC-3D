@@ -1,0 +1,8 @@
+@misc{kapon2023mas,
+      title={MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion}, 
+      author={Roy Kapon and Guy Tevet and Daniel Cohen-Or and Amit H. Bermano},
+      year={2023},
+      eprint={2310.14729},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
