@@ -1,0 +1,8 @@
+@misc{zeng2023ipdreamer,
+      title={IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts}, 
+      author={Bohan Zeng and Shanglin Li and Yutang Feng and Hong Li and Sicheng Gao and Jiaming Liu and Huaxia Li and Xu Tang and Jianzhuang Liu and Baochang Zhang},
+      year={2023},
+      eprint={2310.05375},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

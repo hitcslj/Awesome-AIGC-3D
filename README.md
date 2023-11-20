@@ -102,6 +102,8 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 <summary>conditional control</summary>
 
 - [Control3D: Towards Controllable Text-to-3D Generation](https://arxiv.org/abs/2311.05461), Chen et al., ACM Multimedia 2023 | [bibtex](./citations/control3d.txt)
+- [IPDreamer: Appearance-Controllable 3D Object Generation
+with Image Prompts](https://arxiv.org/abs/2310.05375), Zeng et al., arxiv 2023 | [bibtex](./citations/ipdreamer.txt)
 
 </details>
 
