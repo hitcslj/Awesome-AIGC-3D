@@ -1,0 +1,11 @@
+@article{chen2022text2light,
+    title={Text2Light: Zero-Shot Text-Driven HDR Panorama Generation},
+    author={Chen, Zhaoxi and Wang, Guangcong and Liu, Ziwei},
+    journal={ACM Transactions on Graphics (TOG)},
+    volume={41},
+    number={6},
+    articleno={195},
+    pages={1--16},
+    year={2022},
+    publisher={ACM New York, NY, USA}
+}
