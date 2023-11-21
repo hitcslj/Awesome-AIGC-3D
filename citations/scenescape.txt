@@ -1,0 +1,6 @@
+@article{SceneScape,
+    author    = {Fridman, Rafail and Abecasis, Amit and Kasten, Yoni and Dekel, Tali},
+    title     = {SceneScape: Text-Driven Consistent Scene Generation},
+    journal   = {arXiv preprint arXiv:2302.01133},
+    year      = {2023},
+}
