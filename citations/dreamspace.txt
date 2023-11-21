@@ -1,0 +1,6 @@
+@article{yang2023dreamspace,
+  title={DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation},
+  author={Yang, Bangbang and Dong, Wenqi and Ma, Lin and Hu, Wenbo and Liu, Xiao and Cui, Zhaopeng and Ma, Yuewen},
+  booktitle={arXiv preprint arXiv:2310.13119},
+  year={2023}
+}
