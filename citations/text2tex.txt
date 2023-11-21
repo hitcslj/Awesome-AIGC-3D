@@ -1,0 +1,6 @@
+@article{chen2023text2tex,
+    title={Text2Tex: Text-driven Texture Synthesis via Diffusion Models},
+    author={Chen, Dave Zhenyu and Siddiqui, Yawar and Lee, Hsin-Ying and Tulyakov, Sergey and Nie{\ss}ner, Matthias},
+    journal={arXiv preprint arXiv:2303.11396},
+    year={2023},
+}

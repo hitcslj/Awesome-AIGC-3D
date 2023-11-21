@@ -1,0 +1,8 @@
+@misc{richardson2023texture,
+      title={TEXTure: Text-Guided Texturing of 3D Shapes}, 
+      author={Elad Richardson and Gal Metzer and Yuval Alaluf and Raja Giryes and Daniel Cohen-Or},
+      year={2023},
+      eprint={2302.01721},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

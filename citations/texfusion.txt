@@ -1,0 +1,6 @@
+@InProceedings{cao2023texfusion,
+    title={TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models},
+    author={Cao, Tianshi and Kreis, Karsten and Fidler, Sanja and Sharp, Nicholas and Yin, KangXue},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    year={2023},
+}
