@@ -1,0 +1,8 @@
+@misc{sun20233dgpt,
+      title={3D-GPT: Procedural 3D Modeling with Large Language Models}, 
+      author={Chunyi Sun and Junlin Han and Weijian Deng and Xinlong Wang and Zishan Qin and Stephen Gould},
+      year={2023},
+      eprint={2310.12945},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
