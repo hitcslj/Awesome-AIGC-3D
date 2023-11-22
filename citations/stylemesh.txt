@@ -1,0 +1,7 @@
+@inproceedings{hollein2022stylemesh,
+  title={StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions},
+  author={H{\"o}llein, Lukas and Johnson, Justin and Nie{\ss}ner, Matthias},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={6198--6208},
+  year={2022}
+}
