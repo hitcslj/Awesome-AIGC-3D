@@ -83,7 +83,6 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 
 </details>
 
-<details open>
 
 
 <details open>
@@ -105,6 +104,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 
 </details>
 
+<details open>
 <summary>Procedural 3D Modeling</summary>
 
 - [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Sun et al., arxiv 2023 |  [github](https://github.com/Chuny1/3DGPT) | [bibtex](./citations/3dgpt.txt)
