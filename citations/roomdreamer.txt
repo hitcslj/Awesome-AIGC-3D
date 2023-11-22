@@ -1,6 +1,8 @@
-@misc{roomdreamer,
-title = {RoomDreamer: Text-Driven 3D Indoor Scene Synthesis with Coherent Geometry and Texture},
-author = {Liangchen Song and Liangliang Cao and Hongyu Xu and Kai Kang and Feng Tang and Junsong and Yuan and Yang Zhao},
-year = {2023},
-URL = {https://arxiv.org/abs/2305.11337}
+@misc{song2023roomdreamer,
+      title={RoomDreamer: Text-Driven 3D Indoor Scene Synthesis with Coherent Geometry and Texture}, 
+      author={Liangchen Song and Liangliang Cao and Hongyu Xu and Kai Kang and Feng Tang and Junsong Yuan and Yang Zhao},
+      year={2023},
+      eprint={2305.11337},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
