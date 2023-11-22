@@ -32,6 +32,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 <details open>
 <summary>high quality</summary>
 
+- [DreamFields: Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Jain et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/dreamfields) | [bibtex](./citations/dreamfields.txt)
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/), Poole et al., ICLR 2023 | [github](https://github.com/ashawkey/stable-dreamfusion) | [bibtex](./citations/dreamfusion.txt)
 - [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://pals.ttic.edu/p/score-jacobian-chaining), Wang et al., CVPR 2023 |[github](https://github.com/lukemelas/realfusion)| [bibtex](./citations/sjc.txt)
 - [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://lukemelas.github.io/realfusion/), Melas-Kyriazi et al., CVPR 2023 | [github](https://github.com/lukemelas/realfusion) | [bibtex](./citations/realfusion.txt)

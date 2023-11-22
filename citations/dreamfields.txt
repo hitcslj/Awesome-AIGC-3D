@@ -1,0 +1,7 @@
+@inproceedings{jain2022zero,
+  title={Zero-shot text-guided object generation with dream fields},
+  author={Jain, Ajay and Mildenhall, Ben and Barron, Jonathan T and Abbeel, Pieter and Poole, Ben},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={867--876},
+  year={2022}
+}
