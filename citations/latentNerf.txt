@@ -1,0 +1,6 @@
+@article{metzer2022latent,
+  title={Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures},
+  author={Metzer, Gal and Richardson, Elad and Patashnik, Or and Giryes, Raja and Cohen-Or, Daniel},
+  journal={arXiv preprint arXiv:2211.07600},
+  year={2022}
+}
