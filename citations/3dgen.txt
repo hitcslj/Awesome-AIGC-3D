@@ -1,0 +1,8 @@
+@misc{gupta20233dgen,
+      title={3DGen: Triplane Latent Diffusion for Textured Mesh Generation}, 
+      author={Anchit Gupta and Wenhan Xiong and Yixin Nie and Ian Jones and Barlas Oğuz},
+      year={2023},
+      eprint={2303.05371},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

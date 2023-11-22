@@ -1,0 +1,8 @@
+@InProceedings{Erkoc_2023_ICCV,
+    author    = {Erko\c{c}, Ziya and Ma, Fangchang and Shan, Qi and Nie{\ss}ner, Matthias and Dai, Angela},
+    title     = {HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2023},
+    pages     = {14300-14310}
+}

@@ -1,0 +1,8 @@
+@article {zheng2023lasdiffusion,
+  title      = {Locally Attentional SDF Diffusion for Controllable 3D Shape Generation},
+  author     = {Zheng, Xin-Yang and Pan, Hao and Wang, Peng-Shuai and Tong, Xin and Liu, Yang and Shum, Heung-Yeung},
+  journal    = {ACM Transactions on Graphics (SIGGRAPH)},
+  volume     = {42},
+  number     = {4},
+  year       = {2023},
+}

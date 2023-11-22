@@ -1,0 +1,8 @@
+@misc{jun2023shape,
+      title={Shap-E: Generating Conditional 3D Implicit Functions}, 
+      author={Heewoo Jun and Alex Nichol},
+      year={2023},
+      eprint={2305.02463},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -1,0 +1,6 @@
+@inproceedings{cheng2023sdfusion,
+  author={Cheng, Yen-Chi and Lee, Hsin-Ying and Tuyakov, Sergey and Schwing, Alex and Gui, Liangyan},
+  title={{SDFusion}: Multimodal 3D Shape Completion, Reconstruction, and Generation},
+  booktitle={CVPR},
+  year={2023},
+}

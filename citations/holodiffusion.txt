@@ -1,0 +1,6 @@
+@inproceedings{karnewar2023holodiffusion,
+    title={HoloDiffusion: Training a {3D} Diffusion Model using {2D} Images},
+    author={Karnewar, Animesh and Vedaldi, Andrea and Novotny, David and Mitra, Niloy},
+    booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+    year={2023}
+}  

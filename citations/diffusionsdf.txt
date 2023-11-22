@@ -1,0 +1,6 @@
+@inproceedings{chou2022diffusionsdf,
+title={Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions},
+author={Gene Chou and Yuval Bahat and Felix Heide},
+journal={The IEEE International Conference on Computer Vision (ICCV)},
+year={2023}
+}
