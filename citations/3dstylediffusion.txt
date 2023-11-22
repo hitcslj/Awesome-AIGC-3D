@@ -1,0 +1,7 @@
+@inproceedings{yang20233dstyle,
+  title={3dstyle-diffusion: Pursuing fine-grained text-driven 3d stylization with 2d diffusion models},
+  author={Yang, Haibo and Chen, Yang and Pan, Yingwei and Yao, Ting and Chen, Zhineng and Mei, Tao},
+  booktitle={Proceedings of the 31st ACM International Conference on Multimedia},
+  pages={6860--6868},
+  year={2023}
+}
