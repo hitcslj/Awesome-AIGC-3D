@@ -147,6 +147,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [TEXTure: Text-Guided Texturing of 3D Shapes](https://texturepaper.github.io/TEXTurePaper/), Richardson et al., SIGGRAPH 2023 | [github](https://github.com/TEXTurePaper/TEXTurePaper) | [bibtex](./citations/texture.txt)
 - [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://daveredrum.github.io/Text2Tex/), Chen et al., ICCV 2023 | [github](https://github.com/daveredrum/Text2Tex) | [bibtex](./citations/text2tex.txt)
 - [TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models](https://research.nvidia.com/labs/toronto-ai/texfusion/), Cao et al., ICCV 2023 | [bibtex](./citations/texfusion.txt)
+- [RoomDreamer: Text-Driven 3D Indoor Scene Synthesis with Coherent Geometry and Texture](https://arxiv.org/abs/2305.11337), Song et al., arxiv 2023 | [bibtex](./citations/roomdreamer.txt)
 - [DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation](https://ybbbbt.com/publication/dreamspace/), Yang et al., arxiv 2023 | [github](https://github.com/ybbbbt/dreamspace) | [bibtext](./citations/dreamspace.txt) 
 
 </details>
