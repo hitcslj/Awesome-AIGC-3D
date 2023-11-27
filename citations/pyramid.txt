@@ -1,0 +1,6 @@
+@article{liu2023pyramid,
+         title={Pyramid Diffusion for Fine 3D Large Scene Generation},
+         author={Yuheng Liu and Xinke Li and Xueting Li and Lu Qi and Chongshou Li and Ming-Hsuan Yang},
+         journal={arXiv preprint arXiv:2311.12085},
+         year={2023}
+}
