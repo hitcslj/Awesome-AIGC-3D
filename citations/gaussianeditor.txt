@@ -1,0 +1,8 @@
+@misc{chen2023gaussianeditor,
+      title={GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting}, 
+      author={Yiwen Chen and Zilong Chen and Chi Zhang and Feng Wang and Xiaofeng Yang and Yikai Wang and Zhongang Cai and Lei Yang and Huaping Liu and Guosheng Lin},
+      year={2023},
+      eprint={2311.14521},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
