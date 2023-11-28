@@ -1,0 +1,8 @@
+@misc{liu2023item3d,
+      title={ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models}, 
+      author={Shengqi Liu and Zhuo Chen and Jingnan Gao and Yichao Yan and Wenhan Zhu and Xiaobo Li and Ke Gao and Jiangjing Lyu and Xiaokang Yang},
+      year={2023},
+      eprint={2309.14872},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
