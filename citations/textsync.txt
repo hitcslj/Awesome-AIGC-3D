@@ -1,0 +1,8 @@
+@misc{liu2023textguided,
+      title={Text-Guided Texturing by Synchronized Multi-View Diffusion}, 
+      author={Yuxin Liu and Minshan Xie and Hanyuan Liu and Tien-Tsin Wong},
+      year={2023},
+      eprint={2311.12891},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
