@@ -1,0 +1,6 @@
+@article{TOSS,
+author    = {Yukai Shi, Jianan Wang, He Cao, Boshi Tang, Xianbiao Qi, Tianyu Yang, Yukun Huang, Shilong Liu, Lei Zhang, Heung-Yeung Shum},
+title     = {TOSS:High-quality Text-guided Novel View Synthesis from a Single Image},
+journal   = {arXiv:2310.10644},
+year      = {2023},
+}
