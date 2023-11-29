@@ -1,0 +1,8 @@
+@misc{siddiqui2023meshgpt,
+      title={MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers}, 
+      author={Yawar Siddiqui and Antonio Alliegro and Alexey Artemov and Tatiana Tommasi and Daniele Sirigatti and Vladislav Rosov and Angela Dai and Matthias Nießner},
+      year={2023},
+      eprint={2311.15475},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
