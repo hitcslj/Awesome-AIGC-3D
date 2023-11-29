@@ -94,6 +94,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://dreambooth3d.github.io/), Raj et al., ICCV 2023 | [bibtex](./citations/dreambooth3d.txt)
 - [TECA: Text-Guided Generation and Editing of Compositional 3D Avatars](https://yfeng95.github.io/teca/), Zhang et al., Arxiv 2023 |  [github](https://github.com/HaoZhang990127/TECA) | [bibtex](./citations/teca.txt)
 - [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4dArxiv.github.io/), Shao et al., Arxiv 2023 | [bibtex](./citations/control4d.txt)
+- [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://cxh0519.github.io/projects/Progressive3D/), Cheng et al., Arxiv 2023 |  [github](https://github.com/cxh0519/Progressive3D) | [bibtex](./citations/progressive3d.txt)
 - [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://buaacyw.github.io/gaussian-editor/), Chen et al., Arxiv 2023 |  [github](https://github.com/buaacyw/GaussianEditor) | [bibtex](./citations/gaussianeditor.txt)
 
 
@@ -140,6 +141,14 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/), Siddiqui et al., Arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
 
 
+</details>
+
+<details open>
+<summary>3D Representation</summary>
+
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./citations/nerf.txt)
+- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Zhou et al., TOG 2023 | [github](https://github.com/graphdeco-inria/gaussian-splatting) | [bibtex](./citations/3dgaussian.txt)
+- [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773), Zhou et al., Arxiv 2023 | [github](https://github.com/baaivision/Uni3D) | [bibtex](./citations/uni3d.txt)
 </details>
 
 

@@ -1,0 +1,8 @@
+@misc{cheng2023progressive3d,
+    title={Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts}, 
+    author={Xinhua Cheng and Tianyu Yang and Jianan Wang and Yu Li and Lei Zhang and Jian Zhang and Li Yuan},
+    year={2023},
+    eprint={2310.11784},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
