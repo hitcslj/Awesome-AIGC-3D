@@ -134,7 +134,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [LAS-Diffusion: Locally Attentional SDF Diffusion for Controllable 3D Shape Generation](https://zhengxinyang.github.io/projects/LAS-Diffusion.html), Zheng et al., TOG 2023 | [github](https://github.com/Zhengxinyang/LAS-Diffusion) | [bibtex](./citations/lasdiffusion.txt)
 - [Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://neuralcarver.github.io/michelangelo/), Zhao et al., Arxiv 2023 | [github](https://github.com/NeuralCarver/Michelangelo) | [bibtex](./citations/michelangelo.txt)
 - [ARGUS: Visualization of AI-Assisted Task Guidance in AR](https://Arxiv.org/abs/2308.06246), Castelo et al., Arxiv 2023 | [bibtex](./citations/argus.txt)
-
+- [WildFusion:Learning 3D-Aware Latent Diffusion Models in View Space](https://katjaschwarz.github.io/wildfusion/), Schwarz et al., Arxiv 2023 | [bibtex](./citations/wildfusion.txt)
 
 
 </details>

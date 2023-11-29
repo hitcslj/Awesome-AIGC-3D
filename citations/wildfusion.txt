@@ -1,0 +1,8 @@
+@article{schwarz2023wildfusion,
+  author = {Katja Schwarz and Seung Wook Kim and Jun Gao and Sanja Fidler and Andreas Geiger and Karsten Kreis},
+  title = {WildFusion: Learning 3D-Aware Latent Diffusion Models in View Space},
+  journal      = {CoRR},
+  volume       = {abs/2311.13570},
+  year         = {2023},
+  url          = {https://arxiv.org/abs/2311.13570},
+}
