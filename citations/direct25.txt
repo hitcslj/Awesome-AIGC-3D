@@ -1,0 +1,8 @@
+@misc{lu2023direct25,
+      title={Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion}, 
+      author={Yuanxun Lu and Jingyang Zhang and Shiwei Li and Tian Fang and David McKinnon and Yanghai Tsin and Long Quan and Xun Cao and Yao Yao},
+      year={2023},
+      eprint={2311.15980},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
