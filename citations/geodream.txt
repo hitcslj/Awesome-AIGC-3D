@@ -1,0 +1,6 @@
+@inproceedings{Ma2023GeoDream,
+    title = {GeoDream: Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation},
+    author = {Baorui Ma and Haoge Deng and Junsheng Zhou and Yu-Shen Liu and Tiejun Huang and Xinlong Wang},
+    journal={arXiv preprint arXiv:2311.17971},
+    year={2023}
+}

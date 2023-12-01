@@ -67,11 +67,11 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://Arxiv.org/abs/2310.15110), Shi et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/zero123plus) | [bibtex](./citations/zero123++.txt)
 - [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://humannorm.github.io/), Huang et al., Arxiv 2023 | [bibtex](./citations/humannorm.txt)
 - [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://www.xxlong.site/Wonder3D/), Long et al., Arxiv 2023 | [github](https://github.com/xxlong0/Wonder3D) | [bibtex](./citations/wonder3d.txt)
-- [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://sweetdreamer3d.github.io/), Li et al., Arxiv 2023 | [github](https://sweetdreamer3d.github.io/) | [bibtex](./citations/sweetdreamer.txt)
+- [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://sweetdreamer3d.github.io/), Li et al., Arxiv 2023 | [github](https://github.com/wyysf-98/SweetDreamer) | [bibtex](./citations/sweetdreamer.txt)
 - [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://sudo-ai-3d.github.io/One2345plus_page/), Liu et al., Arxiv 2023 | [github](https://github.com/SUDO-AI-3D/One2345plus) | [bibtex](./citations/one2345++.txt)
 - [TOSS: High-quality Text-guided Novel View Synthesis from a Single Image](https://toss3d.github.io/), Shi et al., Arxiv 2023 | [bibtex](./citations/toss.txt)
 - [Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion](https://nju-3dv.github.io/projects/direct25/), Lu et al., Arxiv 2023 | [bibtex](./citations/direct25.txt)
-
+- [GeoDream:Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation](https://mabaorui.github.io/GeoDream_page/), Ma et al., Arxiv 2023 | [github](https://github.com/baaivision/GeoDream/) | [bibtex](./citations/geodream.txt)
 </details>
 
 <details open>
