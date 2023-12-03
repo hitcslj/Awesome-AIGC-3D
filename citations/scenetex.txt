@@ -1,0 +1,8 @@
+@misc{chen2023scenetex,
+      title={SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors}, 
+      author={Dave Zhenyu Chen and Haoxuan Li and Hsin-Ying Lee and Sergey Tulyakov and Matthias Nießner},
+      year={2023},
+      eprint={2311.17261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
