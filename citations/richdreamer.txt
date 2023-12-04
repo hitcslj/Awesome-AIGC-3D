@@ -1,0 +1,6 @@
+@article{qiu2023richdreamer,
+    title={RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D}, 
+    author={Lingteng Qiu and Guanying Chen and Xiaodong Gu and Qi zuo and Mutian Xu and Yushuang Wu and Weihao Yuan and Zilong Dong and Liefeng Bo and Xiaoguang Han},
+    year={2023},
+    journal = {arXiv preprint arXiv:2311.16918}
+}

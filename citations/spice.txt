@@ -1,0 +1,8 @@
+@misc{sella2023spice,
+    title={SPiC-E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention},
+    author={Etai Sella and Gal Fiebelman and Noam Atia and Hadar Averbuch-Elor},
+    year={2023},
+    eprint={2311.17834},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}

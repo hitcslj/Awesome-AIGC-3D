@@ -47,7 +47,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://ml.cs.tsinghua.edu.cn/prolificdreamer/), Wang et al., NeurIPS 2023 | [github](https://github.com/thu-ml/prolificdreamer) | [bibtex](./citations/prolificdreamer.txt)
 - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/), Sun et al., Arxiv 2023 | [github](https://github.com/deepseek-ai/DreamCraft3D) | [bibtex](./citations/dreamcraft3d.txt)
 - [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://Arxiv.org/abs/2311.11284), Liang et al., Arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer) | [bibtex](./citations/luciddreamer-object.txt)
-
+- [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://lingtengqiu.github.io/RichDreamer/), Qiu et al., Arxiv 2023 | [github](https://github.com/alibaba/RichDreamer) | [bibtex](./citations/richdreamer.txt)
 
 
 </details>
@@ -140,7 +140,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [ARGUS: Visualization of AI-Assisted Task Guidance in AR](https://Arxiv.org/abs/2308.06246), Castelo et al., Arxiv 2023 | [bibtex](./citations/argus.txt)
 - [WildFusion:Learning 3D-Aware Latent Diffusion Models in View Space](https://katjaschwarz.github.io/wildfusion/), Schwarz et al., Arxiv 2023 | [bibtex](./citations/wildfusion.txt)
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/), Siddiqui et al., Arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
-
+- [SPiC·E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention](https://tau-vailab.github.io/spic-e/), Sella et al., Arxiv 2023 | [github](https://github.com/TAU-VAILab/spic-e) | [bibtex](./citations/spice.txt)
 
 </details>
 
