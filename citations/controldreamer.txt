@@ -1,0 +1,8 @@
+@misc{oh2023controldreamer,
+      title={ControlDreamer: Stylized 3D Generation with Multi-View ControlNet}, 
+      author={Yeongtak Oh and Jooyoung Choi and Yongsung Kim and Minjun Park and Chaehun Shin and Sungroh Yoon},
+      year={2023},
+      eprint={2312.01129},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

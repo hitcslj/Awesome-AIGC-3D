@@ -106,6 +106,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 
 - [Control3D: Towards Controllable Text-to-3D Generation](https://Arxiv.org/abs/2311.05461), Chen et al., ACM Multimedia 2023 | [bibtex](./citations/control3d.txt)
 - [IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts](https://Arxiv.org/abs/2310.05375), Zeng et al., Arxiv 2023 | [bibtex](./citations/ipdreamer.txt)
+- [ControlDreamer: Stylized 3D Generation with Multi-View ControlNet](https://controldreamer.github.io/), Oh et al., Arxiv 2023 |  [github](https://github.com/oyt9306/ControlDreamer) | [bibtex](./citations/controldreamer.txt)
 
 </details>
 
