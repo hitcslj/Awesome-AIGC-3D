@@ -169,6 +169,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes](https://luciddreamer-cvlab.github.io/), Chuang et al., Arxiv 2023  | [bibtext](./citations/luciddreamer-scene.txt)
 - [Pyramid Diffusion for Fine 3D Large Scene Generation](https://yuheng.ink/project-page/pyramid-discrete-diffusion/), Liu et al., Arxiv 2023 | [github](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) | [bibtext](./citations/pyramid.txt) 
 - [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://graphdreamer.github.io/), Gao et al., Arxiv 2023 | [github](https://github.com/GGGHSL/GraphDreamer) | [bibtext](./citations/graphdreamer.txt)
+- [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
 
 
 </details>
