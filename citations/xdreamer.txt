@@ -1,0 +1,6 @@
+@article{ma2023xdreamer, 
+  title={X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation}, 
+  author={Ma, Yiwei and Fan, Yijun and Ji, Jiayi and Wang, Haowei and Sun, Xiaoshuai and Jiang, Guannan and Shu, Annan and Ji, Rongrong}, 
+  journal={arXiv preprint arXiv:2312.00085},
+  year={2023} 
+}
