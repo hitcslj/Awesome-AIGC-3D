@@ -1,0 +1,8 @@
+@misc{ye2023gaussian,
+      title={Gaussian Grouping: Segment and Edit Anything in 3D Scenes}, 
+      author={Mingqiao Ye and Martin Danelljan and Fisher Yu and Lei Ke},
+      year={2023},
+      eprint={2312.00732},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
