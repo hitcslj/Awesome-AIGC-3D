@@ -73,6 +73,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [TOSS: High-quality Text-guided Novel View Synthesis from a Single Image](https://toss3d.github.io/), Shi et al., Arxiv 2023 | [bibtex](./citations/toss.txt)
 - [Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion](https://nju-3dv.github.io/projects/direct25/), Lu et al., Arxiv 2023 | [bibtex](./citations/direct25.txt)
 - [GeoDream:Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation](https://mabaorui.github.io/GeoDream_page/), Ma et al., Arxiv 2023 | [github](https://github.com/baaivision/GeoDream/) | [bibtex](./citations/geodream.txt)
+- [DreamComposer: Controllable 3D Object Generation via Multi-View Conditions](https://yhyang-myron.github.io/DreamComposer/), Yang et al., Arxiv 2023 | [github](https://github.com/yhyang-myron/DreamComposer) | [bibtex](./citations/dreamcomposer.txt)
 </details>
 
 <details open>

@@ -1,0 +1,6 @@
+@article{yang2023dreamcomposer,
+    title={DreamComposer: Controllable 3D Object Generation via Multi-View Conditions},
+    author={Yang, Yunhan and Huang, Yukun and Wu, Xiaoyang and Guo, Yuan-Chen and Zhang, Song-Hai and Zhao, Hengshuang and He, Tong and Liu, Xihui},
+    journal={arXiv preprint arXiv:2312.03611},
+    year={2023}
+}
