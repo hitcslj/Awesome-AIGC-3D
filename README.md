@@ -74,6 +74,8 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion](https://nju-3dv.github.io/projects/direct25/), Lu et al., Arxiv 2023 | [bibtex](./citations/direct25.txt)
 - [GeoDream:Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation](https://mabaorui.github.io/GeoDream_page/), Ma et al., Arxiv 2023 | [github](https://github.com/baaivision/GeoDream/) | [bibtex](./citations/geodream.txt)
 - [DreamComposer: Controllable 3D Object Generation via Multi-View Conditions](https://yhyang-myron.github.io/DreamComposer/), Yang et al., Arxiv 2023 | [github](https://github.com/yhyang-myron/DreamComposer) | [bibtex](./citations/dreamcomposer.txt)
+- [Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views](https://cascadezero123.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/AbrahamYabo/Cascade-Zero123) | [bibtex](./citations/cascadeZero123.txt)
+
 </details>
 
 <details open>
@@ -86,6 +88,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://dmv3d.github.io/)
 - [Instant3D : Instant Text-to-3D Generation](https://ming1993li.github.io/Instant3DProj/), Li et al., Arxiv 2023 | [bibtex](./citations/instant3d_.txt) 
 - [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/), Babu et al., Arxiv 2023 | [github](https://github.com/threedle/hyperfields) | [bibtex](./citations/hyperfields.txt)
+- [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://taoranyi.com/gaussiandreamer/), Yi et al., Arxiv 2023 | [github](https://github.com/hustvl/GaussianDreamer) | [bibtex](./citations/gaussianDreamer.txt)
 
 </details>
 
@@ -99,6 +102,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://control4dArxiv.github.io/), Shao et al., Arxiv 2023 | [bibtex](./citations/control4d.txt)
 - [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://cxh0519.github.io/projects/Progressive3D/), Cheng et al., Arxiv 2023 |  [github](https://github.com/cxh0519/Progressive3D) | [bibtex](./citations/progressive3d.txt)
 - [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://buaacyw.github.io/gaussian-editor/), Chen et al., Arxiv 2023 |  [github](https://github.com/buaacyw/GaussianEditor) | [bibtex](./citations/gaussianeditor.txt)
+- [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://gaussianeditor.github.io/), Fang et al., Arxiv 2023 | [bibtex](./citations/gaussianEditor2.txt)
 - [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732), Ye et al., Arxiv 2023 |  [github](https://github.com/lkeab/gaussian-grouping) | [bibtex](./citations/gaussian-group.txt)
 
 

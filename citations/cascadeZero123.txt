@@ -1,0 +1,6 @@
+@article{Cascadezero123,
+  author = {Yabo Chen, Jiemin Fang, Yuyang Huang, Taoran Yi, Xiaopeng Zhang, Lingxi Xie, Xinggang Wang, Wenrui Dai, Hongkai Xiong,and Qi Tian},
+  title = {Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views},
+  year = {2023},
+  journal={arXiv preprint arXiv:2312.04424}
+}
