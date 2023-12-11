@@ -188,6 +188,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video](https://consistent4d.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/yanqinJiang/Consistent4D) | [bibtext](./citations/consistent4d.txt) 
 - [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/), Singer et al., Arxiv 2023 | [bibtext](./citations/mav3d.txt) 
 - [MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion](https://guytevet.github.io/mas-page/), Kapon et al., Arxiv 2023 | [github](https://github.com/roykapon/MAS) | [bibtext](./citations/mas.txt) 
+- [AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation](https://web1.arxiv.org/abs/2312.03795), Wang et al., Arxiv 2023 | [bibtext](./citations/animatable-dreamer.txt) 
 
 
 </details>
