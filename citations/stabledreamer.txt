@@ -1,0 +1,8 @@
+@misc{guo2023stabledreamer,
+      title={StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D}, 
+      author={Pengsheng Guo and Hans Hao and Adam Caccavale and Zhongzheng Ren and Edward Zhang and Qi Shan and Aditya Sankar and Alexander G. Schwing and Alex Colburn and Fangchang Ma},
+      year={2023},
+      eprint={2312.02189},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -49,6 +49,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://Arxiv.org/abs/2311.11284), Liang et al., Arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer) | [bibtex](./citations/luciddreamer-object.txt)
 - [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://lingtengqiu.github.io/RichDreamer/), Qiu et al., Arxiv 2023 | [github](https://github.com/alibaba/RichDreamer) | [bibtex](./citations/richdreamer.txt)
 - [X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation](https://xmu-xiaoma666.github.io/Projects/X-Dreamer/), Ma et al., Arxiv 2023 | [github](https://github.com/xmu-xiaoma666/X-Dreamer) | [bibtex](./citations/xdreamer.txt)
+- [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/abs/2312.02189), Guo et al., Arxiv 2023 | [bibtex](./citations/stabledreamer.txt)
 
 
 </details>
