@@ -1,0 +1,7 @@
+@article{ren2023xcube,
+  title={XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies}, 
+  author={Xuanchi Ren and Jiahui Huang and Xiaohui Zeng and Ken Museth 
+  and Sanja Fidler and Francis Williams},
+  journal={arXiv preprint},
+  year={2023}
+  }

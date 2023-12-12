@@ -151,6 +151,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [WildFusion:Learning 3D-Aware Latent Diffusion Models in View Space](https://katjaschwarz.github.io/wildfusion/), Schwarz et al., Arxiv 2023 | [bibtex](./citations/wildfusion.txt)
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/), Siddiqui et al., Arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
 - [SPiC·E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention](https://tau-vailab.github.io/spic-e/), Sella et al., Arxiv 2023 | [github](https://github.com/TAU-VAILab/spic-e) | [bibtex](./citations/spice.txt)
+- [X3: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://research.nvidia.com/labs/toronto-ai/xcube/), Ren et al., Arxiv 2023 | [bibtex](./citations/xcube.txt)
 
 </details>
 
@@ -162,6 +163,18 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773), Zhou et al., Arxiv 2023 | [github](https://github.com/baaivision/Uni3D) | [bibtex](./citations/uni3d.txt)
 </details>
 
+
+<details open>
+<summary>Dynamic</summary>
+
+- [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., 3DV 2024 | [github](https://github.com/TingtingLiao/TADA) | [bibtext](./citations/tada.txt) 
+- [Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video](https://consistent4d.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/yanqinJiang/Consistent4D) | [bibtext](./citations/consistent4d.txt) 
+- [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/), Singer et al., Arxiv 2023 | [bibtext](./citations/mav3d.txt) 
+- [MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion](https://guytevet.github.io/mas-page/), Kapon et al., Arxiv 2023 | [github](https://github.com/roykapon/MAS) | [bibtext](./citations/mas.txt) 
+- [AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation](https://web1.arxiv.org/abs/2312.03795), Wang et al., Arxiv 2023 | [bibtext](./citations/animatable-dreamer.txt) 
+
+
+</details>
 
 
 <details open>
@@ -177,22 +190,12 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Pyramid Diffusion for Fine 3D Large Scene Generation](https://yuheng.ink/project-page/pyramid-discrete-diffusion/), Liu et al., Arxiv 2023 | [github](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) | [bibtext](./citations/pyramid.txt) 
 - [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://graphdreamer.github.io/), Gao et al., Arxiv 2023 | [github](https://github.com/GGGHSL/GraphDreamer) | [bibtext](./citations/graphdreamer.txt)
 - [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
+- [ControlRoom3D:Room Generation using Semantic Proxy Rooms](https://jonasschult.github.io/ControlRoom3D/), Schult et al., Arxiv 2023 | [bibtext](./citations/controlroom3d.txt)
 
 
 </details>
  
 
-<details open>
-<summary>Dynamic</summary>
-
-- [TADA! Text to Animatable Digital Avatars](https://tada.is.tue.mpg.de/), Liao et al., 3DV 2024 | [github](https://github.com/TingtingLiao/TADA) | [bibtext](./citations/tada.txt) 
-- [Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video](https://consistent4d.github.io/), Jiang et al., Arxiv 2023 | [github](https://github.com/yanqinJiang/Consistent4D) | [bibtext](./citations/consistent4d.txt) 
-- [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/), Singer et al., Arxiv 2023 | [bibtext](./citations/mav3d.txt) 
-- [MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion](https://guytevet.github.io/mas-page/), Kapon et al., Arxiv 2023 | [github](https://github.com/roykapon/MAS) | [bibtext](./citations/mas.txt) 
-- [AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation](https://web1.arxiv.org/abs/2312.03795), Wang et al., Arxiv 2023 | [bibtext](./citations/animatable-dreamer.txt) 
-
-
-</details>
 
 
 <details open>
