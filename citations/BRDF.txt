@@ -1,0 +1,8 @@
+@misc{memery2023generating,
+      title={Generating Parametric BRDFs from Natural Language Descriptions}, 
+      author={Sean Memery and Osmar Cedron and Kartic Subr},
+      year={2023},
+      eprint={2306.15679},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR}
+}

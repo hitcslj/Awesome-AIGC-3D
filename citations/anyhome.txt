@@ -1,0 +1,8 @@
+@misc{wen2023anyhome,
+      title={AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes}, 
+      author={Zehao Wen and Zichen Liu and Srinath Sridhar and Rao Fu},
+      year={2023},
+      eprint={2312.06644},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

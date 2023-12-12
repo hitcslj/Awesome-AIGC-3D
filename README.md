@@ -43,7 +43,6 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://fantasia3d.github.io/), Chen et al., ICCV 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [bibtex](./citations/fantasia3d.txt)
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://make-it-3d.github.io/), Tang et al., ICCV 2023 | [github](https://github.com/junshutang/Make-It-3D) | [bibtex](./citations/makeit3d.txt)
 - [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://hifa-team.github.io/HiFA-site/), Zhu et al., Arxiv 2023 | [github](https://github.com/HiFA-team/HiFA) | [bibtex](./citations/hifa.txt)
-- [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://sheldontsui.github.io/projects/Matlaber), Xu et al., Arxiv 2023 | [github](https://github.com/SheldonTsui/Matlaber) | [bibtex](./citations/matlaber.txt)
 - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://ml.cs.tsinghua.edu.cn/prolificdreamer/), Wang et al., NeurIPS 2023 | [github](https://github.com/thu-ml/prolificdreamer) | [bibtex](./citations/prolificdreamer.txt)
 - [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://mrtornado24.github.io/DreamCraft3D/), Sun et al., Arxiv 2023 | [github](https://github.com/deepseek-ai/DreamCraft3D) | [bibtex](./citations/dreamcraft3d.txt)
 - [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://Arxiv.org/abs/2311.11284), Liang et al., Arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer) | [bibtex](./citations/luciddreamer-object.txt)
@@ -191,10 +190,18 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://graphdreamer.github.io/), Gao et al., Arxiv 2023 | [github](https://github.com/GGGHSL/GraphDreamer) | [bibtext](./citations/graphdreamer.txt)
 - [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
 - [ControlRoom3D:Room Generation using Semantic Proxy Rooms](https://jonasschult.github.io/ControlRoom3D/), Schult et al., Arxiv 2023 | [bibtext](./citations/controlroom3d.txt)
+- [AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes](https://arxiv.org/abs/2312.06644), Wen et al., Arxiv 2023 | [bibtext](./citations/anyhome.txt)
 
 
 </details>
- 
+
+<details open>
+<summary>Material</summary>
+
+- [Generating Parametric BRDFs from Natural Language Descriptions](https://arxiv.org/abs/2306.15679), Memery et al., Arxiv 2023  [bibtex](./citations/BRDF.txt)
+- [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://sheldontsui.github.io/projects/Matlaber), Xu et al., Arxiv 2023 | [github](https://github.com/SheldonTsui/Matlaber) | [bibtex](./citations/matlaber.txt)
+
+</details>
 
 
 
