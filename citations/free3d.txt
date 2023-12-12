@@ -1,0 +1,6 @@
+@article{zheng2023free3D,
+      author    = {Zheng, Chuanxia and Vedaldi, Andrea},
+      title     = {Free3D: Consistent Novel View Synthesis without 3D Representation},
+      journal   = {arXiv},
+      year      = {2023},
+    }
