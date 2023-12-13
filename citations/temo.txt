@@ -1,0 +1,8 @@
+@misc{zhang2023temo,
+      title={TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes}, 
+      author={Xuying Zhang and Bo-Wen Yin and Yuming Chen and Zheng Lin and Yunheng Li and Qibin Hou and Ming-Ming Cheng},
+      year={2023},
+      eprint={2312.04248},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

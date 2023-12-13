@@ -1,0 +1,8 @@
+@misc{huang2023dreamcontrol,
+      title={DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior}, 
+      author={Tianyu Huang and Yihan Zeng and Zhilu Zhang and Wan Xu and Hang Xu and Songcen Xu and Rynson W. H. Lau and Wangmeng Zuo},
+      year={2023},
+      eprint={2312.06439},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

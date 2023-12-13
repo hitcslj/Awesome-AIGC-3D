@@ -77,6 +77,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [DreamComposer: Controllable 3D Object Generation via Multi-View Conditions](https://yhyang-myron.github.io/DreamComposer/), Yang et al., Arxiv 2023 | [github](https://github.com/yhyang-myron/DreamComposer) | [bibtex](./citations/dreamcomposer.txt)
 - [Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views](https://cascadezero123.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/AbrahamYabo/Cascade-Zero123) | [bibtex](./citations/cascadeZero123.txt)
 - [Free3D: Consistent Novel View Synthesis without 3D Representation](https://chuanxiaz.com/free3d/), Zheng et al., Arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D) | [bibtex](./citations/free3d.txt)
+ 
 
 </details>
 
@@ -116,6 +117,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Control3D: Towards Controllable Text-to-3D Generation](https://Arxiv.org/abs/2311.05461), Chen et al., ACM Multimedia 2023 | [bibtex](./citations/control3d.txt)
 - [IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts](https://Arxiv.org/abs/2310.05375), Zeng et al., Arxiv 2023 | [bibtex](./citations/ipdreamer.txt)
 - [ControlDreamer: Stylized 3D Generation with Multi-View ControlNet](https://controldreamer.github.io/), Oh et al., Arxiv 2023 |  [github](https://github.com/oyt9306/ControlDreamer) | [bibtex](./citations/controldreamer.txt)
+- [DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior](https://arxiv.org/abs/2312.06439), Huang et al., Arxiv 2023 |  [github](https://github.com/tyhuang0428/DreamControl) | [bibtex](./citations/dreamcontrol.txt)
 
 </details>
 
