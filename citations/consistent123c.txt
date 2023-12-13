@@ -1,0 +1,8 @@
+@misc{lin2023consistent123,
+      title={Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors}, 
+      author={Yukang Lin and Haonan Han and Chaoqun Gong and Zunnan Xu and Yachao Zhang and Xiu Li},
+      year={2023},
+      eprint={2309.17261},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
