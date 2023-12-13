@@ -1,0 +1,6 @@
+@article{prabhu2023inpaint,
+  author    = {Prabhu, Kira and Wu, Jane and Tsai, Lynn and Hedman, Peter and Goldman, Dan B and Poole, Ben and Broxton, Michael},
+  title     = {Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion},
+  journal   = {arXiv preprint arXiv:2312.03869},
+  year      = {2023},
+}
