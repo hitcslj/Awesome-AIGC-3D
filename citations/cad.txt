@@ -1,0 +1,6 @@
+@article{liu2023HeadArtist,
+  author = {Hongyu Liu, Xuan Wang, Ziyu Wan, Yujun Shen, Yibing Song, Jing Liao, Qifeng Chen},
+  title = {HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation},
+  journal = {arXiv:xxxx},
+  year = {2023},
+}
