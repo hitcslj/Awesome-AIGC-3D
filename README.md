@@ -108,6 +108,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://buaacyw.github.io/gaussian-editor/), Chen et al., Arxiv 2023 |  [github](https://github.com/buaacyw/GaussianEditor) | [bibtex](./citations/gaussianeditor.txt)
 - [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://gaussianeditor.github.io/), Fang et al., Arxiv 2023 | [bibtex](./citations/gaussianEditor2.txt)
 - [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732), Ye et al., Arxiv 2023 |  [github](https://github.com/lkeab/gaussian-grouping) | [bibtex](./citations/gaussian-group.txt)
+- [AGAP:Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://felixcheng97.github.io/AGAP/), Cheng et al., Arxiv 2023 |  [github](https://github.com/felixcheng97/AGAP) | [bibtex](./citations/AGAP.txt)
 
 
 </details>

@@ -1,0 +1,7 @@
+@article{cheng2023learning,
+    title   = {Learning Naturally Aggregated Appearance for Efficient 3D Editing},
+    author  = {Ka Leong Cheng and Qiuyu Wang and Zifan Shi and Kecheng Zheng and Yinghao Xu and Hao Ouyang and Qifeng Chen and Yujun Shen},
+    journal = {arXiv:2312.06657},
+    website = {https://felixcheng97.github.io/AGAP/},
+    year    = {2023},
+}
