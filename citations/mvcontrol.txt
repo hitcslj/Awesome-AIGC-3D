@@ -1,0 +1,8 @@
+@misc{li2023mvcontrol,
+      title={MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation}, 
+      author={Zhiqi Li and Yiming Chen and Lingzhe Zhao and Peidong Liu},
+      year={2023},
+      eprint={2311.14494},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

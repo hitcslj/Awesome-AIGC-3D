@@ -108,7 +108,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://buaacyw.github.io/gaussian-editor/), Chen et al., Arxiv 2023 |  [github](https://github.com/buaacyw/GaussianEditor) | [bibtex](./citations/gaussianeditor.txt)
 - [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://gaussianeditor.github.io/), Fang et al., Arxiv 2023 | [bibtex](./citations/gaussianEditor2.txt)
 - [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732), Ye et al., Arxiv 2023 |  [github](https://github.com/lkeab/gaussian-grouping) | [bibtex](./citations/gaussian-group.txt)
-- [AGAP:Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://felixcheng97.github.io/AGAP/), Cheng et al., Arxiv 2023 |  [github](https://github.com/felixcheng97/AGAP) | [bibtex](./citations/AGAP.txt)
+- [AGAP:Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://felixcheng97.github.io/AGAP/), Cheng et al., Arxiv 2023 |  [github](https://github.com/WU-CVGL/MVControl) | [bibtex](./citations/mvcontrol.txt)
 
 
 </details>
@@ -120,6 +120,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts](https://Arxiv.org/abs/2310.05375), Zeng et al., Arxiv 2023 | [bibtex](./citations/ipdreamer.txt)
 - [ControlDreamer: Stylized 3D Generation with Multi-View ControlNet](https://controldreamer.github.io/), Oh et al., Arxiv 2023 |  [github](https://github.com/oyt9306/ControlDreamer) | [bibtex](./citations/controldreamer.txt)
 - [DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior](https://arxiv.org/abs/2312.06439), Huang et al., Arxiv 2023 |  [github](https://github.com/tyhuang0428/DreamControl) | [bibtex](./citations/dreamcontrol.txt)
+- [MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation](https://lizhiqi49.github.io/MVControl/), Li et al., Arxiv 2023 |  [github](https://github.com/tyhuang0428/DreamControl) | [bibtex](./citations/dreamcontrol.txt)
 
 </details>
 
