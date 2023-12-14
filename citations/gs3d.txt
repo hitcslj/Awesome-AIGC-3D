@@ -1,0 +1,6 @@
+@article{vilesov23cg3d,
+  author    = {Vilesov, Alexander and Chari, Pradyumna and Kadambi, Achuta},
+  title     = {CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting},
+  journal   = {Arxiv},
+  year      = {2023},
+}

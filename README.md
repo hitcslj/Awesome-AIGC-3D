@@ -89,10 +89,11 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [Gsgen: Text-to-3D using Gaussian Splatting](https://gsgen3d.github.io/), Chen et al., Arxiv 2023 | [github](https://github.com/gsgen3d/gsgen) | [bibtex](./citations/gsgen.txt)
 - [LRM: Large Reconstruction Model for Single Image to 3D](https://yiconghong.me/LRM/), Hong et al., Arxiv 2023 | [bibtex](./citations/lrm.txt)
 - [Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model](https://jiahao.ai/instant3d/), Li et al., Arxiv 2023 | [bibtex](./citations/instant3d.txt) 
-- [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://dmv3d.github.io/)
+- [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://justimyhxu.github.io/projects/dmv3d/), Xu et al., Arxiv 2023 | [bibtex](./citations/dmv3d.txt) 
 - [Instant3D : Instant Text-to-3D Generation](https://ming1993li.github.io/Instant3DProj/), Li et al., Arxiv 2023 | [bibtex](./citations/instant3d_.txt) 
 - [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://threedle.github.io/hyperfields/), Babu et al., Arxiv 2023 | [github](https://github.com/threedle/hyperfields) | [bibtex](./citations/hyperfields.txt)
 - [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://taoranyi.com/gaussiandreamer/), Yi et al., Arxiv 2023 | [github](https://github.com/hustvl/GaussianDreamer) | [bibtex](./citations/gaussianDreamer.txt)
+- [CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting](https://asvilesov.github.io/CG3D/), Vilesov et al., Arxiv 2023 | [bibtex](./citations/gc3d.txt) 
 
 </details>
 

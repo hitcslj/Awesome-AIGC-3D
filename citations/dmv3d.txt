@@ -1,0 +1,8 @@
+@misc{xu2023dmv3d,
+      title={DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model}, 
+      author={Yinghao Xu and Hao Tan and Fujun Luan and Sai Bi and Peng Wang and Jiahao Li and Zifan Shi and Kalyan Sunkavalli and Gordon Wetzstein and Zexiang Xu and Kai Zhang},
+      year={2023},
+      eprint={2311.09217},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
