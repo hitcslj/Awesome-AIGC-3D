@@ -1,0 +1,6 @@
+@article{ding2023text,
+      title={Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors}, 
+      author={Ding, Lihe and Dong, Shaocong, and Huang, Zhanpeng, and Wang, Zibin and Zhang, Yiyuan and Gong, Kaixiong and Xu, Dan and Xue, Tianfan},
+      journal={arXiv preprint arXiv:2312.04963},
+      year={2023},
+}
