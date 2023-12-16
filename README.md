@@ -200,6 +200,7 @@ for Robust Text-to-3D Generation](https://ku-cvlab.github.io/3DFuse/), Seo et al
 - [ControlRoom3D:Room Generation using Semantic Proxy Rooms](https://jonasschult.github.io/ControlRoom3D/), Schult et al., Arxiv 2023 | [bibtext](./citations/controlroom3d.txt)
 - [AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes](https://arxiv.org/abs/2312.06644), Wen et al., Arxiv 2023 | [bibtext](./citations/anyhome.txt)
 - [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://inpaint3d.github.io/), Prabhu et al., Arxiv 2023 | [bibtext](./citations/inpaint3d.txt)
+- [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://zqh0253.github.io/SceneWiz3D/), Zhang et al., Arxiv 2023 | [github](https://github.com/zqh0253/SceneWiz3D) | [bibtext](./citations/scenewiz3d.txt)
 
 
 <details open>

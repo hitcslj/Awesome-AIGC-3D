@@ -1,0 +1,6 @@
+@inproceedings{zhang2023scenewiz3d,
+        author = {Qihang Zhang and Chaoyang Wang and Aliaksandr Siarohin and Peiye Zhuang and Yinghao Xu and Ceyuan Yang and Dahua Lin and Bo Dai and Bolei Zhou and Sergey Tulyakov and Hsin-Ying Lee},
+        title = {{SceneWiz3D}: Towards Text-guided {3D} Scene Composition},
+        booktitle = {arXiv},
+        year = {2023}
+      }
