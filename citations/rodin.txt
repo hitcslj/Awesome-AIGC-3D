@@ -1,0 +1,7 @@
+@inproceedings{wang2023rodin,
+  title={Rodin: A generative model for sculpting 3d digital avatars using diffusion},
+  author={Wang, Tengfei and Zhang, Bo and Zhang, Ting and Gu, Shuyang and Bao, Jianmin and Baltrusaitis, Tadas and Shen, Jingjing and Chen, Dong and Wen, Fang and Chen, Qifeng and others},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={4563--4573},
+  year={2023}
+}
