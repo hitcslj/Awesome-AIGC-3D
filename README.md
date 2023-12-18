@@ -51,6 +51,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/abs/2312.02189), Guo et al., Arxiv 2023 | [bibtex](./citations/stabledreamer.txt)
 - [CAD: Photorealistic 3D Generation via Adversarial Distillation](http://raywzy.com/CAD/), Wan et al., Arxiv 2023 | [github](https://github.com/raywzy/CAD) | [bibtex](./citations/CAD.txt)
 - [BiDiff: Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors](https://bidiff.github.io/), Ding et al., Arxiv 2023 | [github](https://github.com/BiDiff/bidiff) | [bibtex](./citations/bidiff.txt)
+- [SSD: Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), Tang et al., Arxiv 2023 | [bibtex](./citations/ssd.txt)
 
 
 </details>
@@ -167,6 +168,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
 - [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://humannorm.github.io/), Huang et al., Arxiv 2023 | [bibtex](./citations/humannorm.txt)
 - [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation](https://kumapowerliu.github.io/HeadArtist/), Liu et al., Arxiv 2023 | [bibtex](./citations/headArtist.txt)
+- [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2312.09228), Qian et al., Arxiv 2023 |  [github](https://github.com/mikeqzy/3dgs-avatar-release) | [bibtex](./citations/3dgsAvatar.txt)
 
 </details>
 

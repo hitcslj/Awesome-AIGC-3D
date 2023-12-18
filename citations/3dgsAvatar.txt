@@ -1,0 +1,8 @@
+ @misc{qian20233dgsavatar,
+      title={3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting}, 
+      author={Zhiyin Qian and Shaofei Wang and Marko Mihajlovic and Andreas Geiger and Siyu Tang},
+      year={2023},
+      eprint={2312.09228},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

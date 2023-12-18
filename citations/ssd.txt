@@ -1,0 +1,8 @@
+@misc{tang2023stable,
+      title={Stable Score Distillation for High-Quality 3D Generation}, 
+      author={Boshi Tang and Jianan Wang and Zhiyong Wu and Lei Zhang},
+      year={2023},
+      eprint={2312.09305},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
