@@ -1,0 +1,8 @@
+@misc{ouyang2023text2immersion,
+      title={Text2Immersion: Generative Immersive Scene with 3D Gaussians}, 
+      author={Hao Ouyang and Kathryn Heal and Stephen Lombardi and Tiancheng Sun},
+      year={2023},
+      eprint={2312.09242},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

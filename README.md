@@ -148,6 +148,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes](https://arxiv.org/abs/2312.06644), Wen et al., Arxiv 2023 | [bibtext](./citations/anyhome.txt)
 - [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://inpaint3d.github.io/), Prabhu et al., Arxiv 2023 | [bibtext](./citations/inpaint3d.txt)
 - [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://zqh0253.github.io/SceneWiz3D/), Zhang et al., Arxiv 2023 | [github](https://github.com/zqh0253/SceneWiz3D) | [bibtext](./citations/scenewiz3d.txt)
+- [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://arxiv.org/abs/2312.09242), Ouyang et al., Arxiv 2023 | [bibtext](./citations/text2immersion.txt)
 
 
 <details open>
