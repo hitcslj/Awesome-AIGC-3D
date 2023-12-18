@@ -1,0 +1,8 @@
+@misc{mitchel2023single,
+      title={Single Mesh Diffusion Models with Field Latents for Texture Generation}, 
+      author={Thomas W. Mitchel and Carlos Esteves and Ameesh Makadia},
+      year={2023},
+      eprint={2312.09250},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
