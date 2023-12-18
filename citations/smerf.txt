@@ -1,0 +1,8 @@
+@misc{duckworth2023smerf,
+      title={SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene Exploration}, 
+      author={Daniel Duckworth and Peter Hedman and Christian Reiser and Peter Zhizhin and Jean-François Thibert and Mario Lučić and Richard Szeliski and Jonathan T. Barron},
+      year={2023},
+      eprint={2312.07541},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
