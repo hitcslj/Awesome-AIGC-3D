@@ -1,0 +1,6 @@
+@article{,
+    title={Triplane Meets Gaussian Splatting: Fast and Generalizable Single-View 3D Reconstruction with Transformers},
+    author={Zi-Xin Zou, Zhipeng Yu, Yuan-Chen Guo, Yangguang Li, Ding Liang, Yan-Pei Cao, Song-Hai Zhang},
+    journal={arXiv preprint arXiv:2312.09147},
+    year={2023}
+}
