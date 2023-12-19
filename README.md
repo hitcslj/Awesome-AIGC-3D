@@ -52,7 +52,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [CAD: Photorealistic 3D Generation via Adversarial Distillation](http://raywzy.com/CAD/), Wan et al., Arxiv 2023 | [github](https://github.com/raywzy/CAD) | [bibtex](./citations/CAD.txt)
 - [BiDiff: Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors](https://bidiff.github.io/), Ding et al., Arxiv 2023 | [github](https://github.com/BiDiff/bidiff) | [bibtex](./citations/bidiff.txt)
 - [SSD: Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), Tang et al., Arxiv 2023 | [bibtex](./citations/ssd.txt)
-
+- [UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation](https://yg256li.github.io/UniDream/), Liu et al., Arxiv 2023 | [github](https://yg256li.github.io/UniDream/) | [bibtex](./citations/unidream.txt)
 
 </details>
 

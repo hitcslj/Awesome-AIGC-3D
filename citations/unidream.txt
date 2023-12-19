@@ -1,0 +1,8 @@
+@misc{liu2023unidream,
+      title={UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation}, 
+      author={Zexiang Liu and Yangguang Li and Youtian Lin and Xin Yu and Sida Peng and Yan-Pei Cao and Xiaojuan Qi and Xiaoshui Huang and Ding Liang and Wanli Ouyang},
+      year={2023},
+      eprint={2312.08754},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
