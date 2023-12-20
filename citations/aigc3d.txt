@@ -1,0 +1,8 @@
+@misc{li2023generative,
+      title={Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era}, 
+      author={Chenghao Li and Chaoning Zhang and Atish Waghwase and Lik-Hang Lee and Francois Rameau and Yang Yang and Sung-Ho Bae and Choong Seon Hong},
+      year={2023},
+      eprint={2305.06131},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
