@@ -1,0 +1,9 @@
+@misc{
+  youwang2023paintit,
+  title={Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering}, 
+  author={Kim Youwang and Tae-Hyun Oh and Gerard Pons-Moll},
+  year={2023},
+  eprint={2312.11360},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
