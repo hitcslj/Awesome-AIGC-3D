@@ -1,0 +1,8 @@
+@misc{yu2023textto3d,
+      title={Text-to-3D with Classifier Score Distillation}, 
+      author={Xin Yu and Yuan-Chen Guo and Yangguang Li and Ding Liang and Song-Hai Zhang and Xiaojuan Qi},
+      year={2023},
+      eprint={2310.19415},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
