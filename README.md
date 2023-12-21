@@ -224,6 +224,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773), Zhou et al., arxiv 2023 | [github](https://github.com/baaivision/Uni3D) | [bibtex](./citations/uni3d.txt)
 - [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene](https://smerf-3d.github.io/), Duckworth et al., arxiv 2023 | [bibtex](./citations/smerf.txt)
 - [Triplane Meets Gaussian Splatting:Fast and Generalizable Single-View 3D Reconstruction with Transformers](https://zouzx.github.io/TriplaneGaussian/), Zou et al., arxiv 2023 | [bibtex](./citations/tmgs.txt)
+- [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://yihua7.github.io/SC-GS-web/), Huang et al., arxiv 2023 | [github](https://github.com/yihua7/SC-GS) | [bibtex](./citations/scgs.txt)
+
 </details>
 
 <details open>
