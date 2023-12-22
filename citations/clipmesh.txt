@@ -1,0 +1,7 @@
+@article{khalid2022clipmesh}{
+ author ={Khalid, Nasir Mohammad and Xie, Tianhao and Belilovsky, Eugene and Tiberiu, Popa},
+ title = {CLIP-Mesh: Generating textured meshes from text using pretrained image-text models},
+ journal = {SIGGRAPH Asia 2022 Conference Papers},
+ month = {December},
+ year = {2022},
+}

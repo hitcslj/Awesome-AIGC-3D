@@ -1,0 +1,6 @@
+@inproceedings{ChenChenNeurIPS22,
+  title={TANGO: Text-driven Photorealistic and Robust 3D Stylization via Lighting Decomposition},
+  author={Yongwei Chen and Rui Chen and Jiabao Lei and Yabin Zhang and Kui Jia},
+  booktitle={Proceedings of the Neural Information Processing Systems (NeurIPS)},
+  year={2022}
+}
