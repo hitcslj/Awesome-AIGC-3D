@@ -79,7 +79,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [DreamComposer: Controllable 3D Object Generation via Multi-View Conditions](https://yhyang-myron.github.io/DreamComposer/), Yang et al., arxiv 2023 | [github](https://github.com/yhyang-myron/DreamComposer) | [bibtex](./citations/dreamcomposer.txt)
 - [Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views](https://cascadezero123.github.io/), Chen et al., arxiv 2023 | [github](https://github.com/AbrahamYabo/Cascade-Zero123) | [bibtex](./citations/cascadeZero123.txt)
 - [Free3D: Consistent Novel View Synthesis without 3D Representation](https://chuanxiaz.com/free3d/), Zheng et al., arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D) | [bibtex](./citations/free3d.txt)
- 
+- [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://junwuzhang19.github.io/repaint123/), Zhang et al., arxiv 2023 | [github](https://github.com/junwuzhang19/repaint123) | [bibtex](./citations/repaint123.txt)
 
 </details>
 
