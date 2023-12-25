@@ -1,0 +1,6 @@
+@article{ling2023alignyourgaussians,
+    title={Align Your Gaussians: Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models},
+    author={Ling, Huan and Kim, Seung Wook and Torralba, Antonio and Fidler, Sanja and Kreis, Karsten},
+    title={arXiv preprint arXiv:2312.13763},
+    year={2023}
+}
