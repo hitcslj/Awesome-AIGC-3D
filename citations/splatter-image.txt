@@ -1,0 +1,6 @@
+@inproceedings{szymanowicz23splatter,
+      title={Splatter Image: Ultra-Fast Single-View 3D Reconstruction},
+      author={Stanislaw Szymanowicz and Christian Rupprecht and Andrea Vedaldi},
+      year={2023},
+      booktitle={arXiv},
+}
