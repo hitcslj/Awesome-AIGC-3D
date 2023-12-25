@@ -1,0 +1,8 @@
+@misc{mao2023showroom3d,
+      title={ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors}, 
+      author={Weijia Mao and Yan-Pei Cao and Jia-Wei Liu and Zhongcong Xu and Mike Zheng Shou},
+      year={2023},
+      eprint={2312.13324},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
