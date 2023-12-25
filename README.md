@@ -182,6 +182,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Text-To-4D Dynamic Scene Generation](https://make-a-video3d.github.io/), Singer et al., arxiv 2023 | [bibtext](./citations/mav3d.txt) 
 - [MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion](https://guytevet.github.io/mas-page/), Kapon et al., arxiv 2023 | [github](https://github.com/roykapon/MAS) | [bibtext](./citations/mas.txt) 
 - [AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation](https://web1.arxiv.org/abs/2312.03795), Wang et al., arxiv 2023 | [bibtext](./citations/animatable-dreamer.txt) 
+- [Virtual Pets: Animatable Animal Generation in 3D Scenes](https://yccyenchicheng.github.io/VirtualPets/), Cheng et al., arxiv 2023 | [github](https://github.com/yccyenchicheng/VirtualPets) | [bibtext](./citations/virtual-pets.txt) 
 
 
 </details>

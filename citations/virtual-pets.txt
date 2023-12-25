@@ -1,0 +1,6 @@
+@inproceedings{cheng2023VirtualPets,
+  title = {{V}irtual {P}ets: Animatable Animal Generation in 3D Scenes},
+  author={Cheng, Yen-Chi and Lin, Chieh Hubert and Wang, Chaoyang and Kant, Yash and Tulyakov, Sergey and Schwing, Alexander G and Gui, Liangyan and Lee, Hsin-Ying},
+  journal = {arXiv preprint arXiv:2312.14154},
+  year={2023},
+}
