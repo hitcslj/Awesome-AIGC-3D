@@ -81,6 +81,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Free3D: Consistent Novel View Synthesis without 3D Representation](https://chuanxiaz.com/free3d/), Zheng et al., arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D) | [bibtex](./citations/free3d.txt)
 - [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://junwuzhang19.github.io/repaint123/), Zhang et al., arxiv 2023 | [github](https://github.com/junwuzhang19/repaint123) | [bibtex](./citations/repaint123.txt)
 - [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://szymanowiczs.github.io/splatter-image), Szymanowicz et al., arxiv 2023 | [github](https://github.com/szymanowiczs/splatter-image) | [bibtex](./citations/splatter-image.txt)
+- [Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning](https://desaixie.github.io/carve-3d/), Xie et al., arxiv 2023 | [bibtex](./citations/carve3d.txt)
 
 </details>
 

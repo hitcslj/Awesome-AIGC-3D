@@ -1,0 +1,8 @@
+@misc{xie2023carve3d,
+    title={Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning},
+    author={Desai Xie and Jiahao Li and Hao Tan and Xin Sun and Zhixin Shu and Yi Zhou and Sai Bi and Sören Pirk and Arie E. Kaufman},
+    year={2023},
+    eprint={2312.13980},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
