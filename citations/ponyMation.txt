@@ -1,0 +1,6 @@
+@Article{sun2023ponymation,
+  title     = {Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos},
+  author    = {Keqiang Sun and Dor Litvak and Yunzhi Zhang and Hongsheng Li and Jiajun Wu and Shangzhe Wu},
+  journal   = {arXiv preprint arXiv:2312.13604},
+  year      = {2023}
+}

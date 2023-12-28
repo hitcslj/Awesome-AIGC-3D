@@ -186,6 +186,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation](https://web1.arxiv.org/abs/2312.03795), Wang et al., arxiv 2023 | [bibtext](./citations/animatable-dreamer.txt) 
 - [Virtual Pets: Animatable Animal Generation in 3D Scenes](https://yccyenchicheng.github.io/VirtualPets/), Cheng et al., arxiv 2023 | [github](https://github.com/yccyenchicheng/VirtualPets) | [bibtext](./citations/virtual-pets.txt) 
 - [Align Your Gaussians:Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/), Ling et al., arxiv 2023 [bibtext](./citations/aligngaussian.txt) 
+- [Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos](https://keqiangsun.github.io/projects/ponymation/), Sun et al., arxiv 2023 | [bibtext](./citations/ponyMation.txt) 
 
 
 
