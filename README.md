@@ -187,6 +187,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Virtual Pets: Animatable Animal Generation in 3D Scenes](https://yccyenchicheng.github.io/VirtualPets/), Cheng et al., arxiv 2023 | [github](https://github.com/yccyenchicheng/VirtualPets) | [bibtext](./citations/virtual-pets.txt) 
 - [Align Your Gaussians:Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models](https://research.nvidia.com/labs/toronto-ai/AlignYourGaussians/), Ling et al., arxiv 2023 [bibtext](./citations/aligngaussian.txt) 
 - [Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos](https://keqiangsun.github.io/projects/ponymation/), Sun et al., arxiv 2023 | [bibtext](./citations/ponyMation.txt) 
+- [4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency](https://vita-group.github.io/4DGen/), Yin et al., arxiv 2023 | [github](https://github.com/VITA-Group/4DGen) | [bibtext](./citations/4dgen.txt) 
 
 
 

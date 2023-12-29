@@ -1,0 +1,8 @@
+@misc{yin20234dgen,
+      title={4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency}, 
+      author={Yuyang Yin and Dejia Xu and Zhangyang Wang and Yao Zhao and Yunchao Wei},
+      year={2023},
+      eprint={2312.17225},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
