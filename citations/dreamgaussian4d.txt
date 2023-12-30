@@ -1,0 +1,6 @@
+@article{ren2023dreamgaussian4d,
+  title={DreamGaussian4D: Generative 4D Gaussian Splatting},
+  author={Ren, Jiawei and Pan, Liang and Tang, Jiaxiang and Zhang, Chi and Cao, Ang and Zeng, Gang and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2312.17142},
+  year={2023}
+}
