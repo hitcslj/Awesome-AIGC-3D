@@ -1,0 +1,6 @@
+@article{wang2023imagedream,
+  title={ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation},
+  author={Wang, Peng and Shi, Yichun},
+  journal={arXiv preprint arXiv:2312.02201},
+  year={2023}
+}
