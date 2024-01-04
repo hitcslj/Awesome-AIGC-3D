@@ -1,0 +1,6 @@
+@article{wu2023ifusion,
+  author = {Wu, Chin-Hsuan and Chen, Yen-Chun, Solarte, Bolivar and Yuan, Lu and Sun, Min},
+  title = {iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views},
+  journal = {arXiv preprint arXiv:2312.17250},
+  year = {2023}
+}

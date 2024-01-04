@@ -84,6 +84,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning](https://desaixie.github.io/carve-3d/), Xie et al., arxiv 2023 | [bibtex](./citations/carve3d.txt)
 - [HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D](https://byeongjun-park.github.io/HarmonyView/), Woo et al., arxiv 2023 | [github](https://github.com/byeongjun-park/HarmonyView) | [bibtex](./citations/harmonyView.txt)
 - [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://image-dream.github.io/), Wang et al., arxiv 2023 | [github](https://github.com/bytedance/ImageDream) | [bibtex](./citations/imageDream.txt)
+- [iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views](https://chinhsuanwu.github.io/ifusion/), Wu et al., arxiv 2023 | [github](https://github.com/chinhsuanwu/ifusion) | [bibtex](./citations/ifusion.txt)
 
 </details>
 
