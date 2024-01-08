@@ -1,0 +1,6 @@
+@inproceeding{signerf,
+  author ={Dihlmann, Jan-Niklas and Engelhardt, Andreas and Lensch, Hendrik P.A.},
+  title ={SIGNeRF: Scene Integrated Generation for Neural Radiance Fields},
+  booktitle ={arXiv preprint arXiv:2401.01647},
+  year ={2023}
+}
