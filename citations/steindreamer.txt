@@ -1,0 +1,6 @@
+@article{wang2023steindreamer,
+  title={SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity},
+  author={Wang, Peihao and Fan, Zhiwen and Xu, Dejia and Wang, Dilin and Mohan, Sreyas and Iandola, Forrest and Ranjan, Rakesh and Li, Yilei and Liu, Qiang and Wang, Zhangyang and others},
+  journal={arXiv preprint arXiv:2401.00604},
+  year={2023}
+}

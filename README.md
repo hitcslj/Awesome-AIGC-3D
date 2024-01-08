@@ -54,6 +54,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [SSD: Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), Tang et al., arxiv 2023 | [bibtex](./citations/ssd.txt)
 - [UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation](https://yg256li.github.io/UniDream/), Liu et al., arxiv 2023 | [github](https://yg256li.github.io/UniDream/) | [bibtex](./citations/unidream.txt)
 - [Text-to-3D with Classifier Score Distillation](https://xinyu-andy.github.io/Classifier-Score-Distillation/), Yu et al., arxiv 2023 | [github](https://github.com/CVMI-Lab/Classifier-Score-Distillation) | [bibtex](./citations/csd.txt)
+- [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://vita-group.github.io/SteinDreamer/), Wang et al., arxiv 2023 | [github](https://github.com/VITA-Group/SteinDreamer) | [bibtex](./citations/steindreamer.txt)
 
 </details>
 
