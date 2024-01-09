@@ -1,0 +1,6 @@
+@article{wang2024esd,
+  title={Taming Mode Collapse in Score Distillation for Text-to-3D Generation},
+  author={Wang, Peihao and Xu, Dejia and Fan, Zhiwen and Wang, Dilin and Mohan, Sreyas and Iandola, Forrest and Ranjan, Rakesh and Li, Yilei and Liu, Qiang and Wang, Zhangyang and Chandra, Vikas},
+  journal={arXiv preprint: 2401.00909},
+  year={2024}
+}

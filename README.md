@@ -55,7 +55,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation](https://yg256li.github.io/UniDream/), Liu et al., arxiv 2023 | [github](https://yg256li.github.io/UniDream/) | [bibtex](./citations/unidream.txt)
 - [Text-to-3D with Classifier Score Distillation](https://xinyu-andy.github.io/Classifier-Score-Distillation/), Yu et al., arxiv 2023 | [github](https://github.com/CVMI-Lab/Classifier-Score-Distillation) | [bibtex](./citations/csd.txt)
 - [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://vita-group.github.io/SteinDreamer/), Wang et al., arxiv 2023 | [github](https://github.com/VITA-Group/SteinDreamer) | [bibtex](./citations/steindreamer.txt)
-- [Taming Mode Collapse in Score Distillation for Text-to-3D Generation](https://vita-group.github.io/3D-Mode-Collapse/), Wang et al., arxiv 2023 | [github](https://github.com/VITA-Group/3D-Mode-Collapse) | [bibtex](./citations/3d-mode-collapse.txt)
+- [Taming Mode Collapse in Score Distillation for Text-to-3D Generation](https://vita-group.github.io/3D-Mode-Collapse/), Wang et al., arxiv 2024 | [github](https://github.com/VITA-Group/3D-Mode-Collapse) | [bibtex](./citations/3d-mode-collapse.txt)
 
 </details>
 
@@ -236,6 +236,9 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://nihalsid.github.io/mesh-gpt/), Siddiqui et al., arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
 - [SPiC·E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention](https://tau-vailab.github.io/spic-e/), Sella et al., arxiv 2023 | [github](https://github.com/TAU-VAILab/spic-e) | [bibtex](./citations/spice.txt)
 - [X3: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://research.nvidia.com/labs/toronto-ai/xcube/), Ren et al., arxiv 2023 | [bibtex](./citations/xcube.txt)
+- [MagicPony: Learning Articulated 3D Animals in the Wild](https://3dmagicpony.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/magicpony.txt)
+- [Learning the 3D Fauna of the Web](https://kyleleey.github.io/3DFauna/), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
+
 
 </details>
 

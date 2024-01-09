@@ -1,0 +1,6 @@
+@InProceedings{wu2023magicpony,
+  author    = {Shangzhe Wu and Ruining Li and Tomas Jakab and Christian Rupprecht and Andrea Vedaldi},
+  title     = {{MagicPony}: Learning Articulated 3D Animals in the Wild},
+  booktitle = {CVPR},
+  year      = {2023}
+}
