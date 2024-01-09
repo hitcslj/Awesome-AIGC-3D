@@ -159,6 +159,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://zqh0253.github.io/SceneWiz3D/), Zhang et al., arxiv 2023 | [github](https://github.com/zqh0253/SceneWiz3D) | [bibtext](./citations/scenewiz3d.txt)
 - [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://arxiv.org/abs/2312.09242), Ouyang et al., arxiv 2023 | [bibtext](./citations/text2immersion.txt)
 - [ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors](https://showroom3d.github.io/), Mao et al., arxiv 2023 | [github](https://github.com/showlab/ShowRoom3D) | [bibtext](./citations/showRoom3d.txt)
+- [FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding](https://arxiv.org/abs/2401.01970), Zuo et al., arxiv 2024 | [bibtext](./citations/fmgs.txt)
 
 <details close>
 <summary>Procedural 3D Modeling</summary>

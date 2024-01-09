@@ -1,0 +1,8 @@
+@misc{zuo2024fmgs,
+      title={FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding}, 
+      author={Xingxing Zuo and Pouya Samangouei and Yunwen Zhou and Yan Di and Mingyang Li},
+      year={2024},
+      eprint={2401.01970},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
