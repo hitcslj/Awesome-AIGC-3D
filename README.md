@@ -284,6 +284,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 - [Objaverse-XL](https://objaverse.allenai.org/), Deitke et al., NeurIPS 2023 | [github](https://github.com/allenai/objaverse-xl) | [bibtext](./citations/objaverse-xl.txt) 
 - [G-buffer Objaverse: High-Quality Rendering Dataset of Objaverse](https://aigc3d.github.io/gobjaverse/), Xu et al.
+- [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://arxiv.org/abs/2401.04092), Wu et al., arXiv 2024 | [github](https://github.com/3DTopia/GPTEval3D) | [bibtext](./citations/gpt4v.txt) 
 
 
 ## Talks

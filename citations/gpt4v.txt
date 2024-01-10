@@ -1,0 +1,8 @@
+@misc{wu2024gpt4vision,
+      title={GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation}, 
+      author={Tong Wu and Guandao Yang and Zhibing Li and Kai Zhang and Ziwei Liu and Leonidas Guibas and Dahua Lin and Gordon Wetzstein},
+      year={2024},
+      eprint={2401.04092},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
