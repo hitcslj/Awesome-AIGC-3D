@@ -1,0 +1,8 @@
+@misc{xu2024agg,
+      title={AGG: Amortized Generative 3D Gaussians for Single Image to 3D}, 
+      author={Dejia Xu and Ye Yuan and Morteza Mardani and Sifei Liu and Jiaming Song and Zhangyang Wang and Arash Vahdat},
+      year={2024},
+      eprint={2401.04099},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
