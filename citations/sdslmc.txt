@@ -1,0 +1,8 @@
+@misc{alldieck2024score,
+      title={Score Distillation Sampling with Learned Manifold Corrective}, 
+      author={Thiemo Alldieck and Nikos Kolotouros and Cristian Sminchisescu},
+      year={2024},
+      eprint={2401.05293},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
