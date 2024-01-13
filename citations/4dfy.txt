@@ -1,0 +1,6 @@
+@article{bahmani20234d,
+  title={4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling},
+  author={Bahmani, Sherwin and Skorokhodov, Ivan and Rong, Victor and Wetzstein, Gordon and Guibas, Leonidas and Wonka, Peter and Tulyakov, Sergey and Park, Jeong Joon and Tagliasacchi, Andrea and Lindell, David B.},
+  journal={arXiv preprint arXiv:2311.17984},
+  year={2023}
+}
