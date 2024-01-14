@@ -59,7 +59,9 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 <details open>
 <summary>SDS understanding and improve</summary>
 
+
 - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://ml.cs.tsinghua.edu.cn/prolificdreamer/), Wang et al., NeurIPS 2023 | [github](https://github.com/thu-ml/prolificdreamer) | [bibtex](./citations/prolificdreamer.txt)
+- [NFSD: Noise Free Score Distillation](https://orenkatzir.github.io/nfsd/), Katzir et al., arxiv 2023 | [github](https://github.com/orenkatzir/nfsd) | [bibtex](./citations/nfsd.txt)
 - [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/abs/2311.11284), Liang et al., arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer) | [bibtex](./citations/luciddreamer-object.txt)
 - [Text-to-3D with Classifier Score Distillation](https://xinyu-andy.github.io/Classifier-Score-Distillation/), Yu et al., arxiv 2023 | [github](https://github.com/CVMI-Lab/Classifier-Score-Distillation) | [bibtex](./citations/csd.txt)
 - [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/abs/2312.02189), Guo et al., arxiv 2023 | [bibtex](./citations/stabledreamer.txt)

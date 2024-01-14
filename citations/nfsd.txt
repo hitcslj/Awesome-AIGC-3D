@@ -1,0 +1,8 @@
+@misc{katzir2023noisefree,
+      title={Noise-Free Score Distillation}, 
+      author={Oren Katzir and Or Patashnik and Daniel Cohen-Or and Dani Lischinski},
+      year={2023},
+      eprint={2310.17590},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
