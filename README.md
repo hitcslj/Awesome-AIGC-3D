@@ -177,6 +177,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors](https://showroom3d.github.io/), Mao et al., arxiv 2023 | [github](https://github.com/showlab/ShowRoom3D) | [bibtext](./citations/showRoom3d.txt)
 - [FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding](https://arxiv.org/abs/2401.01970), Zuo et al., arxiv 2024 | [bibtext](./citations/fmgs.txt)
 
+
 <details close>
 <summary>Procedural 3D Modeling</summary>
 
@@ -258,7 +259,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [X3: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://research.nvidia.com/labs/toronto-ai/xcube/), Ren et al., arxiv 2023 | [bibtex](./citations/xcube.txt)
 - [MagicPony: Learning Articulated 3D Animals in the Wild](https://3dmagicpony.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/magicpony.txt)
 - [Learning the 3D Fauna of the Web](https://kyleleey.github.io/3DFauna/), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
-
+- [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610), Xie et al., arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtext](./citations/cityDreamer.txt)
 
 </details>
 

@@ -1,0 +1,9 @@
+@journal{xie2023citydreamer,
+  title   = {City{D}reamer: Compositional Generative Model of Unbounded 3{D} Cities},
+  author  = {Xie, Haozhe and 
+             Chen, Zhaoxi and 
+             Hong, Fangzhou and 
+             Liu, Ziwei},
+  journal = {arXiv 2309.00610},
+  year    = {2023}
+}
