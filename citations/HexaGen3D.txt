@@ -1,0 +1,8 @@
+@misc{mercier2024hexagen3d,
+      title={HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation}, 
+      author={Antoine Mercier and Ramin Nakhli and Mahesh Reddy and Rajeev Yasarla and Hong Cai and Fatih Porikli and Guillaume Berger},
+      year={2024},
+      eprint={2401.07727},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
