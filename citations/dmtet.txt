@@ -1,0 +1,8 @@
+@article{shen2021deep,
+  title={Deep marching tetrahedra: a hybrid representation for high-resolution 3d shape synthesis},
+  author={Shen, Tianchang and Gao, Jun and Yin, Kangxue and Liu, Ming-Yu and Fidler, Sanja},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={6087--6101},
+  year={2021}
+}

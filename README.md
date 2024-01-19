@@ -228,12 +228,12 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 <summary>3D Representation</summary>
 
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://www.matthewtancik.com/nerf), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./citations/nerf.txt)
+- [Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis](https://arxiv.org/abs/2111.04276), Shen et al., arxiv 2021 | [bibtex](./citations/dmtet.txt)
 - [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/), Kerbl et al., TOG 2023 | [github](https://github.com/graphdeco-inria/gaussian-splatting) | [bibtex](./citations/3dgaussian.txt)
 - [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773), Zhou et al., arxiv 2023 | [github](https://github.com/baaivision/Uni3D) | [bibtex](./citations/uni3d.txt)
 - [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene](https://smerf-3d.github.io/), Duckworth et al., arxiv 2023 | [bibtex](./citations/smerf.txt)
 - [Triplane Meets Gaussian Splatting:Fast and Generalizable Single-View 3D Reconstruction with Transformers](https://zouzx.github.io/TriplaneGaussian/), Zou et al., arxiv 2023 | [bibtex](./citations/tmgs.txt)
 - [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://yihua7.github.io/SC-GS-web/), Huang et al., arxiv 2023 | [github](https://github.com/yihua7/SC-GS) | [bibtex](./citations/scgs.txt)
-
 </details>
 
 <details close>
