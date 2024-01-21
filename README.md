@@ -104,7 +104,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://image-dream.github.io/), Wang et al., arxiv 2023 | [github](https://github.com/bytedance/ImageDream) | [bibtex](./citations/imageDream.txt)
 - [iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views](https://chinhsuanwu.github.io/ifusion/), Wu et al., arxiv 2023 | [github](https://github.com/chinhsuanwu/ifusion) | [bibtex](./citations/ifusion.txt)
 - [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://arxiv.org/abs/2401.04099), Xu et al., arxiv 2024 | [bibtex](./citations/agg.txt)
-
+- [Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior](https://arxiv.org/abs/2401.09050), Wu et al., arxiv 2024 | [bibtex](./citations/consistent3d.txt)
 
 </details>
 
@@ -217,7 +217,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos](https://keqiangsun.github.io/projects/ponymation/), Sun et al., arxiv 2023 | [bibtext](./citations/ponyMation.txt) 
 - [4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency](https://vita-group.github.io/4DGen/), Yin et al., arxiv 2023 | [github](https://github.com/VITA-Group/4DGen) | [bibtext](./citations/4dgen.txt) 
 - [DreamGaussian4D: Generative 4D Gaussian Splatting](https://jiawei-ren.github.io/projects/dreamgaussian4d/), Ren et al., arxiv 2023 | [github](https://github.com/jiawei-ren/dreamgaussian4d) | [bibtext](./citations/dreamgaussian4d.txt) 
-
+- [Fast Dynamic 3D Object Generation from a Single-view Video](https://arxiv.org/abs/2401.08742), Pan et al., arxiv 2024 | [github](https://github.com/fudan-zvg/Efficient4D) | [bibtext](./citations/efficient4d.txt)
 
 
 </details>

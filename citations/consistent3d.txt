@@ -1,0 +1,8 @@
+@misc{wu2024consistent3d,
+      title={Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior}, 
+      author={Zike Wu and Pan Zhou and Xuanyu Yi and Xiaoding Yuan and Hanwang Zhang},
+      year={2024},
+      eprint={2401.09050},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
