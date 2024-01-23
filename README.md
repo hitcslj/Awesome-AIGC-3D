@@ -16,6 +16,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Papers](#papers)
 - [Benchmarks and Datasets](#Benchmarks-and-Datasets)
 - [Talks](#talks)
+- [Company](#company)
 - [Implementations](#implementations)
 
 ## Survey
