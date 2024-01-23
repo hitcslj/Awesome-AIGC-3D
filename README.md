@@ -317,7 +317,16 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [3D Generation, bilibili](https://space.bilibili.com/23460054/channel/collectiondetail?sid=1860808&ctype=0), Leo
 - [3D AIGC Algorithm Trends and Industry Implementation](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_65810adbe4b04c10093fdacc), Ding Liang
 
- 
+
+## Company
+- [TRIPOAI](https://www.tripo3d.ai/)
+- [LumaAI](https://lumalabs.ai/)
+- [CSMAI](https://www.csm.ai/)
+- [SUDOAI](https://www.sudo.ai/)
+- [Meshy](https://www.meshy.ai/)
+
+
+
 
 ## Implementations
 
