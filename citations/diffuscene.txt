@@ -1,0 +1,8 @@
+@inproceedings{
+    tang2023diffuscene,
+    title={DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for
+      Generative Indoor Scene Synthesis},
+    author={Tang, Jiapeng and Nie Yinyu and Markhasin Lev and Dai Angela and Thies Justus and Nie{\ss}ner, Matthias},
+    booktitle={arxiv},
+    year={2023},
+    }
