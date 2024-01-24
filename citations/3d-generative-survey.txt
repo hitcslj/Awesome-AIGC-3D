@@ -1,0 +1,8 @@
+@misc{shi2023deep,
+      title={Deep Generative Models on 3D Representations: A Survey}, 
+      author={Zifan Shi and Sida Peng and Yinghao Xu and Andreas Geiger and Yiyi Liao and Yujun Shen},
+      year={2023},
+      eprint={2210.15663},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

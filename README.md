@@ -21,6 +21,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 ## Survey
 
+- [3D Generative Models: A Survey](https://arxiv.org/abs/2210.15663), Shi et al., arxiv 2022 | [bibtex](./citations/3d-generative-survey.txt)
 - [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arxiv.org/abs/2305.06131), Li et al., arxiv 2023 | [bibtex](./citations/aigc3d.txt)
 
 ## Papers
