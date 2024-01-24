@@ -1,0 +1,8 @@
+@misc{jia2024sceneverse,
+      title={SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding}, 
+      author={Baoxiong Jia and Yixin Chen and Huangyue Yu and Yan Wang and Xuesong Niu and Tengyu Liu and Qing Li and Siyuan Huang},
+      year={2024},
+      eprint={2401.09340},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

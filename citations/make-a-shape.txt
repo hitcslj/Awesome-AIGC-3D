@@ -1,0 +1,8 @@
+@misc{hui2024makeashape,
+      title={Make-A-Shape: a Ten-Million-scale 3D Shape Model}, 
+      author={Ka-Hei Hui and Aditya Sanghi and Arianna Rampini and Kamal Rahimi Malekshan and Zhengzhe Liu and Hooman Shayani and Chi-Wing Fu},
+      year={2024},
+      eprint={2401.11067},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
