@@ -318,6 +318,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [AI 3D Generation, explained](https://www.youtube.com/watch?v=EoAm1yZR-ao), Jia-Bin Huang
 - [3D Generation, bilibili](https://space.bilibili.com/23460054/channel/collectiondetail?sid=1860808&ctype=0), Leo
 - [3D AIGC Algorithm Trends and Industry Implementation](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_65810adbe4b04c10093fdacc), Ding Liang
+- [3D Generation: Past, Present and Future](https://www.bilibili.com/video/BV1wT4y1879Y/?spm_id_from=333.999.0.0&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0),GAMES Webinar 311
 
 
 ## Company
