@@ -1,0 +1,8 @@
+@misc{zhuang2024tipeditor,
+      title={TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts}, 
+      author={Jingyu Zhuang and Di Kang and Yan-Pei Cao and Guanbin Li and Liang Lin and Ying Shan},
+      year={2024},
+      eprint={2401.14828},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

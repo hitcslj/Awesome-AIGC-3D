@@ -1,0 +1,8 @@
+@misc{chen2024sketch2nerf,
+      title={Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation}, 
+      author={Minglin Chen and Weihao Yuan and Yukun Wang and Zhe Sheng and Yisheng He and Zilong Dong and Liefeng Bo and Yulan Guo},
+      year={2024},
+      eprint={2401.14257},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

@@ -139,6 +139,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732), Ye et al., arxiv 2023 |  [github](https://github.com/lkeab/gaussian-grouping) | [bibtex](./citations/gaussian-group.txt)
 - [AGAP:Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://felixcheng97.github.io/AGAP/), Cheng et al., arxiv 2023 |  [github](https://github.com/WU-CVGL/MVControl) | [bibtex](./citations/mvcontrol.txt)
 - [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://signerf.jdihlmann.com/), Dihlmann et al., arxiv 2023 |  [github](https://github.com/cgtuebingen/SIGNeRF) | [bibtex](./citations/sigNerf.txt)
+- [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Zhuang et al., arxiv 2024 | [bibtex](./citations/tipEditor.txt)
 
 </details>
 
@@ -150,6 +151,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [ControlDreamer: Stylized 3D Generation with Multi-View ControlNet](https://controldreamer.github.io/), Oh et al., arxiv 2023 |  [github](https://github.com/oyt9306/ControlDreamer) | [bibtex](./citations/controldreamer.txt)
 - [DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior](https://arxiv.org/abs/2312.06439), Huang et al., arxiv 2023 |  [github](https://github.com/tyhuang0428/DreamControl) | [bibtex](./citations/dreamcontrol.txt)
 - [MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation](https://lizhiqi49.github.io/MVControl/), Li et al., arxiv 2023 |  [github](https://github.com/tyhuang0428/DreamControl) | [bibtex](./citations/dreamcontrol.txt)
+- [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257), Chen et al., arxiv 2024 | [bibtex](./citations/Sketch2NeRF.txt)
 
 </details>
 
