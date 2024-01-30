@@ -1,0 +1,6 @@
+@article{foo2023aigc,
+  title={Aigc for various data modalities: A survey},
+  author={Foo, Lin Geng and Rahmani, Hossein and Liu, Jun},
+  journal={arXiv preprint arXiv:2308.14177},
+  year={2023}
+}
