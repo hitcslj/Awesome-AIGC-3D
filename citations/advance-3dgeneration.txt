@@ -1,0 +1,8 @@
+@misc{li2024advances,
+    title={Advances in 3D Generation: A Survey},
+    author={Xiaoyu Li and Qi Zhang and Di Kang and Weihao Cheng and Yiming Gao and Jingbo Zhang and Zhihao Liang and Jing Liao and Yan-Pei Cao and Ying Shan},
+    year={2024},
+    eprint={2401.17807},
+    archivePrefix={arXiv},
+    primaryClass={cs.CV}
+}
