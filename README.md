@@ -340,6 +340,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [Threestudio](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo, 2023 | [bibtex](./citations/threestudio.txt)
 - [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion), Jiaxiang Tang, 2023 | [bibtex](./citations/stable-dreamfusion.txt)
 - [Dream Textures](https://github.com/carson-katri/dream-textures), Carson Katri, 2023 
+- [ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures), Alexander Dzhoganov, 2023  
 
 ## License 
 Awesome AIGC 3D is released under the [MIT license](./LICENSE).
