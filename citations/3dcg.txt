@@ -1,0 +1,8 @@
+@misc{liu2024comprehensive,
+      title={A Comprehensive Survey on 3D Content Generation}, 
+      author={Jian Liu and Xiaoshui Huang and Tianyu Huang and Lu Chen and Yuenan Hou and Shixiang Tang and Ziwei Liu and Wanli Ouyang and Wangmeng Zuo and Junjun Jiang and Xianming Liu},
+      year={2024},
+      eprint={2402.01166},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
