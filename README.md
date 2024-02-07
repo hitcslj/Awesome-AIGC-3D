@@ -56,6 +56,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior](https://arxiv.org/abs/2312.06655), Liu et al., arxiv 2023 | [github](https://github.com/liuff19/Sherpa3D) | [bibtex](./citations/sherpa3d.txt)
 - [HexaGen3D: StableDiffusion is just one step away from
 Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Mercier et al., arxiv 2024 | [bibtex](./citations/HexaGen3D.txt)
+- [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2402.02972), Seo et al., arxiv 2024 | [github](https://github.com/KU-CVLAB/RetDream) | [bibtex](./citations/retdream.txt) 
 
 
 
