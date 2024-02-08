@@ -1,0 +1,8 @@
+@misc{tang2024lgm,
+      title={LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation}, 
+      author={Jiaxiang Tang and Zhaoxi Chen and Xiaokang Chen and Tengfei Wang and Gang Zeng and Ziwei Liu},
+      year={2024},
+      eprint={2402.05054},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
