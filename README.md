@@ -127,6 +127,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting](https://asvilesov.github.io/CG3D/), Vilesov et al., arxiv 2023 | [bibtex](./citations/gc3d.txt)
 - [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://sarahweiii.github.io/zerorf/), Shi et al., arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)  | [bibtex](./citations/zeroRF.txt) 
 - [LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054), Tang et al., arxiv 2024 | [github](https://github.com/3DTopia/LGM)  | [bibtex](./citations/lgm.txt) 
+- [EscherNet: A Generative Model for Scalable View Synthesis](https://arxiv.org/abs/2402.03908), Kong et al., arxiv 2024 | [github](https://github.com/kxhit/EscherNet)  | [bibtex](./citations/eschernet.txt) 
 
 </details>
 

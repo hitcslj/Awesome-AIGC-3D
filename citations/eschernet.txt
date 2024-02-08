@@ -1,0 +1,8 @@
+@misc{kong2024eschernet,
+      title={EscherNet: A Generative Model for Scalable View Synthesis}, 
+      author={Xin Kong and Shikun Liu and Xiaoyang Lyu and Marwan Taher and Xiaojuan Qi and Andrew J. Davison},
+      year={2024},
+      eprint={2402.03908},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
