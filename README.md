@@ -349,5 +349,16 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 ## License 
 Awesome AIGC 3D is released under the [MIT license](./LICENSE).
 
+## Citation
+If you find this project useful in your research, please consider citing:
+```BibTeX
+@article{liu2024comprehensive,
+  title={A Comprehensive Survey on 3D Content Generation},
+  author={Liu, Jian and Huang, Xiaoshui and Huang, Tianyu and Chen, Lu and Hou, Yuenan and Tang, Shixiang and Liu, Ziwei and Ouyang, Wanli and Zuo, Wangmeng and Jiang, Junjun and others},
+  journal={arXiv preprint arXiv:2402.01166},
+  year={2024}
+}
+```
+
 ## Contact
 contact: `hitcslj@stu.hit.edu.cn`.  
