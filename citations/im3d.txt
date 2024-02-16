@@ -1,0 +1,8 @@
+@misc{melaskyriazi2024im3d,
+      title={IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation}, 
+      author={Luke Melas-Kyriazi and Iro Laina and Christian Rupprecht and Natalia Neverova and Andrea Vedaldi and Oran Gafni and Filippos Kokkinos},
+      year={2024},
+      eprint={2402.08682},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
