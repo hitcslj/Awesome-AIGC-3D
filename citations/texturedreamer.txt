@@ -1,0 +1,6 @@
+@article{yeh2024texturedreamer,
+      title={TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion},
+      author={Yeh, Yu-Ying and Huang, Jia-Bin and Kim, Changil and Xiao, Lei and Nguyen-Phuoc, Thu and Khan, Numair and Zhang, Cheng and Chandraker, Manmohan and Marshall, Carl S and Dong, Zhao and others},
+      journal={arXiv preprint arXiv:2401.09416},
+      year={2024}
+    }
