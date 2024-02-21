@@ -310,6 +310,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://kim-youwang.github.io/paint-it), Youwang et al., arxiv 2023 | [github](https://github.com/postech-ami/paint-it) | [bibtext](./citations/paint-it.txt) 
 - [Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models](https://arxiv.org/abs/2312.13913), Zeng et al., arxiv 2023 | [github](https://github.com/OpenTexture/Paint3D) | [bibtext](./citations/paint3d.txt) 
 - [TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion](https://arxiv.org/abs/2401.09416), Yeh et al., arxiv 2024 | [bibtext](./citations/texturedreamer.txt) 
+- [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251), Deng et al., arxiv 2024 | [bibtext](./citations/flashtex.txt) 
 
 </details>
 

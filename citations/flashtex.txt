@@ -1,0 +1,8 @@
+@misc{deng2024flashtex,
+      title={FlashTex: Fast Relightable Mesh Texturing with LightControlNet}, 
+      author={Kangle Deng and Timothy Omernick and Alexander Weiss and Deva Ramanan and Jun-Yan Zhu and Tinghui Zhou and Maneesh Agrawala},
+      year={2024},
+      eprint={2402.13251},
+      archivePrefix={arXiv},
+      primaryClass={cs.GR}
+}
