@@ -1,0 +1,6 @@
+@article{zhou2024gala3d,
+  title={GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting},
+  author={Zhou, Xiaoyu and Ran, Xingjian and Xiong, Yajiao and He, Jinlin and Lin, Zhiwei and Wang, Yongtao and Sun, Deqing and Yang, Ming-Hsuan},
+  journal={arXiv preprint arXiv:2402.07207},
+  year={2024}
+}
