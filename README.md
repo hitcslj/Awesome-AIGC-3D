@@ -275,6 +275,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [MagicPony: Learning Articulated 3D Animals in the Wild](https://3dmagicpony.github.io/), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/magicpony.txt)
 - [Learning the 3D Fauna of the Web](https://kyleleey.github.io/3DFauna/), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
 - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610), Xie et al., arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtext](./citations/cityDreamer.txt)
+- [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Cao et al., ICLR 2024 | [github](https://github.com/ziangcao0312/DiffTF) | [bibtext](./citations/largevoc.txt)
 
 </details>
 

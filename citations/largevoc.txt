@@ -1,0 +1,6 @@
+@article{cao2023large,
+  title={Large-vocabulary 3d diffusion model with transformer},
+  author={Cao, Ziang and Hong, Fangzhou and Wu, Tong and Pan, Liang and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2309.07920},
+  year={2023}
+}
