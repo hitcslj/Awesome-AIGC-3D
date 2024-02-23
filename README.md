@@ -277,6 +277,7 @@ Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Merci
 - [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610), Xie et al., arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtext](./citations/cityDreamer.txt)
 - [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Cao et al., ICLR 2024 | [github](https://github.com/ziangcao0312/DiffTF) | [bibtext](./citations/largevoc.txt)
 - [DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation](https://arxiv.org/abs/2307.01831), Mo et al., arxiv 2023 | [github](https://github.com/DiT-3D/DiT-3D) | [bibtext](./citations/dit3d.txt)
+- [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Qian et al., arxiv 2024 | [github](https://github.com/FVPLab/Argus-3D) | [bibtext](./citations/argus3d.txt)
 
 </details>
 
