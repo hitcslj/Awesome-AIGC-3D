@@ -1,0 +1,6 @@
+@inproceedings{corona2021smplicit,
+    Author = {Corona, Enric and Pumarola, Albert and Aleny{\`a}, Guillem and Pons-Moll, Gerard and Moreno-Noguer, Francesc},
+    Title = {SMPLicit: Topology-aware Generative Model for Clothed People},
+    Year = {2021},
+    booktitle = {CVPR},
+}

@@ -1,0 +1,6 @@
+@article{huang2023textfield3d,
+  title={Textfield3d: Towards enhancing open-vocabulary 3d generation with noisy text fields},
+  author={Huang, Tianyu and Zeng, Yihan and Dong, Bowen and Xu, Hang and Xu, Songcen and Lau, Rynson WH and Zuo, Wangmeng},
+  journal={arXiv preprint arXiv:2309.17175},
+  year={2023}
+}

@@ -1,0 +1,7 @@
+@inproceedings{chen2022gdna,
+  title={gdna: Towards generative detailed neural avatars},
+  author={Chen, Xu and Jiang, Tianjian and Song, Jie and Yang, Jinlong and Black, Michael J and Geiger, Andreas and Hilliges, Otmar},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={20427--20437},
+  year={2022}
+}

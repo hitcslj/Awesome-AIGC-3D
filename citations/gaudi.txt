@@ -1,0 +1,8 @@
+@article{bautista2022gaudi,
+  title={Gaudi: A neural architect for immersive 3d scene generation},
+  author={Bautista, Miguel Angel and Guo, Pengsheng and Abnar, Samira and Talbott, Walter and Toshev, Alexander and Chen, Zhuoyuan and Dinh, Laurent and Zhai, Shuangfei and Goh, Hanlin and Ulbricht, Daniel and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={25102--25116},
+  year={2022}
+}

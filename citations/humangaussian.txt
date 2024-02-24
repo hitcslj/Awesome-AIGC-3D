@@ -1,0 +1,6 @@
+@article{liu2023hyperhuman,
+    title={HyperHuman: Hyper-Realistic Human Generation with Latent Structural Diffusion},
+    author={Liu, Xian and Ren, Jian and Siarohin, Aliaksandr and Skorokhodov, Ivan and Li, Yanyu and Lin, Dahua and Liu, Xihui and Liu, Ziwei and Tulyakov, Sergey},
+    journal={arXiv preprint arXiv:2310.08579},
+    year={2023}
+}

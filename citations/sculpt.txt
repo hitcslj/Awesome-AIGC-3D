@@ -1,0 +1,6 @@
+@article{sanyal2023sculpt,
+  title={SCULPT: Shape-conditioned unpaired learning of pose-dependent clothed and textured human meshes},
+  author={Sanyal, Soubhik and Ghosh, Partha and Yang, Jinlong and Black, Michael J and Thies, Justus and Bolkart, Timo},
+  journal={arXiv preprint arXiv:2308.10638},
+  year={2023}
+}

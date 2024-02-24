@@ -1,0 +1,8 @@
+@article{fu2022shapecrafter,
+  title={Shapecrafter: A recursive text-conditioned 3d shape generation model},
+  author={Fu, Rao and Zhan, Xiao and Chen, Yiwen and Ritchie, Daniel and Sridhar, Srinath},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={8882--8895},
+  year={2022}
+}

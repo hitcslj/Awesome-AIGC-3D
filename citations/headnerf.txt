@@ -1,0 +1,6 @@
+@inproceedings{hong2021headnerf,
+     author     = {Yang Hong and Bo Peng and Haiyao Xiao and Ligang Liu and Juyong Zhang},
+     title      = {HeadNeRF: A Real-time NeRF-based Parametric Head Model},
+     booktitle  = {{IEEE/CVF} Conference on Computer Vision and Pattern Recognition (CVPR)},
+     year       = {2022}
+}

@@ -1,0 +1,7 @@
+@article{huang2024dreamwaltz,
+  title={Dreamwaltz: Make a scene with complex 3d animatable avatars},
+  author={Huang, Yukun and Wang, Jianan and Zeng, Ailing and Cao, He and Qi, Xianbiao and Shi, Yukai and Zha, Zheng-Jun and Zhang, Lei},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}

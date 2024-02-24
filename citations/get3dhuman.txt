@@ -1,0 +1,7 @@
+@inproceedings{xiong2023get3dhuman,
+  title={Get3dhuman: Lifting stylegan-human into a 3d generative model using pixel-aligned reconstruction priors},
+  author={Xiong, Zhangyang and Kang, Di and Jin, Derong and Chen, Weikai and Bao, Linchao and Cui, Shuguang and Han, Xiaoguang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={9287--9297},
+  year={2023}
+}

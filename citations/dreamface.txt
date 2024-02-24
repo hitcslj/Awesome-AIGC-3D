@@ -1,0 +1,6 @@
+@article{zhang2023dreamface,
+  title={DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance},
+  author={Zhang, Longwen and Qiu, Qiwei and Lin, Hongyang and Zhang, Qixuan and Shi, Cheng and Yang, Wei and Shi, Ye and Yang, Sibei and Xu, Lan and Yu, Jingyi},
+  journal={arXiv preprint arXiv:2304.03117},
+  year={2023}
+}

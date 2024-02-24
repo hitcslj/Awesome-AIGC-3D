@@ -1,0 +1,8 @@
+@inproceedings{chen2019text2shape,
+  title={Text2shape: Generating shapes from natural language by learning joint embeddings},
+  author={Chen, Kevin and Choy, Christopher B and Savva, Manolis and Chang, Angel X and Funkhouser, Thomas and Savarese, Silvio},
+  booktitle={Computer Vision--ACCV 2018: 14th Asian Conference on Computer Vision, Perth, Australia, December 2--6, 2018, Revised Selected Papers, Part III 14},
+  pages={100--116},
+  year={2019},
+  organization={Springer}
+}
