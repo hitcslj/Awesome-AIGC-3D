@@ -1,0 +1,8 @@
+@misc{patashnik2024consolidating,
+      title={Consolidating Attention Features for Multi-view Image Editing}, 
+      author={Or Patashnik and Rinon Gal and Daniel Cohen-Or and Jun-Yan Zhu and Fernando De la Torre},
+      year={2024},
+      eprint={2402.14792},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

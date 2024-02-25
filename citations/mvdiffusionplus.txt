@@ -1,0 +1,6 @@
+@article{tang2024mvdiffusion++,
+  title={MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction},
+  author={Tang, Shitao and Chen, Jiacheng and Wang, Dilin and Tang, Chengzhou and Zhang, Fuyang and Fan, Yuchen and Chandra, Vikas and Furukawa, Yasutaka and Ranjan, Rakesh},
+  journal={arXiv preprint arXiv:2402.12712},
+  year={2024}
+}

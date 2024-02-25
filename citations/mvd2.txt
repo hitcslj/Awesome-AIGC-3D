@@ -1,0 +1,8 @@
+@misc{zheng2024mvd2,
+      title={MVD$^2$: Efficient Multiview 3D Reconstruction for Multiview Diffusion}, 
+      author={Xin-Yang Zheng and Hao Pan and Yu-Xiao Guo and Xin Tong and Yang Liu},
+      year={2024},
+      eprint={2402.14253},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

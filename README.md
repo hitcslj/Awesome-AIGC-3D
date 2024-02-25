@@ -227,7 +227,9 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054), Tang et al., arxiv 2024 | [github](https://github.com/3DTopia/LGM)  | [bibtex](./citations/lgm.txt) 
 - [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2402.02972), Seo et al., arxiv 2024 | [github](https://github.com/KU-CVLAB/RetDream) | [bibtex](./citations/retdream.txt) 
 - [EscherNet: A Generative Model for Scalable View Synthesis](https://arxiv.org/abs/2402.03908), Kong et al., arxiv 2024 | [github](https://github.com/kxhit/EscherNet)  | [bibtex](./citations/eschernet.txt) 
-
+- [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](https://arxiv.org/abs/2402.12712), Tang et al., arxiv 2024  | [bibtex](./citations/mvdiffusionplus.txt) 
+- [MVD2: Efficient Multiview 3D Reconstruction for Multiview Diffusion](https://arxiv.org/abs/2402.14253), Zheng et al., arxiv 2024  | [bibtex](./citations/mvd2.txt) 
+- [Consolidating Attention Features for Multi-view Image Editing](https://arxiv.org/abs/2402.14792), Patashnik et al., arxiv 2024  | [bibtex](./citations/mvie.txt) 
 
 
 </details>
