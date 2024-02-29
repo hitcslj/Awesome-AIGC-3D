@@ -93,6 +93,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://arxiv.org/abs/2112.05637), Hong et al., CVPR 2022 | [github](https://github.com/CrisHY1995/headnerf) | [bibtext](./citations/headnerf.txt)
 - [gDNA: Towards Generative Detailed Neural Avatars](https://arxiv.org/abs/2201.04123), Chen et al., CVPR 2022 | [github](https://github.com/xuchen-ethz/gdna) | [bibtext](./citations/gdna.txt)
 - [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
+- [Single-View 3D Human Digitalization with Large Reconstruction Models](https://arxiv.org/abs/2401.12175), Weng et al., CVPR 2023 | [bibtex](./citations/singlehuman.txt)
 
 
 </details>

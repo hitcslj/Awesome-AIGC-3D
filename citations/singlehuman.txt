@@ -1,0 +1,6 @@
+@article{weng2024single,
+  title={Single-View 3D Human Digitalization with Large Reconstruction Models},
+  author={Weng, Zhenzhen and Liu, Jingyuan and Tan, Hao and Xu, Zhan and Zhou, Yang and Yeung-Levy, Serena and Yang, Jimei},
+  journal={arXiv preprint arXiv:2401.12175},
+  year={2024}
+}
