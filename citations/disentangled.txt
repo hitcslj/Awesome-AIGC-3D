@@ -1,0 +1,6 @@
+@article{epstein2024disentangled,
+  title={Disentangled 3D Scene Generation with Layout Learning},
+  author={Epstein, Dave and Poole, Ben and Mildenhall, Ben and Efros, Alexei A and Holynski, Aleksander},
+  journal={arXiv preprint arXiv:2402.16936},
+  year={2024}
+}
