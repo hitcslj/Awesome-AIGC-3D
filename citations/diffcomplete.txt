@@ -1,0 +1,7 @@
+@article{chu2024diffcomplete,
+  title={Diffcomplete: Diffusion-based generative 3d shape completion},
+  author={Chu, Ruihang and Xie, Enze and Mo, Shentong and Li, Zhenguo and Nie{\ss}ner, Matthias and Fu, Chi-Wing and Jia, Jiaya},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}

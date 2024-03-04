@@ -52,6 +52,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., arxiv 2023 | [github](https://github.com/openai/shap-e) | [bibtex](./citations/shape.txt)
 - [LAS-Diffusion: Locally Attentional SDF Diffusion for Controllable 3D Shape Generation](https://arxiv.org/abs/2305.04461), Zheng et al., TOG 2023 | [github](https://github.com/Zhengxinyang/LAS-Diffusion) | [bibtex](./citations/lasdiffusion.txt)
 - [Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://arxiv.org/abs/2306.17115), Zhao et al., NeurIPS 2023 | [github](https://github.com/NeuralCarver/Michelangelo) | [bibtex](./citations/michelangelo.txt)
+- [DiffComplete: Diffusion-based Generative 3D Shape Completion](https://arxiv.org/abs/2306.16329), Chu et al., NeurIPS 2023 | [bibtex](./citations/diffcomplete.txt)
 - [DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation](https://arxiv.org/abs/2307.01831), Mo et al., arxiv 2023 | [github](https://github.com/DiT-3D/DiT-3D) | [bibtext](./citations/dit3d.txt)
 - [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://arxiv.org/abs/2307.05445), Ntavelis et al., arxiv 2023 | [github](https://github.com/snap-research/3DVADER) | [bibtex](./citations/3dvader.txt)
 - [ARGUS: Visualization of AI-Assisted Task Guidance in AR](https://arxiv.org/abs/2308.06246), Castelo et al., TVCG 2023 | [bibtex](./citations/argus.txt)
