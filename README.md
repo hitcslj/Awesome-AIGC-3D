@@ -232,6 +232,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](https://arxiv.org/abs/2402.12712), Tang et al., arxiv 2024  | [bibtex](./citations/mvdiffusionplus.txt) 
 - [MVD2: Efficient Multiview 3D Reconstruction for Multiview Diffusion](https://arxiv.org/abs/2402.14253), Zheng et al., arxiv 2024  | [bibtex](./citations/mvd2.txt) 
 - [Consolidating Attention Features for Multi-view Image Editing](https://arxiv.org/abs/2402.14792), Patashnik et al., arxiv 2024  | [bibtex](./citations/mvie.txt) 
+- [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](https://arxiv.org/abs/2402.18842), Yang et al., CVPR 2024 | [github](https://github.com/Wi-sc/ViewFusion)  | [bibtex](./citations/viewfusion.txt) 
 
 
 </details>

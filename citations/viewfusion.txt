@@ -1,0 +1,8 @@
+@misc{yang2024viewfusion,
+      title={ViewFusion: Towards Multi-View Consistency via Interpolated Denoising}, 
+      author={Xianghui Yang and Yan Zuo and Sameera Ramasinghe and Loris Bazzani and Gil Avraham and Anton van den Hengel},
+      year={2024},
+      eprint={2402.18842},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
