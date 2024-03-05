@@ -1,0 +1,8 @@
+@misc{wang2023dust3r,
+      title={DUSt3R: Geometric 3D Vision Made Easy}, 
+      author={Shuzhe Wang and Vincent Leroy and Yohann Cabon and Boris Chidlovskii and Jerome Revaud},
+      year={2023},
+      eprint={2312.14132},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
