@@ -1,0 +1,8 @@
+@misc{wang2024crm,
+      title={CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model}, 
+      author={Zhengyi Wang and Yikai Wang and Yifei Chen and Chendong Xiang and Shuo Chen and Dajiang Yu and Chongxuan Li and Hang Su and Jun Zhu},
+      year={2024},
+      eprint={2403.05034},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
