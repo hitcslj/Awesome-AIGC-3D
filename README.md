@@ -67,7 +67,6 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://arxiv.org/abs/2312.09249), Shi et al., arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)  | [bibtex](./citations/zeroRF.txt) 
 - [Learning the 3D Fauna of the Web](https://arxiv.org/abs/2401.02400), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
 - [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Qian et al., arxiv 2024 | [github](https://github.com/FVPLab/Argus-3D) | [bibtext](./citations/argus3d.txt)
-- [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034), Wang et al., arxiv 2024 | [github](https://github.com/thu-ml/CRM) | [bibtext](./citations/crm.txt)
 
 
 
@@ -237,6 +236,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [MVD2: Efficient Multiview 3D Reconstruction for Multiview Diffusion](https://arxiv.org/abs/2402.14253), Zheng et al., arxiv 2024  | [bibtex](./citations/mvd2.txt) 
 - [Consolidating Attention Features for Multi-view Image Editing](https://arxiv.org/abs/2402.14792), Patashnik et al., arxiv 2024  | [bibtex](./citations/mvie.txt) 
 - [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](https://arxiv.org/abs/2402.18842), Yang et al., CVPR 2024 | [github](https://github.com/Wi-sc/ViewFusion)  | [bibtex](./citations/viewfusion.txt) 
+- [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034), Wang et al., arxiv 2024 | [github](https://github.com/thu-ml/CRM) | [bibtext](./citations/crm.txt)
+
 
 
 </details>
