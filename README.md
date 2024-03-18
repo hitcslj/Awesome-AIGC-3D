@@ -237,6 +237,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Consolidating Attention Features for Multi-view Image Editing](https://arxiv.org/abs/2402.14792), Patashnik et al., arxiv 2024  | [bibtex](./citations/mvie.txt) 
 - [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](https://arxiv.org/abs/2402.18842), Yang et al., CVPR 2024 | [github](https://github.com/Wi-sc/ViewFusion)  | [bibtex](./citations/viewfusion.txt) 
 - [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034), Wang et al., arxiv 2024 | [github](https://github.com/thu-ml/CRM) | [bibtext](./citations/crm.txt)
+- [Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior](https://arxiv.org/abs/2403.09140), Chen et al., CVPR 2024 | [github](https://github.com/StellarCheng/Scuplt_3d) | [bibtext](./citations/Scuplt_3d.txt)
 
 
 

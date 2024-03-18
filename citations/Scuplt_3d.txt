@@ -1,0 +1,8 @@
+@misc{chen2024sculpt3d,
+      title={Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior}, 
+      author={Cheng Chen and Xiaofeng Yang and Fan Yang and Chengzeng Feng and Zhoujie Fu and Chuan-Sheng Foo and Guosheng Lin and Fayao Liu},
+      year={2024},
+      eprint={2403.09140},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
