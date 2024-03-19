@@ -1,0 +1,6 @@
+@inproceedings{zhang2024fdiffusion,
+  author={Biao Zhang, Peter Wonka},
+  title={Functional Diffusion},
+  booktitle={CVPR},
+  year={2024},
+}

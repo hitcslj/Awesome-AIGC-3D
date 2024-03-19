@@ -62,11 +62,13 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400), Hong et al., ICLR 2024 | [bibtex](./citations/lrm.txt)
 - [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217), Xu et al., ICLR 2024 | [bibtex](./citations/dmv3d.txt) 
 - [WildFusion:Learning 3D-Aware Latent Diffusion Models in View Space](https://arxiv.org/abs/2311.13570), Schwarz et al., ICLR 2024 | [bibtex](./citations/wildfusion.txt)
+- [Functional Diffusion](https://arxiv.org/abs/2311.15435), Zhang et al., CVPR 2024 | [github](https://github.com/1zb/functional-diffusion) | [bibtex](./citations/fd.txt)
 - [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Siddiqui et al., arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
 - [SPiC·E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention](https://arxiv.org/abs/2311.17834), Sella et al., arxiv 2023 | [github](https://github.com/TAU-VAILab/spic-e) | [bibtex](./citations/spice.txt)
 - [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://arxiv.org/abs/2312.09249), Shi et al., arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)  | [bibtex](./citations/zeroRF.txt) 
 - [Learning the 3D Fauna of the Web](https://arxiv.org/abs/2401.02400), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
 - [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Qian et al., arxiv 2024 | [github](https://github.com/FVPLab/Argus-3D) | [bibtext](./citations/argus3d.txt)
+
 
 
 
