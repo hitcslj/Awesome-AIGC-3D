@@ -1,0 +1,8 @@
+@article{li2024controllable,
+      title={Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting}, 
+      author={Zhiqi Li and Yiming Chen and Lingzhe Zhao and Peidong Liu},
+      year={2024},
+      eprint={2403.09981},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+  }

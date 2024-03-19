@@ -241,6 +241,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034), Wang et al., arxiv 2024 | [github](https://github.com/thu-ml/CRM) | [bibtext](./citations/crm.txt)
 - [Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior](https://arxiv.org/abs/2403.09140), Chen et al., CVPR 2024 | [github](https://github.com/StellarCheng/Scuplt_3d) | [bibtext](./citations/Scuplt_3d.txt)
 - [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Make-Your-3D) | [bibtext](./citations/make_your_3d.txt)
+- [Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://arxiv.org/abs/2403.09981), Li et al., arxiv 2024 |  [github](https://github.com/WU-CVGL/MVControl/) | [bibtex](./citations/controllable.txt)
 
 
 
