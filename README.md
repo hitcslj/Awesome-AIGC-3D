@@ -242,6 +242,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior](https://arxiv.org/abs/2403.09140), Chen et al., CVPR 2024 | [github](https://github.com/StellarCheng/Scuplt_3d) | [bibtext](./citations/Scuplt_3d.txt)
 - [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Make-Your-3D) | [bibtext](./citations/make_your_3d.txt)
 - [Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://arxiv.org/abs/2403.09981), Li et al., arxiv 2024 |  [github](https://github.com/WU-CVGL/MVControl/) | [bibtex](./citations/controllable.txt)
+- [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010), Zuo et al., arxiv 2024 |  [github](https://github.com/alibaba/VideoMV) | [bibtex](./citations/videomv.txt)
 
 
 
