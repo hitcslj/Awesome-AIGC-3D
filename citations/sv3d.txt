@@ -1,0 +1,6 @@
+@article{voleti2024sv3d,
+  author    = {Voleti, Vikram and Yao, Chun-Han and Boss, Mark and Letts, Adam and Pankratz, David and Tochilkin,  Dmitrii and Laforte, Christian and Rombach, Robin and Jampani, Varun},
+  title     = {{SV3D}: Novel Multi-view Synthesis and {3D} Generation from a Single Image using Latent Video Diffusion},
+  journal   = {arXiv},
+  year      = {2024},
+}

@@ -243,6 +243,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Make-Your-3D) | [bibtext](./citations/make_your_3d.txt)
 - [Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://arxiv.org/abs/2403.09981), Li et al., arxiv 2024 |  [github](https://github.com/WU-CVGL/MVControl/) | [bibtex](./citations/controllable.txt)
 - [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010), Zuo et al., arxiv 2024 |  [github](https://github.com/alibaba/VideoMV) | [bibtex](./citations/videomv.txt)
+- [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008), Voleti et al., arxiv 2024 | [bibtex](./citations/sv3d.txt)
 
 
 
@@ -380,6 +381,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [CSMAI](https://www.csm.ai/)
 - [SUDOAI](https://www.sudo.ai/)
 - [Meshy](https://www.meshy.ai/)
+- [StabilityAI](https://stability.ai/)
 
 
 
