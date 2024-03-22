@@ -1,0 +1,8 @@
+@misc{lan2024ln3diff,
+  title={LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation}, 
+  author={Yushi Lan and Fangzhou Hong and Shuai Yang and Shangchen Zhou and Xuyi Meng and Bo Dai and Xingang Pan and Chen Change Loy},
+  year={2024},
+  eprint={2403.12019},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
