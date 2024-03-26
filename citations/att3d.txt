@@ -1,0 +1,7 @@
+@inproceedings{lorraine2023att3d,
+  title={Att3d: Amortized text-to-3d object synthesis},
+  author={Lorraine, Jonathan and Xie, Kevin and Zeng, Xiaohui and Lin, Chen-Hsuan and Takikawa, Towaki and Sharp, Nicholas and Lin, Tsung-Yi and Liu, Ming-Yu and Fidler, Sanja and Lucas, James},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={17946--17956},
+  year={2023}
+}

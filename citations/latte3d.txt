@@ -1,0 +1,8 @@
+@misc{xie2024latte3d,
+      title={LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis}, 
+      author={Kevin Xie and Jonathan Lorraine and Tianshi Cao and Jun Gao and James Lucas and Antonio Torralba and Sanja Fidler and Xiaohui Zeng},
+      year={2024},
+      eprint={2403.15385},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}

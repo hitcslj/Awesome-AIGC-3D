@@ -124,6 +124,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/abs/2303.14184), Tang et al., ICCV 2023 | [github](https://github.com/junshutang/Make-It-3D) | [bibtex](./citations/makeit3d.txt)
 - [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://arxiv.org/abs/2305.18766), Zhu et al., ICLR 2024 | [github](https://github.com/HiFA-team/HiFA) | [bibtex](./citations/hifa.txt)
 - [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213), Wang et al., NeurIPS 2023 | [github](https://github.com/thu-ml/prolificdreamer) | [bibtex](./citations/prolificdreamer.txt)
+- [ATT3D: Amortized Text-to-3D Object Synthesis](https://arxiv.org/abs/2306.07349), Lorraine et al., ICCV 2023 | [bibtex](./citations/att3d.txt)
 - [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://arxiv.org/abs/2309.16653), Tang et al., ICLR 2024 | [github](https://github.com/dreamgaussian/dreamgaussian) | [bibtex](./citations/dreamguassian.txt)
 - [NFSD: Noise Free Score Distillation](https://arxiv.org/abs/2310.17590), Katzir et al., arxiv 2023 | [github](https://github.com/orenkatzir/nfsd) | [bibtex](./citations/nfsd.txt)
 - [Text-to-3D with Classifier Score Distillation](https://arxiv.org/abs/2310.19415), Yu et al., arxiv 2023 | [github](https://github.com/CVMI-Lab/Classifier-Score-Distillation) | [bibtex](./citations/csd.txt)
@@ -245,6 +246,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://arxiv.org/abs/2403.09981), Li et al., arxiv 2024 |  [github](https://github.com/WU-CVGL/MVControl/) | [bibtex](./citations/controllable.txt)
 - [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010), Zuo et al., arxiv 2024 |  [github](https://github.com/alibaba/VideoMV) | [bibtex](./citations/videomv.txt)
 - [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008), Voleti et al., arxiv 2024 | [bibtex](./citations/sv3d.txt)
+- [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://arxiv.org/abs/2403.15385), Xie et al., arxiv 2024 | [bibtex](./citations/latte3d.txt)
 
 
 
