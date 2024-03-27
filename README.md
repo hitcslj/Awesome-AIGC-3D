@@ -248,6 +248,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008), Voleti et al., arxiv 2024 | [bibtex](./citations/sv3d.txt)
 - [DreamReward: Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2403.14613), Ye et al., arxiv 2024 | [bibtex](./citations/dreamreward.txt)
 - [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://arxiv.org/abs/2403.15385), Xie et al., arxiv 2024 | [bibtex](./citations/latte3d.txt)
+- [DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion](https://arxiv.org/abs/2403.17237), Lin et al., arxiv 2024 | [github](https://github.com/yuanze-lin/DreamPolisher) | [bibtex](./citations/dreampolisher.txt)
 
 
 

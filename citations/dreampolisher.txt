@@ -1,0 +1,8 @@
+@misc{lin2024dreampolisher,
+      title={DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion}, 
+      author={Yuanze Lin and Ronald Clark and Philip Torr},
+      year={2024},
+      eprint={2403.17237},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
