@@ -249,6 +249,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [DreamReward: Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2403.14613), Ye et al., arxiv 2024 | [bibtex](./citations/dreamreward.txt)
 - [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://arxiv.org/abs/2403.15385), Xie et al., arxiv 2024 | [bibtex](./citations/latte3d.txt)
 - [DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion](https://arxiv.org/abs/2403.17237), Lin et al., arxiv 2024 | [github](https://github.com/yuanze-lin/DreamPolisher) | [bibtex](./citations/dreampolisher.txt)
+- [GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image](https://arxiv.org/abs/2403.12013), Fu et al., arxiv 2024 | [github](https://github.com/fuxiao0719/GeoWizard) | [bibtex](./citations/geowizard.txt)
 
 
 
