@@ -1,0 +1,6 @@
+@article{xu2024grm,
+     author    = {Xu, Yinghao and Shi, Zifan and Yifan, Wang and Peng, Sida and Yang, Ceyuan and Shen, Yujun and Wetzstein Gordon},
+     title     = {GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation},
+     journal   = {arxiv: 2403.14621},
+     year      = {2024},
+}
