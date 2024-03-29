@@ -1,0 +1,6 @@
+@article{zhang20243d,
+  title={3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation},
+  author={Zhang, Frank and Zhang, Yibo and Zheng, Quan and Ma, Rui and Hua, Wei and Bao, Hujun and Xu, Weiwei and Zou, Changqing},
+  journal={arXiv preprint arXiv:2403.09439},
+  year={2024}
+}
