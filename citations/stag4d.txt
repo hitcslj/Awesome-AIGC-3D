@@ -1,0 +1,6 @@
+@article{zeng2024stag4d,
+  title={Stag4d: Spatial-temporal anchored generative 4d gaussians},
+  author={Zeng, Yifei and Jiang, Yanqin and Zhu, Siyu and Lu, Yuanxun and Lin, Youtian and Zhu, Hao and Hu, Weiming and Cao, Xun and Yao, Yao},
+  journal={arXiv preprint arXiv:2403.14939},
+  year={2024}
+}
