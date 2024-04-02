@@ -1,0 +1,6 @@
+@article{wang2024themestation,
+  title={Themestation: Generating theme-aware 3d assets from few exemplars},
+  author={Wang, Zhenwei and Wang, Tengfei and Hancke, Gerhard and Liu, Ziwei and Lau, Rynson WH},
+  journal={arXiv preprint arXiv:2403.15383},
+  year={2024}
+}
