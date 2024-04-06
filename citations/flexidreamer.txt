@@ -1,0 +1,8 @@
+@misc{zhao2024flexidreamer,
+      title={FlexiDreamer: Single Image-to-3D Generation with FlexiCubes}, 
+      author={Ruowen Zhao and Zhengyi Wang and Yikai Wang and Zihan Zhou and Jun Zhu},
+      year={2024},
+      eprint={2404.00987},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
