@@ -1,0 +1,6 @@
+@article{wang2024lift3d,
+  title={Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D},
+  author={Wang, Peihao and Fan, Zhiwen and Wang, Zhangyang and Su, Hao and Ramamoorthi, Ravi and others},
+  journal={arXiv preprint arXiv:2403.18922},
+  year={2024}
+}

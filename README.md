@@ -69,8 +69,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Learning the 3D Fauna of the Web](https://arxiv.org/abs/2401.02400), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
 - [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Qian et al., arxiv 2024 | [github](https://github.com/FVPLab/Argus-3D) | [bibtext](./citations/argus3d.txt)
 - [LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation](https://arxiv.org/abs/2403.12019), Lan et al., arxiv 2024 | [github](https://github.com/NIRVANALAN/LN3Diff) | [bibtext](./citations/LN3Diff.txt)
-- [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://justimyhxu.github.io/projects/grm/), Xu et al., arxiv 2024 | [github](https://github.com/justimyhxu/grm) | [bibtext](./citations/grm.txt)
-
+- [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621), Xu et al., arxiv 2024 | [github](https://github.com/justimyhxu/grm) | [bibtext](./citations/grm.txt)
+- [Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D](https://arxiv.org/abs/2403.18922), Varma T et al., CVPR 2024 | [github](https://github.com/MukundVarmaT/Lift3D) | [bibtext](./citations/lift3d.txt)
 
 
 
