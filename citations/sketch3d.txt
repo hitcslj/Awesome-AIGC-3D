@@ -1,0 +1,6 @@
+@article{zheng2024sketch3d,
+  title={Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation},
+  author={Zheng, Wangguandong and Xia, Haifeng and Chen, Rui and Shao, Ming and Xia, Siyu and Ding, Zhengming},
+  journal={arXiv preprint arXiv:2404.01843},
+  year={2024}
+}

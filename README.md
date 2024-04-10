@@ -253,7 +253,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image](https://arxiv.org/abs/2403.12013), Fu et al., arxiv 2024 | [github](https://github.com/fuxiao0719/GeoWizard) | [bibtex](./citations/geowizard.txt)
 - [ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars](https://arxiv.org/abs/2403.15383), Wang et al., arxiv 2024 | [github](https://github.com/3DThemeStation/ThemeStation) | [bibtex](./citations/ThemeStation.txt)
 - [FlexiDreamer: Single Image-to-3D Generation with FlexiCubes](https://arxiv.org/abs/2404.00987), Zhao et al., arxiv 2024 | [github](https://github.com/zhaorw02/FlexiDreamer) | [bibtex](./citations/flexidreamer.txt)
-
+- [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://arxiv.org/abs/2404.01843), Zheng et al., arxiv 2024 | [bibtex](./citations/sketch3d.txt)
 
 
 
