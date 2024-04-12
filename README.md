@@ -320,6 +320,15 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 <summary>Others</summary>
 
 <details open>
+<summary>Physical</summary>
+
+- [Physical Property Understanding from Language-Embedded Feature Fields](https://arxiv.org/abs/2404.04242), Zhai et al., CVPR 2024 | [github](https://github.com/ajzhai/NeRF2Physics) | [bibtext](./citations/nerf2physics.txt) 
+
+</details>
+
+
+
+<details open>
 <summary>Texture</summary>
 
 - [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions](https://arxiv.org/abs/2112.01530), Höllein et al., CVPR 2022 | [github](https://github.com/lukasHoel/stylemesh) | [bibtex](./citations/stylemesh.txt)

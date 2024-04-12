@@ -1,0 +1,6 @@
+@inproceedings{zhai2024physical,
+  title={Physical Property Understanding from Language-Embedded Feature Fields},
+  author={Zhai, Albert J and Shen, Yuan and Chen, Emily Y and Wang, Gloria X and Wang, Xinlei and Wang, Sheng and Guan, Kaiyu and Wang, Shenlong},
+  booktitle={CVPR},
+  year={2024}
+}
