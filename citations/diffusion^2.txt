@@ -1,0 +1,6 @@
+@article{yang2024diffusion,
+  title={Diffusion $\^{} 2$: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models},
+  author={Yang, Zeyu and Pan, Zijie and Gu, Chun and Zhang, Li},
+  journal={arXiv preprint arXiv:2404.02148},
+  year={2024}
+}
