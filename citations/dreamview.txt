@@ -1,0 +1,6 @@
+@article{yan2024DreamView,
+  author = {Yan, Junkai and Gao, Yipeng and Yang, Qize and Wei, Xihan and Xie, Xuansong and Wu, Ancong and Zheng, Wei-Shi},
+  title = {DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation},
+  journal = {arXiv},
+  year = {2024}
+}
