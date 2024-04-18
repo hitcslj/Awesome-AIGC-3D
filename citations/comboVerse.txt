@@ -1,0 +1,6 @@
+@article{chen2024comboverse,
+  title={Comboverse: Compositional 3d assets creation using spatially-aware diffusion guidance},
+  author={Chen, Yongwei and Wang, Tengfei and Wu, Tong and Pan, Xingang and Jia, Kui and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2403.12409},
+  year={2024}
+}
