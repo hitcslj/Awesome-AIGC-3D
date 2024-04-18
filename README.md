@@ -314,6 +314,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians](https://arxiv.org/abs/2403.14939), Zeng et al., arxiv 2024  | [bibtext](./citations/stag4d.txt)
 - [TC4D: Trajectory-Conditioned Text-to-4D Generation](https://arxiv.org/abs/2403.17920), Bahmani et al., arxiv 2024  | [bibtext](./citations/tc4d.txt)
 - [Diffusion^2: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models](https://arxiv.org/abs/2404.02148), Yang et al., arxiv 2024  | [bibtext](./citations/diffusion^2.txt)
+- [Hash3D: Training-free Acceleration for 3D Generation](https://arxiv.org/abs/2404.06091), Yang et al., arxiv 2024 | [github](https://github.com/Adamdad/hash3D) | [bibtext](./citations/hash3d.txt)
 
 </details>
 

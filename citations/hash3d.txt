@@ -1,0 +1,6 @@
+@article{yang2024hash3d,
+  title={Hash3D: Training-free Acceleration for 3D Generation},
+  author={Yang, Xingyi and Wang, Xinchao},
+  journal={arXiv preprint arXiv:2404.06091},
+  year={2024}
+}
