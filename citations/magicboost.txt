@@ -1,0 +1,6 @@
+@article{yang2024magic,
+  title={Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion},
+  author={Yang, Fan and Zhang, Jianfeng and Shi, Yichun and Chen, Bowen and Zhang, Chenxu and Zhang, Huichao and Yang, Xiaofeng and Feng, Jiashi and Lin, Guosheng},
+  journal={arXiv preprint arXiv:2404.06429},
+  year={2024}
+}
