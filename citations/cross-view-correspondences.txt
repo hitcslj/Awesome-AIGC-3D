@@ -1,0 +1,6 @@
+@article{kim2024enhancing,
+  title={Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences},
+  author={Kim, Seungwook and Li, Kejie and Deng, Xueqing and Shi, Yichun and Cho, Minsu and Wang, Peng},
+  journal={arXiv preprint arXiv:2404.10603},
+  year={2024}
+}
