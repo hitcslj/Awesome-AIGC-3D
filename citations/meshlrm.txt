@@ -1,0 +1,6 @@
+@article{wei2024meshlrm,
+  title={MeshLRM: Large Reconstruction Model for High-Quality Mesh},
+  author={Wei, Xinyue and Zhang, Kai and Bi, Sai and Tan, Hao and Luan, Fujun and Deschaintre, Valentin and Sunkavalli, Kalyan and Su, Hao and Xu, Zexiang},
+  journal={arXiv preprint arXiv:2404.12385},
+  year={2024}
+}
