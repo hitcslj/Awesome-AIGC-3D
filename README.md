@@ -381,6 +381,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene](https://arxiv.org/abs/2312.07541), Duckworth et al., arxiv 2023 | [bibtex](./citations/smerf.txt)
 - [Triplane Meets Gaussian Splatting:Fast and Generalizable Single-View 3D Reconstruction with Transformers](https://arxiv.org/abs/2312.09147), Zou et al., arxiv 2023 | [bibtex](./citations/tmgs.txt)
 - [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937), Huang et al., arxiv 2023 | [github](https://github.com/yihua7/SC-GS) | [bibtex](./citations/scgs.txt)
+- [DMesh: A Differentiable Representation for General Meshes](https://arxiv.org/abs/2404.13445), Son et al., arxiv 2024 | [github](https://github.com/SonSang/dmesh) | [bibtex](./citations/dmesh.txt)
+
 </details>
 
 </details>

@@ -1,0 +1,8 @@
+@misc{son2024dmesh,
+      title={DMesh: A Differentiable Representation for General Meshes}, 
+      author={Sanghyun Son and Matheus Gadelha and Yang Zhou and Zexiang Xu and Ming C. Lin and Yi Zhou},
+      year={2024},
+      eprint={2404.13445},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
