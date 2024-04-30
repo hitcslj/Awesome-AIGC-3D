@@ -1,0 +1,6 @@
+@article{dong2024interactive3d,
+  title={Interactive3D: Create What You Want by Interactive 3D Generation},
+  author={Dong, Shaocong and Ding, Lihe and Huang, Zhanpeng and Wang, Zibin and Xue, Tianfan and Xu, Dan},
+  journal={arXiv preprint arXiv:2404.16510},
+  year={2024}
+}
