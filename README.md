@@ -257,6 +257,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://arxiv.org/abs/2404.01843), Zheng et al., arxiv 2024 | [bibtex](./citations/sketch3d.txt)
 - [DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation](https://arxiv.org/abs/2404.06119), Yan et al., arxiv 2024 | [github](https://github.com/iSEE-Laboratory/DreamView) | [bibtex](./citations/dreamview.txt)
 - [InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models](https://arxiv.org/abs/2404.07191), Xu et al., arxiv 2024 | [github](https://github.com/TencentARC/InstantMesh) | [bibtex](./citations/instant_mesh.txt)
+- [DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing](https://arxiv.org/abs/2404.18929), Chen et al., arxiv 2024 | [github](https://github.com/silent-chen/DGE) | [bibtex](./citations/dge.txt)
 
 
 </details>

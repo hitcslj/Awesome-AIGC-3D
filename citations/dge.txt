@@ -1,0 +1,6 @@
+@article{chen2024dge,
+      title={DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing},
+      author={Minghao Chen and Iro Laina and Andrea Vedaldi},
+      journal={arXiv preprint arXiv:2404.18929},
+      year={2024}
+}
