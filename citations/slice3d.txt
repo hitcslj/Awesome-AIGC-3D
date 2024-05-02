@@ -1,0 +1,6 @@
+@article{wang2023slice3d,
+  title={Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction},
+  author={Wang, Yizhi and Lira, Wallace and Wang, Wenqi and Mahdavi-Amiri, Ali and Zhang, Hao},
+  journal={arXiv preprint arXiv:2312.02221},
+  year={2023}
+}
