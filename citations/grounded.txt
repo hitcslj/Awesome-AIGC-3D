@@ -1,0 +1,6 @@
+@article{li2024grounded,
+  title={Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model},
+  author={Li, Xiaolong and Mo, Jiawei and Wang, Ying and Parameshwara, Chethan and Fei, Xiaohan and Swaminathan, Ashwin and Taylor, CJ and Tu, Zhuowen and Favaro, Paolo and Soatto, Stefano},
+  journal={arXiv preprint arXiv:2404.18065},
+  year={2024}
+}
