@@ -73,7 +73,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D](https://arxiv.org/abs/2403.18922), Varma T et al., CVPR 2024 | [github](https://github.com/MukundVarmaT/Lift3D) | [bibtext](./citations/lift3d.txt)
 - [MeshLRM: Large Reconstruction Model for High-Quality Meshes](https://arxiv.org/abs/2404.12385), Wei et al., arxiv 2024 | [bibtext](./citations/meshlrm.txt)
 - [Interactive3D🪄: Create What You Want by Interactive 3D Generation](https://arxiv.org/abs/2404.16510), Dong et al., CVPR 2024 | [github](https://github.com/interactive-3d/interactive3d) | [bibtex](./citations/interactive3D.txt)
-
+- [GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting](https://arxiv.org/abs/2404.19702), Zhang et al., arxiv 2024 | [bibtex](./citations/gs-lrm.txt)
 
 </details>
 
