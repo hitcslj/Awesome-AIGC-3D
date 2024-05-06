@@ -1,0 +1,6 @@
+@article{ye2024gaustudio,
+  title={GauStudio: A Modular Framework for 3D Gaussian Splatting and Beyond},
+  author={Ye, Chongjie and Nie, Yinyu and Chang, Jiahao and Chen, Yuantao and Zhi, Yihao and Han, Xiaoguang},
+  journal={arXiv preprint arXiv:2403.19632},
+  year={2024}
+}

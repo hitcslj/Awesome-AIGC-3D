@@ -73,7 +73,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D](https://arxiv.org/abs/2403.18922), Varma T et al., CVPR 2024 | [github](https://github.com/MukundVarmaT/Lift3D) | [bibtext](./citations/lift3d.txt)
 - [MeshLRM: Large Reconstruction Model for High-Quality Meshes](https://arxiv.org/abs/2404.12385), Wei et al., arxiv 2024 | [bibtext](./citations/meshlrm.txt)
 - [Interactive3D🪄: Create What You Want by Interactive 3D Generation](https://arxiv.org/abs/2404.16510), Dong et al., CVPR 2024 | [github](https://github.com/interactive-3d/interactive3d) | [bibtex](./citations/interactive3D.txt)
-- [GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting](https://arxiv.org/abs/2404.19702), Zhang et al., arxiv 2024 | [bibtex](./citations/gs-lrm.txt)
+
 
 </details>
 
@@ -259,7 +259,6 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation](https://arxiv.org/abs/2404.06119), Yan et al., arxiv 2024 | [github](https://github.com/iSEE-Laboratory/DreamView) | [bibtex](./citations/dreamview.txt)
 - [InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models](https://arxiv.org/abs/2404.07191), Xu et al., arxiv 2024 | [github](https://github.com/TencentARC/InstantMesh) | [bibtex](./citations/instant_mesh.txt)
 - [DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing](https://arxiv.org/abs/2404.18929), Chen et al., arxiv 2024 | [github](https://github.com/silent-chen/DGE) | [bibtex](./citations/dge.txt)
-- [Grounded Compositional and Diverse Text-to-3D with Pretrained Multi-View Diffusion Model](https://arxiv.org/abs/2404.18065), Li et al., arxiv 2024 | [bibtex](./citations/grounded.txt)
 
 
 
@@ -427,6 +426,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Dream Textures](https://github.com/carson-katri/dream-textures), Carson Katri, 2023 
 - [ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures), Alexander Dzhoganov, 2023  
 - [ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack), MrForExample, 2024
+- [GauStudio](https://arxiv.org/abs/2403.19632), Ye et al., arxiv 2024 | [github](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) | [bibtex](./citations/gaustudio.txt)
+
 
 ## License 
 Awesome AIGC 3D is released under the [MIT license](./LICENSE).
