@@ -1,0 +1,6 @@
+@article{zhang2024mapa,
+  title={MaPa: Text-driven Photorealistic Material Painting for 3D Shapes},
+  author={Zhang, Shangzhan and Peng, Sida and Xu, Tao and Yang, Yuanbo and Chen, Tianrun and Xue, Nan and Shen, Yujun and Bao, Hujun and Hu, Ruizhen and Zhou, Xiaowei},
+  journal={arXiv preprint arXiv:2404.17569},
+  year={2024}
+}
