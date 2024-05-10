@@ -322,6 +322,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Hash3D: Training-free Acceleration for 3D Generation](https://arxiv.org/abs/2404.06091), Yang et al., arxiv 2024 | [github](https://github.com/Adamdad/hash3D) | [bibtext](./citations/hash3d.txt)
 - [Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion](https://arxiv.org/abs/2404.06429), Yang et al., arxiv 2024 | [github](https://github.com/magic-research/magic-boost) | [bibtext](./citations/magicboost.txt)
 - [Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences](https://arxiv.org/abs/2404.10603), Kim et al., CVPR 2024 | [bibtext](./citations/cross-view-correspondences.txt)
+- [DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos](https://arxiv.org/abs/2405.02280), Chu et al., arxiv 2024 | [github](https://github.com/dreamscene4d/dreamscene4d) | [bibtext](./citations/dreamscene4d.txt)
 
 </details>
 
