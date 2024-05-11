@@ -365,6 +365,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models](https://arxiv.org/abs/2312.13913), Zeng et al., arxiv 2023 | [github](https://github.com/OpenTexture/Paint3D) | [bibtext](./citations/paint3d.txt) 
 - [TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion](https://arxiv.org/abs/2401.09416), Yeh et al., arxiv 2024 | [bibtext](./citations/texturedreamer.txt) 
 - [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251), Deng et al., arxiv 2024 | [bibtext](./citations/flashtex.txt) 
+- [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials](https://arxiv.org/abs/2404.16829), Fang et al., arxiv 2024 | [github](https://github.com/Aleafy/Make_it_Real) | [bibtext](./citations/make-it-real.txt) 
 - [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](https://arxiv.org/abs/2404.17569), Zhang et al., SIGGRAPH 2024 | [bibtext](./citations/mapa.txt) 
 
 </details>

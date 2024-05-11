@@ -1,0 +1,8 @@
+@misc{fang2024makeitreal,
+      title={Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials}, 
+      author={Ye Fang and Zeyi Sun and Tong Wu and Jiaqi Wang and Ziwei Liu and Gordon Wetzstein and Dahua Lin},
+      year={2024},
+      eprint={2404.16829},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
