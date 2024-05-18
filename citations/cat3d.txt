@@ -1,0 +1,8 @@
+@article{gao2024cat3d,
+    title={CAT3D: Create Anything in 3D with Multi-View Diffusion Models},
+    author={Ruiqi Gao* and Aleksander Holynski* and Philipp Henzler and Arthur Brussee and Ricardo Martin-Brualla and Pratul P. Srinivasan and Jonathan T. Barron and Ben Poole*
+    },
+    journal={arXiv},
+    year={2024}
+}
+    
