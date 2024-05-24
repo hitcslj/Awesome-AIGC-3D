@@ -1,0 +1,6 @@
+@article{xu2024brepgen,
+  title={BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry},
+  author={Xu, Xiang and Lambourne, Joseph G and Jayaraman, Pradeep Kumar and Wang, Zhengqing and Willis, Karl DD and Furukawa, Yasutaka},
+  journal={arXiv preprint arXiv:2401.15563},
+  year={2024}
+}
