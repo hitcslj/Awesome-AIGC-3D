@@ -74,6 +74,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [MeshLRM: Large Reconstruction Model for High-Quality Meshes](https://arxiv.org/abs/2404.12385), Wei et al., arxiv 2024 | [bibtext](./citations/meshlrm.txt)
 - [Interactive3D🪄: Create What You Want by Interactive 3D Generation](https://arxiv.org/abs/2404.16510), Dong et al., CVPR 2024 | [github](https://github.com/interactive-3d/interactive3d) | [bibtex](./citations/interactive3D.txt)
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
+- [Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer](https://arxiv.org/abs/2405.14832), Wu et al., arxiv 2024 | [bibtex](./citations/direct3d.txt)
 
 </details>
 

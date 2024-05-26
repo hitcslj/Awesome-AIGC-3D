@@ -1,0 +1,6 @@
+@article{wu2024direct3d,
+  title={Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer},
+  author={Wu, Shuang and Lin, Youtian and Zhang, Feihu and Zeng, Yifei and Xu, Jingxi and Torr, Philip and Cao, Xun and Yao, Yao},
+  journal={arXiv preprint arXiv:2405.14832},
+  year={2024}
+}
