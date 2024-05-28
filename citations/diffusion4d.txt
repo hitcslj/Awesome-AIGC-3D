@@ -1,0 +1,7 @@
+@article{liang2024diffusion4d,
+  title={Diffusion4D: Fast Spatial-temporal Consistent
+    4D Generation via Video Diffusion Models},
+  author={},
+  journal={arXiv preprint arXiv:},
+  year={2024}
+}
