@@ -1,0 +1,6 @@
+@article{wang2024vidu4d,
+  title={Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels},
+  author={Yikai Wang and Xinzhou Wang and Zilong Chen and Zhengyi Wang and Fuchun Sun and Jun Zhu},
+  journal={arXiv preprint arXiv},
+  year={2024}
+}
