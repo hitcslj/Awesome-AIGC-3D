@@ -263,7 +263,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [MicroDreamer: Zero-shot 3D Generation in ∼20 Seconds by Score-based Iterative Reconstruction](https://arxiv.org/abs/2404.19525), Chen et al., arxiv 2024 | [github](https://github.com/ML-GSAI/MicroDreamer) | [bibtex](./citations/microdreamer.txt)
 - [SketchDream: Sketch-based Text-to-3D Generation and Editing](https://arxiv.org/abs/2405.06461), Liu et al., SIGGRAPH 2024 | [bibtex](./citations/sketchdream.txt)
 - [Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](https://arxiv.org/abs/2405.20343), Wu et al., arxiv 2024 | [github](https://github.com/AiuniAI/Unique3D) | [bibtex](./citations/unique3d.txt)
-
+- [Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation](https://arxiv.org/abs/2405.20669), Yang et al., arxiv 2024 | [github](https://github.com/Ysz2022/Fourier123) | [bibtex](./citations/fourier123.txt)
 
 </details>
 

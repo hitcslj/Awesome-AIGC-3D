@@ -1,0 +1,8 @@
+@misc{yang2024fourier123,
+      title={Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation}, 
+      author={Shuzhou Yang and Yu Wang and Haijie Li and Jiarui Meng and Xiandong Meng and Jian Zhang},
+      year={2024},
+      eprint={2405.20669},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
