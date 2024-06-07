@@ -1,0 +1,8 @@
+@misc{liu2024physics3d,
+      title={Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion}, 
+      author={Fangfu Liu and Hanyang Wang and Shunyu Yao and Shengjun Zhang and Jie Zhou and Yueqi Duan},
+      year={2024},
+      eprint={2406.04338},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
