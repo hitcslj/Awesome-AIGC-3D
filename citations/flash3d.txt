@@ -1,0 +1,6 @@
+@article{szymanowicz2024flash3d,
+  author    = {Szymanowicz, Stanislaw and Insafutdinov, Eldar and Zheng, Chuanxia and Campbell, Dylan and Henriques, Joao and Rupprecht, Christian and Vedaldi, Andrea},
+  title     = {Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image},
+  journal   = {arxiv},
+  year      = {2024},
+}
