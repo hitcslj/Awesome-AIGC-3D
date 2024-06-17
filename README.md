@@ -333,6 +333,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](https://arxiv.org/abs/2405.16645), Liang et al., arxiv 2024 | [github](https://github.com/VITA-Group/Diffusion4D) | [bibtext](./citations/diffusion4d.txt)
 - [Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels](https://arxiv.org/abs/2405.16822), Wang et al., arxiv 2024 | [github](https://github.com/yikaiw/vidu4d) | [bibtext](./citations/vidu4d.txt)
 - [Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Physics3D) | [bibtext](./citations/physics3D.txt)
+- [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472), Liu et al., arxiv 2024 | [bibtext](./citations/4real.txt)
+
 
 </details>
 
