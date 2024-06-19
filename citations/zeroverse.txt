@@ -1,0 +1,8 @@
+@misc{xie2024lrmzero,
+      title={LRM-Zero: Training Large Reconstruction Models with Synthesized Data}, 
+      author={Desai Xie and Sai Bi and Zhixin Shu and Kai Zhang and Zexiang Xu and Yi Zhou and Sören Pirk and Arie Kaufman and Xin Sun and Hao Tan},
+      year={2024},
+      eprint={2406.09371},
+      archivePrefix={arXiv},
+      primaryClass={id='cs.CV' full_name='Computer Vision and Pattern Recognition' is_active=True alt_name=None in_archive='cs' is_general=False description='Covers image processing, computer vision, pattern recognition, and scene understanding. Roughly includes material in ACM Subject Classes I.2.10, I.4, and I.5.'}
+}

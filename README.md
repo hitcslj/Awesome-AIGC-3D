@@ -415,6 +415,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://arxiv.org/abs/2401.04092), Wu et al., arXiv 2024 | [github](https://github.com/3DTopia/GPTEval3D) | [bibtext](./citations/gpt4v.txt) 
 - [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/abs/2401.09340), Jia et al., arXiv 2024 | [bibtext](./citations/sceneverse.txt) 
 - [Make-A-Shape: a Ten-Million-scale 3D Shape Model](https://arxiv.org/abs/2401.11067), Wu et al., arXiv 2024 | [bibtext](./citations/make-a-shape.txt) 
+- [Zeroverse](https://arxiv.org/abs/2406.09371), Xie et al., arXiv 2024 | [github](https://github.com/desaixie/zeroverse) | [bibtext](./citations/zeroverse.txt) 
 
 
 ## Talks
