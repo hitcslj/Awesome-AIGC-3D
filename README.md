@@ -76,6 +76,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
 - [Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer](https://arxiv.org/abs/2405.14832), Wu et al., arxiv 2024 | [bibtex](./citations/direct3d.txt)
 - [MeshAnything:Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., arxiv 2024 | [github](https://github.com/buaacyw/MeshAnything) | [bibtex](./citations/meshAnything.txt)
+- [CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets](https://arxiv.org/abs/2406.13897), Zhang et al., TOG 2024 | [github](https://github.com/CLAY-3D/OpenCLAY) | [bibtex](./citations/clay.txt)
 
 </details>
 

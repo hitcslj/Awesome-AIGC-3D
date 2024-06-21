@@ -1,0 +1,6 @@
+@article{zhang2024clay,
+  title={CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets},
+  author={Longwen Zhang, Ziyu Wang, Qixuan Zhang, Qiwei Qiu, Anqi Pang, Haoran Jiang, Wei Yang,  Lan Xu,  Jingyi Yu},
+  journal={arXiv preprint arXiv:2406.13897},
+  year={2024}
+}
