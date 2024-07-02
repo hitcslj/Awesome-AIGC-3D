@@ -1,0 +1,6 @@
+@article{GaussianDreamerPro,
+    title={GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality},
+    author={Yi, Taoran and Fang, Jiemin and Zhou, Zanwei and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Wang, Xinggang and Tian, Qi},
+    journal={arXiv:2406.18462},
+    year={2024}
+}

@@ -151,7 +151,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Score Distillation Sampling with Learned Manifold Corrective](https://arxiv.org/abs/2401.05293), Alldieck et al., arxiv 2024 | [bibtex](./citations/sdslmc.txt)
 - [Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior](https://arxiv.org/abs/2401.09050), Wu et al., arxiv 2024 | [bibtex](./citations/consistent3d.txt)
 - [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Zhuang et al., arxiv 2024 | [bibtex](./citations/tipEditor.txt)
-
+- [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Yi et al., arxiv 2024 | [github](https://github.com/hustvl/GaussianDreamerPro) | [bibtex](./citations/gaussianDreamerPro.txt)
 
 </details>
 
