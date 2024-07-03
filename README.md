@@ -270,6 +270,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation](https://arxiv.org/abs/2405.20669), Yang et al., arxiv 2024 | [github](https://github.com/Ysz2022/Fourier123) | [bibtex](./citations/fourier123.txt)
 - [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://arxiv.org/abs/2405.10314), Gao et al., arxiv 2024 | [bibtext](./citations/cat3d.txt)
 - [CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner](https://arxiv.org/abs/2405.14979), Li et al., arxiv 2024 | [github](https://github.com/wyysf-98/CraftsMan) | [bibtext](./citations/craftsman.txt)
+- [Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials](https://arxiv.org/abs/2407.02445), Siddiqui et al., arxiv 2024 | [bibtext](./citations/meta3dAsset.txt)
 
 </details>
 
@@ -382,6 +383,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251), Deng et al., arxiv 2024 | [bibtext](./citations/flashtex.txt) 
 - [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials](https://arxiv.org/abs/2404.16829), Fang et al., arxiv 2024 | [github](https://github.com/Aleafy/Make_it_Real) | [bibtext](./citations/make-it-real.txt) 
 - [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](https://arxiv.org/abs/2404.17569), Zhang et al., SIGGRAPH 2024 | [bibtext](./citations/mapa.txt) 
+- [Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects](https://arxiv.org/abs/2407.02430), Bensadoun et al., arxiv 2024 | [bibtext](./citations/meta3dtexture.txt) 
 
 </details>
 

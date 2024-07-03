@@ -1,0 +1,9 @@
+@misc{bensadoun2024meta3dtexturegenfast,
+      title={Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects}, 
+      author={Raphael Bensadoun and Yanir Kleiman and Idan Azuri and Omri Harosh and Andrea Vedaldi and Natalia Neverova and Oran Gafni},
+      year={2024},
+      eprint={2407.02430},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.02430}, 
+}

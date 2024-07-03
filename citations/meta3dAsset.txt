@@ -1,0 +1,9 @@
+@misc{siddiqui2024meta3dassetgentexttomesh,
+      title={Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials}, 
+      author={Yawar Siddiqui and Tom Monnier and Filippos Kokkinos and Mahendra Kariya and Yanir Kleiman and Emilien Garreau and Oran Gafni and Natalia Neverova and Andrea Vedaldi and Roman Shapovalov and David Novotny},
+      year={2024},
+      eprint={2407.02445},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.02445}, 
+}
