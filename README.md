@@ -78,6 +78,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [MeshAnything:Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., arxiv 2024 | [github](https://github.com/buaacyw/MeshAnything) | [bibtex](./citations/meshAnything.txt)
 - [CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets](https://arxiv.org/abs/2406.13897), Zhang et al., TOG 2024 | [github](https://github.com/CLAY-3D/OpenCLAY) | [bibtex](./citations/clay.txt)
 - [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Ren et al., arxiv 2024 | [bibtex](./citations/l4gm.txt)
+- [Efficient Large-Baseline Radiance Fields, a feed-forward 2DGS model](https://arxiv.org/abs/2407.04699v1), Chen et al., ECCV 2024 | [github](https://github.com/autonomousvision/LaRa) | [bibtex](./citations/LaRa.txt)
 
 
 </details>

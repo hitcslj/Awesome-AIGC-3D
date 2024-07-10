@@ -1,0 +1,6 @@
+@article{chen2024lara,
+  title={LaRa: Efficient Large-Baseline Radiance Fields},
+  author={Chen, Anpei and Xu, Haofei and Esposito, Stefano and Tang, Siyu and Geiger, Andreas},
+  journal={arXiv preprint arXiv:2407.04699},
+  year={2024}
+}
