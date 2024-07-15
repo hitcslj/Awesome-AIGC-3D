@@ -1,0 +1,6 @@
+@article{liu2024vqa,
+  title={VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving},
+  author={Liu, Yibo and Yang, Zheyuan and Wu, Guile and Ren, Yuan and Lin, Kejian and Liu, Bingbing and Liu, Yang and Shan, Jinjun},
+  journal={arXiv preprint arXiv:2407.06516},
+  year={2024}
+}
