@@ -1,0 +1,6 @@
+@article{guo2024physically,
+  title={Physically Compatible 3D Object Modeling from a Single Image},
+  author={Guo, Minghao and Wang, Bohan and Ma, Pingchuan and Zhang, Tianyuan and Owens, Crystal Elaine and Gan, Chuang and Tenenbaum, Joshua B and He, Kaiming and Matusik, Wojciech},
+  journal={arXiv preprint arXiv:2405.20510},
+  year={2024}
+}

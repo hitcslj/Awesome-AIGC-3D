@@ -353,6 +353,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 <summary>Physical</summary>
 
 - [Physical Property Understanding from Language-Embedded Feature Fields](https://arxiv.org/abs/2404.04242), Zhai et al., CVPR 2024 | [github](https://github.com/ajzhai/NeRF2Physics) | [bibtext](./citations/nerf2physics.txt) 
+- [Physically Compatible 3D Object Modeling from a Single Image](https://arxiv.org/abs/2405.20510v1), Guo et al., arxiv 2024 | [bibtext](./citations/physically_3d.txt)
 
 </details>
 
