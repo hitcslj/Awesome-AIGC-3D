@@ -42,6 +42,8 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions](https://arxiv.org/abs/2211.13757), Chou et al., ICCV  2023 |  [github](https://github.com/princeton-computational-imaging/Diffusion-SDF) | [bibtex](./citations/diffusionsdf.txt)
 - [MagicPony: Learning Articulated 3D Animals in the Wild](https://arxiv.org/abs/2211.12497), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/magicpony.txt)
 - [DiffRF: Rendering-guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206), Müller et al., CVPR 2023 | [bibtex](./citations/diffRF.txt)
+- [ShAPO: Implicit Representations for Multi Object Shape Appearance and Pose Optimization](https://arxiv.org/abs/2207.13691), Irshad et al., ICRA 2022 | [bibtex](./citations/centersnap.txt)
+- [CenterSnap: Single-Shot Multi-Object 3D Shape Reconstruction and Categorical 6D Pose and Size Estimation](https://arxiv.org/abs/2203.01929), Irshad et al., ECCV 2022 | [bibtex](./citations/shapo.txt)
 - [SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation](https://arxiv.org/abs/2212.04493), Cheng et al., CVPR  2023 |  [github](https://github.com/yccyenchicheng/SDFusion) | [bibtex](./citations/sdfusion.txt)
 - [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Nichol et al., arxiv  2022 |  [github](https://github.com/openai/point-e) | [bibtex](./citations/pointe.txt)
 - [3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models](https://arxiv.org/abs/2301.11445), Zhang et al., TOG 2023 |  [github](https://github.com/1zb/3DShape2VecSet) | [bibtex](./citations/3dShape2VecSet.txt)
@@ -95,6 +97,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085), Liu et al., arxiv 2023 | [github](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) | [bibtext](./citations/pyramid.txt) 
 - [XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://arxiv.org/abs/2312.03806), Ren et al., arxiv 2023 | [bibtex](./citations/xcube.txt)
 - [DUSt3R: Geometric 3D Vision Made Easy](https://arxiv.org/abs/2312.14132), Wang et al., arxiv 2023 | [github](https://github.com/naver/dust3r) | [bibtext](./citations/dust3r.txt)
+- [NeO 360: Neural Fields for Sparse View Synthesis of Outdoor Scenes](https://arxiv.org/abs/2308.12967), Irshad et al., ICCV 2023 | [github](https://github.com/zubair-irshad/NeO-360) | [bibtext](./citations/neo360.txt)
 
 
 </details>
@@ -361,6 +364,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 <details open>
 <summary>Texture</summary>
 
+- [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488), Irshad et al., CVPRW 2024 | [github](https://ice-gaussian.github.io/) | [bibtex](./citations/icegaussians.txt)
 - [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions](https://arxiv.org/abs/2112.01530), Höllein et al., CVPR 2022 | [github](https://github.com/lukasHoel/stylemesh) | [bibtex](./citations/stylemesh.txt)
 - [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://arxiv.org/abs/2203.13333), Khalid et al., SIGGRAPH Asia 2022 | [github](https://github.com/NasirKhalid24/CLIP-Mesh) | [bibtex](./citations/clipmesh.txt)
 - [TANGO: Text-driven PhotoreAlistic aNd Robust 3D Stylization via LiGhting DecompOsition](https://arxiv.org/abs/2210.11277), Chen et al., NeurIPS 2022 | [github](https://github.com/Gorilla-Lab-SCUT/tango) | [bibtex](./citations/tango.txt)
