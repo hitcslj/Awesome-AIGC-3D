@@ -26,6 +26,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [AI-Generated Content (AIGC) for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177), Foo et al., arxiv 2023 | [bibtex](./citations/aigcvdm.txt)
 - [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807), Li et al., arxiv 2024 | [bibtex](./citations/advance-3dgeneration.txt)
 - [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166), Liu et al., arxiv 2024 | [bibtex](./citations/3dcg.txt)
+- [Geometric Constraints in Deep Learning Frameworks: A Survey](https://arxiv.org/abs/2403.12431), Vats et al., arxiv 2024 | [bibtex](./citations/GeoConstrain.txt)
 
 ## Papers
 
@@ -152,6 +153,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Score Distillation Sampling with Learned Manifold Corrective](https://arxiv.org/abs/2401.05293), Alldieck et al., arxiv 2024 | [bibtex](./citations/sdslmc.txt)
 - [Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior](https://arxiv.org/abs/2401.09050), Wu et al., arxiv 2024 | [bibtex](./citations/consistent3d.txt)
 - [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Zhuang et al., arxiv 2024 | [bibtex](./citations/tipEditor.txt)
+- [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488), Jaganathan et al., CVPRW 2024 | [bibtext](./citations/iceg.txt)
 - [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Yi et al., arxiv 2024 | [github](https://github.com/hustvl/GaussianDreamerPro) | [bibtex](./citations/gaussianDreamerPro.txt)
 
 </details>

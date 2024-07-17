@@ -1,0 +1,6 @@
+@article{vats2024geometric,
+  title={Geometric Constraints in Deep Learning Frameworks: A Survey},
+  author={Vats, Vibhas K and Crandall, David J},
+  journal={arXiv preprint arXiv:2403.12431},
+  year={2024}
+}

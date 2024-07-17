@@ -1,0 +1,6 @@
+@article{jaganathan2024ice,
+  title={ICE-G: Image Conditional Editing of 3D Gaussian Splats},
+  author={Jaganathan, Vishnu and Huang, Hannah Hanyun and Irshad, Muhammad Zubair and Jampani, Varun and Raj, Amit and Kira, Zsolt},
+  journal={arXiv preprint arXiv:2406.08488},
+  year={2024}
+}
