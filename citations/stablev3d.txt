@@ -1,0 +1,9 @@
+@misc{xie2024sv4ddynamic3dcontent,
+      title={SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency}, 
+      author={Yiming Xie and Chun-Han Yao and Vikram Voleti and Huaizu Jiang and Varun Jampani},
+      year={2024},
+      eprint={2407.17470},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.17470}, 
+}
