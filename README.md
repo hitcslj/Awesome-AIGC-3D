@@ -155,7 +155,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Zhuang et al., arxiv 2024 | [bibtex](./citations/tipEditor.txt)
 - [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488), Jaganathan et al., CVPRW 2024 | [bibtext](./citations/iceg.txt)
 - [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Yi et al., arxiv 2024 | [github](https://github.com/hustvl/GaussianDreamerPro) | [bibtex](./citations/gaussianDreamerPro.txt)
-- [ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/abs/2406.18462), Ma et al., ECCV 2024 | [github](https://github.com/theEricMa/ScaleDreamer) | [bibtex](./citations/scaledreamer.txt)
+- [ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/pdf/2407.02040), Ma et al., ECCV 2024 | [github](https://github.com/theEricMa/ScaleDreamer) | [bibtex](./citations/scaledreamer.txt)
 
 </details>
 
