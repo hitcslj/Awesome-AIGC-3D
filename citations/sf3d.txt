@@ -1,0 +1,6 @@
+@article{sf3d2024,
+  title={SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement},
+  author={Boss, Mark and Huang, Zixuan and Vasishta, Aaryaman and Jampani, Varun},
+  journal={arXiv preprint},
+  year={2024}
+}
