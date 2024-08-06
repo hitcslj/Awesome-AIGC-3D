@@ -81,6 +81,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Ren et al., arxiv 2024 | [bibtex](./citations/l4gm.txt)
 - [Efficient Large-Baseline Radiance Fields, a feed-forward 2DGS model](https://arxiv.org/abs/2407.04699v1), Chen et al., ECCV 2024 | [github](https://github.com/autonomousvision/LaRa) | [bibtex](./citations/LaRa.txt)
 - [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., arXiv 2024 | [github](https://github.com/OpenMeshLab/MeshXL) | [bibtex](./citations/meshXL.txt)
+- [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [github](https://github.com/buaacyw/MeshAnythingV2) | [bibtex](./citations/MeshAnythingV2.txt)
 
 </details>
 
