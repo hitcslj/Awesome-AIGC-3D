@@ -1,0 +1,9 @@
+@misc{tang2024cycle3dhighqualityconsistentimageto3d,
+      title={Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle}, 
+      author={Zhenyu Tang and Junwu Zhang and Xinhua Cheng and Wangbo Yu and Chaoran Feng and Yatian Pang and Bin Lin and Li Yuan},
+      year={2024},
+      eprint={2407.19548},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2407.19548}, 
+}

@@ -277,6 +277,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner](https://arxiv.org/abs/2405.14979), Li et al., arxiv 2024 | [github](https://github.com/wyysf-98/CraftsMan) | [bibtext](./citations/craftsman.txt)
 - [Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials](https://arxiv.org/abs/2407.02445), Siddiqui et al., arxiv 2024 | [bibtext](./citations/meta3dAsset.txt)
 - [VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving](https://arxiv.org/abs/2407.06516), Liu et al., ECCV 2024 | [bibtext](./citations/vqadiff.txt)
+- [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Tang et al., arxiv 2024 | [github](https://github.com/PKU-YuanGroup/Cycle3D) | [bibtext](./citations/cycle3d.txt)
 
 </details>
 
