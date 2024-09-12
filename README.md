@@ -83,6 +83,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Efficient Large-Baseline Radiance Fields, a feed-forward 2DGS model](https://arxiv.org/abs/2407.04699v1), Chen et al., ECCV 2024 | [github](https://github.com/autonomousvision/LaRa) | [bibtex](./citations/LaRa.txt)
 - [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [github](https://github.com/buaacyw/MeshAnythingV2) | [bibtex](./citations/MeshAnythingV2.txt)
 - [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Boss et al., arXiv 2024 | [github](https://github.com/Stability-AI/stable-fast-3d) | [bibtex](./citations/sf3d.txt)
+- [G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer](https://arxiv.org/abs/2409.06322), Zhang et al., arXiv 2024 | [bibtex](./citations/g3pt.txt)
 
 </details>
 

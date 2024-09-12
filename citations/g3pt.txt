@@ -1,0 +1,9 @@
+@misc{zhang2024g3ptunleashpowerautoregressive,
+      title={G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer}, 
+      author={Jinzhi Zhang and Feng Xiong and Mu Xu},
+      year={2024},
+      eprint={2409.06322},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.06322}, 
+}
