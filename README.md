@@ -448,6 +448,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [SUDOAI](https://www.sudo.ai/)
 - [Meshy](https://www.meshy.ai/)
 - [StabilityAI](https://stability.ai/)
+- [Deemos](https://hyperhuman.deemos.com/rodin/)
 
 
 
