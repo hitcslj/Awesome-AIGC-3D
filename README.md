@@ -280,6 +280,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials](https://arxiv.org/abs/2407.02445), Siddiqui et al., arxiv 2024 | [bibtext](./citations/meta3dAsset.txt)
 - [VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving](https://arxiv.org/abs/2407.06516), Liu et al., ECCV 2024 | [bibtext](./citations/vqadiff.txt)
 - [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Tang et al., arxiv 2024 | [github](https://github.com/PKU-YuanGroup/Cycle3D) | [bibtext](./citations/cycle3d.txt)
+- [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406), Wang et al., arxiv 2024 | [github](https://github.com/3DTopia/Phidias-Diffusion) | [bibtext](./citations/Phidias.txt)
 
 </details>
 
@@ -443,12 +444,12 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 
 ## Company
 - [TRIPOAI](https://www.tripo3d.ai/)
+- [Meshy](https://www.meshy.ai/)
+- [Deemos](https://hyperhuman.deemos.com/rodin/)
 - [LumaAI](https://lumalabs.ai/)
 - [CSMAI](https://www.csm.ai/)
 - [SUDOAI](https://www.sudo.ai/)
-- [Meshy](https://www.meshy.ai/)
 - [StabilityAI](https://stability.ai/)
-- [Deemos](https://hyperhuman.deemos.com/rodin/)
 
 
 

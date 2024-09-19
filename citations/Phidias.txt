@@ -1,0 +1,9 @@
+@misc{wang2024phidiasgenerativemodelcreating,
+      title={Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion}, 
+      author={Zhenwei Wang and Tengfei Wang and Zexin He and Gerhard Hancke and Ziwei Liu and Rynson W. H. Lau},
+      year={2024},
+      eprint={2409.11406},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.11406}, 
+}
