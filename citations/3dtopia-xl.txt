@@ -1,0 +1,6 @@
+@article{chen20243dtopia,
+  title={3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion},
+  author={Chen, Zhaoxi and Tang, Jiaxiang and Dong, Yuhao and Cao, Ziang and Hong, Fangzhou and Lan, Yushi and Wang, Tengfei and Xie, Haozhe and Wu, Tong and Saito, Shunsuke and others},
+  journal={arXiv preprint arXiv:2409.12957},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@article{yu2024viewcrafter,
+    title={ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis},
+    author={Yu, Wangbo and Xing, Jinbo and Yuan, Li and Hu, Wenbo and Li, Xiaoyu and Huang, Zhipeng and Gao, Xiangjun and Wong, Tien-Tsin and Shan, Ying and Tian, Yonghong},
+    journal={arXiv preprint arXiv:2409.02048},
+    year={2024}
+}
