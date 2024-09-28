@@ -1,0 +1,9 @@
+@misc{tang2024edgerunnerautoregressiveautoencoderartistic,
+      title={EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation}, 
+      author={Jiaxiang Tang and Zhaoshuo Li and Zekun Hao and Xian Liu and Gang Zeng and Ming-Yu Liu and Qinsheng Zhang},
+      year={2024},
+      eprint={2409.18114},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2409.18114}, 
+}

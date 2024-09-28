@@ -85,6 +85,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Boss et al., arXiv 2024 | [github](https://github.com/Stability-AI/stable-fast-3d) | [bibtex](./citations/sf3d.txt)
 - [G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer](https://arxiv.org/abs/2409.06322), Zhang et al., arXiv 2024 | [bibtex](./citations/g3pt.txt)
 - [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957), Chen et al., arXiv 2024 | [github](https://github.com/3DTopia/3DTopia-XL) | [bibtex](./citations/3dtopia-xl.txt)
+- [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., arXiv 2024 | [bibtex](./citations/edge_runner.txt)
 
 </details>
 
