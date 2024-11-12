@@ -452,6 +452,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [CSMAI](https://www.csm.ai/)
 - [SUDOAI](https://www.sudo.ai/)
 - [StabilityAI](https://stability.ai/)
+- [NVIDIA](https://build.nvidia.com/explore/visual-design)
 
 
 
