@@ -283,6 +283,7 @@ A curated list of awesome AIGC 3D papers, inspired by [awesome-NeRF](https://git
 - [VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving](https://arxiv.org/abs/2407.06516), Liu et al., ECCV 2024 | [bibtext](./citations/vqadiff.txt)
 - [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Tang et al., arxiv 2024 | [github](https://github.com/PKU-YuanGroup/Cycle3D) | [bibtext](./citations/cycle3d.txt)
 - [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406), Wang et al., arxiv 2024 | [github](https://github.com/3DTopia/Phidias-Diffusion) | [bibtext](./citations/Phidias.txt)
+- [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](https://arxiv.org/abs/2411.09595), Wang et al., arxiv 2024 | [github](https://github.com/nv-tlabs/LLaMa-Mesh) | [bibtext](./citations/LLaMa-Mesh.txt)
 
 </details>
 
