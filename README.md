@@ -1,6 +1,9 @@
 # Awesome-AIGC-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This is a curated list of remarkable AIGC 3D papers, which is inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF). The progress in the field of 3D has been extremely rapid, and many methods have become obsolete. Here is a preliminary classification:
+This is a curated list of remarkable AIGC 3D papers, which is inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF). 
+
+---
+The progress in the field of 3D has been extremely rapid, and many methods have become obsolete. Here is a preliminary classification:
 
 - **V 0.x**: The SDS version, with the classic work being [DreamFusion]().
 - **V 1.x**: Utilizing multi-view generation + Transformer for reconstruction, and the classic work is [hunyuan3d 1.0](https://arxiv.org/pdf/2411.02293).
@@ -10,6 +13,8 @@ This is a curated list of remarkable AIGC 3D papers, which is inspired by [aweso
 **Possible Directions for High-Quality Geometry Generation**:
 
 - **Mesh Generation**: The representative work is [MeshGPT](https://arxiv.org/pdf/2311.15475). 
+---
+
 <img src="./asset/mvdream.gif" width="696px">
  
 
