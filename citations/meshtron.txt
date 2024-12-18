@@ -1,0 +1,6 @@
+@article{hao2024meshtron,
+  title={Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale},
+  author={Hao, Zekun and Romero, David W and Lin, Tsung-Yi and Liu, Ming-Yu},
+  journal={arXiv preprint arXiv:2412.09548},
+  year={2024}
+}

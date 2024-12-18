@@ -16,8 +16,6 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 ---
 
 <img src="./asset/mvdream.gif" width="696px">
- 
-
 
 #### [How to submit a pull request?](https://github.com/hitcslj/Awesome-AIGC-3D/blob/main/how-to-PR.md)
 
@@ -77,7 +75,6 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217), Xu et al., ICLR 2024 | [bibtex](./citations/dmv3d.txt) 
 - [WildFusion:Learning 3D-Aware Latent Diffusion Models in View Space](https://arxiv.org/abs/2311.13570), Schwarz et al., ICLR 2024 | [bibtex](./citations/wildfusion.txt)
 - [Functional Diffusion](https://arxiv.org/abs/2311.15435), Zhang et al., CVPR 2024 | [github](https://github.com/1zb/functional-diffusion) | [bibtex](./citations/fd.txt)
-- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Siddiqui et al., arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
 - [SPiC·E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention](https://arxiv.org/abs/2311.17834), Sella et al., arxiv 2023 | [github](https://github.com/TAU-VAILab/spic-e) | [bibtex](./citations/spice.txt)
 - [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://arxiv.org/abs/2312.09249), Shi et al., arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)  | [bibtex](./citations/zeroRF.txt) 
 - [Learning the 3D Fauna of the Web](https://arxiv.org/abs/2401.02400), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
@@ -89,16 +86,12 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [Interactive3D🪄: Create What You Want by Interactive 3D Generation](https://arxiv.org/abs/2404.16510), Dong et al., CVPR 2024 | [github](https://github.com/interactive-3d/interactive3d) | [bibtex](./citations/interactive3D.txt)
 - [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
 - [Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer](https://arxiv.org/abs/2405.14832), Wu et al., arxiv 2024 | [bibtex](./citations/direct3d.txt)
-- [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., arXiv 2024 | [github](https://github.com/OpenMeshLab/MeshXL) | [bibtex](./citations/meshXL.txt)
-- [MeshAnything:Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., arxiv 2024 | [github](https://github.com/buaacyw/MeshAnything) | [bibtex](./citations/meshAnything.txt)
 - [CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets](https://arxiv.org/abs/2406.13897), Zhang et al., TOG 2024 | [github](https://github.com/CLAY-3D/OpenCLAY) | [bibtex](./citations/clay.txt)
 - [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Ren et al., arxiv 2024 | [bibtex](./citations/l4gm.txt)
 - [Efficient Large-Baseline Radiance Fields, a feed-forward 2DGS model](https://arxiv.org/abs/2407.04699v1), Chen et al., ECCV 2024 | [github](https://github.com/autonomousvision/LaRa) | [bibtex](./citations/LaRa.txt)
-- [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [github](https://github.com/buaacyw/MeshAnythingV2) | [bibtex](./citations/MeshAnythingV2.txt)
 - [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Boss et al., arXiv 2024 | [github](https://github.com/Stability-AI/stable-fast-3d) | [bibtex](./citations/sf3d.txt)
 - [G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer](https://arxiv.org/abs/2409.06322), Zhang et al., arXiv 2024 | [bibtex](./citations/g3pt.txt)
 - [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957), Chen et al., arXiv 2024 | [github](https://github.com/3DTopia/3DTopia-XL) | [bibtex](./citations/3dtopia-xl.txt)
-- [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., arXiv 2024 | [bibtex](./citations/edge_runner.txt)
 
 </details>
 
@@ -296,7 +289,6 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving](https://arxiv.org/abs/2407.06516), Liu et al., ECCV 2024 | [bibtext](./citations/vqadiff.txt)
 - [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Tang et al., arxiv 2024 | [github](https://github.com/PKU-YuanGroup/Cycle3D) | [bibtext](./citations/cycle3d.txt)
 - [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406), Wang et al., arxiv 2024 | [github](https://github.com/3DTopia/Phidias-Diffusion) | [bibtext](./citations/Phidias.txt)
-- [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](https://arxiv.org/abs/2411.09595), Wang et al., arxiv 2024 | [github](https://github.com/nv-tlabs/LLaMa-Mesh) | [bibtext](./citations/LLaMa-Mesh.txt)
 
 </details>
 
@@ -373,6 +365,25 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 
 <details close>
 <summary>Others</summary>
+
+<details open>
+<summary>Artist Mesh Generation</summary>
+
+- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Siddiqui et al., arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
+- [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., NeurIPS 2024 | [github](https://github.com/OpenMeshLab/MeshXL) | [bibtex](./citations/meshXL.txt)
+- [PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance](https://arxiv.org/abs/2405.16890), Weng et al., ICLR 2024 | [github](https://github.com/whaohan/pivotmesh) | [bibtex](./citations/pivotmesh.txt)
+- [MeshAnything:Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., arxiv 2024 | [github](https://github.com/buaacyw/MeshAnything) | [bibtex](./citations/meshAnything.txt)
+- [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [github](https://github.com/buaacyw/MeshAnythingV2) | [bibtex](./citations/MeshAnythingV2.txt)
+- [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., arXiv 2024 | [github](https://github.com/NVlabs/EdgeRunner) |[bibtex](./citations/edge_runner.txt)
+- [SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes](https://arxiv.org/abs/2409.20562), Shen et al., SIGGRAPH Asia 2024 |[bibtex](./citations/space_mesh.txt)
+- [Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale](https://arxiv.org/abs/2412.09548v1), Hao et al., arxiv 2024 | [bibtex](./citations/meshtron.txt)
+- [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](https://arxiv.org/abs/2411.09595), Wang et al., arxiv 2024 | [github](https://github.com/nv-tlabs/LLaMa-Mesh) | [bibtext](./citations/LLaMa-Mesh.txt)
+- [Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025), Weng et al., arxiv 2024 | [github](https://github.com/whaohan/bpt) | [bibtext](./citations/bpt.txt)
+- [MeshArt: Generating Articulated Meshes with Structure-guided Transformers](https://arxiv.org/abs/2412.11596), Gao et al., arxiv 2024| [bibtext](./citations/meshart.txt)
+
+</details>
+
+
 
 <details open>
 <summary>Physical</summary>
@@ -459,7 +470,12 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 
 
 ## Company
+> More and more startups and large companies are entering the 3D generation field. Perhaps the way out for 3D generation is an online creative engine that provides ordinary users or professional users with high-quality online creation. It is different from traditional services such as Adobe.
+
+
 - [TRIPOAI](https://www.tripo3d.ai/)
+- [Tencent](https://3d.hunyuan.tencent.com/)
+- [ByteDance](https://www.volcengine.com/product/veOmniverse)
 - [Meshy](https://www.meshy.ai/)
 - [Deemos](https://hyperhuman.deemos.com/rodin/)
 - [LumaAI](https://lumalabs.ai/)
@@ -467,7 +483,6 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [SUDOAI](https://www.sudo.ai/)
 - [StabilityAI](https://stability.ai/)
 - [NVIDIA](https://build.nvidia.com/explore/visual-design)
-
 
 
 

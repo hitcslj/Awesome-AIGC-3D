@@ -1,0 +1,9 @@
+@misc{gao2024meshartgeneratingarticulatedmeshes,
+      title={MeshArt: Generating Articulated Meshes with Structure-guided Transformers}, 
+      author={Daoyi Gao and Yawar Siddiqui and Lei Li and Angela Dai},
+      year={2024},
+      eprint={2412.11596},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2412.11596}, 
+}

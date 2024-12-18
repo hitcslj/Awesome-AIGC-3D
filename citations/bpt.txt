@@ -1,0 +1,6 @@
+@article{weng2024scaling,
+  title={Scaling Mesh Generation via Compressive Tokenization}, 
+  author={Haohan Weng and Zibo Zhao and Biwen Lei and Xianghui Yang and Jian Liu and Zeqiang Lai and Zhuo Chen and Yuhong Liu and Jie Jiang and Chunchao Guo and Tong Zhang and Shenghua Gao and C. L. Philip Chen},
+  journal={arXiv preprint arXiv:2411.07025},
+  year={2024}
+}

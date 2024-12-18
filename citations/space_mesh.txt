@@ -1,0 +1,7 @@
+@inproceedings{shen2024spacemesh,
+  title={SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes},
+  author={Shen, Tianchang and Li, Zhaoshuo and Law, Marc and Atzmon, Matan and Fidler, Sanja and Lucas, James and Gao, Jun and Sharp, Nicholas},
+  booktitle={SIGGRAPH Asia 2024 Conference Papers},
+  pages={1--11},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@article{weng2024pivotmesh,
+  title={PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance},
+  author={Weng, Haohan and Wang, Yikai and Zhang, Tong and Chen, CL and Zhu, Jun},
+  journal={arXiv preprint arXiv:2405.16890},
+  year={2024}
+}
