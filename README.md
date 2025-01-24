@@ -92,6 +92,7 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Boss et al., arXiv 2024 | [github](https://github.com/Stability-AI/stable-fast-3d) | [bibtex](./citations/sf3d.txt)
 - [G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer](https://arxiv.org/abs/2409.06322), Zhang et al., arXiv 2024 | [bibtex](./citations/g3pt.txt)
 - [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957), Chen et al., arXiv 2024 | [github](https://github.com/3DTopia/3DTopia-XL) | [bibtex](./citations/3dtopia-xl.txt)
+- [Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202), Zhao et al., arXiv 2025 | [github](https://github.com/Tencent/Hunyuan3D-2) | [bibtex](./citations/hunyuan3d-2.txt)
 
 </details>
 
@@ -423,6 +424,7 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials](https://arxiv.org/abs/2404.16829), Fang et al., arxiv 2024 | [github](https://github.com/Aleafy/Make_it_Real) | [bibtext](./citations/make-it-real.txt) 
 - [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](https://arxiv.org/abs/2404.17569), Zhang et al., SIGGRAPH 2024 | [bibtext](./citations/mapa.txt) 
 - [Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects](https://arxiv.org/abs/2407.02430), Bensadoun et al., arxiv 2024 | [bibtext](./citations/meta3dtexture.txt) 
+- [TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting](https://arxiv.org/abs/2411.19654), Xiong et al., arxiv 2024 | [bibtext](./citations/texgaussian.txt) 
 
 </details>
 
