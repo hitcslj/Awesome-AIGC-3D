@@ -7,7 +7,7 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 
 - **V 0.x**: The SDS version, with the classic work being [DreamFusion]().
 - **V 1.x**: Utilizing multi-view generation + Transformer for reconstruction, and the classic work is [hunyuan3d 1.0](https://arxiv.org/pdf/2411.02293).
-- **V 2.x**: Adopting DiT + texturify to decouple geometry and texture production, and the classic work is [CLAY](https://arxiv.org/pdf/2406.13897).
+- **V 2.x**: Adopting DiT + texturify to decouple geometry and texture production, and the classic work is [hunyuan3d 2.0](https://arxiv.org/abs/2501.12202).
 - **V 3.x**: Based on Stucture-Latent, with the classic work being [SLAT](https://arxiv.org/pdf/2412.01506).
 
 **Possible Directions for High-Quality Geometry Generation**:
@@ -513,4 +513,4 @@ If you find this project useful in your research, please consider citing:
 ```
 
 ## Contact
-contact: `hitcslj@stu.hit.edu.cn`.  
+contact: `liujian2498065510@gmail.com`.  
