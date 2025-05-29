@@ -6,8 +6,8 @@ This is a curated list of remarkable AIGC 3D papers, which is inspired by [aweso
 The progress in the field of 3D has been extremely rapid, and many methods have become obsolete. Here is a preliminary classification:
 
 - **V 0.x**: The SDS version, with the classic work being [DreamFusion]().
-- **V 1.x**: Utilizing multi-view generation + Transformer for reconstruction, and the classic work is [hunyuan3d 1.0](https://arxiv.org/pdf/2411.02293).
-- **V 2.x**: Adopting DiT + texturify to decouple geometry and texture production, and the classic work is [hunyuan3d 2.0](https://arxiv.org/abs/2501.12202).
+- **V 1.x**: Utilizing multi-view generation + Transformer for reconstruction, and the classic work is [LRM](https://arxiv.org/abs/2311.04400).
+- **V 2.x**: Adopting DiT + texturify to decouple geometry and texture production, and the classic work is [CLAY](https://arxiv.org/abs/2406.13897).
 - **V 3.x**: Based on Stucture-Latent, with the classic work being [SLAT](https://arxiv.org/pdf/2412.01506).
 
 **Possible Directions for High-Quality Geometry Generation**:
@@ -480,6 +480,7 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [ByteDance](https://www.volcengine.com/product/veOmniverse)
 - [Meshy](https://www.meshy.ai/)
 - [Deemos](https://hyperhuman.deemos.com/rodin/)
+- [DreamTech](https://nju-3dv.github.io/projects/Direct3D-S2/)
 - [LumaAI](https://lumalabs.ai/)
 - [CSMAI](https://www.csm.ai/)
 - [SUDOAI](https://www.sudo.ai/)
