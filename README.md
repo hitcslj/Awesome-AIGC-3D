@@ -9,9 +9,10 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - **V 1.x**: Utilizing multi-view generation + Transformer for reconstruction, and the classic work is [LRM](https://arxiv.org/abs/2311.04400).
 - **V 2.x**: Adopting VAE-DiT + texturify to decouple geometry and texture production, and the classic work is [CLAY](https://arxiv.org/abs/2406.13897), [SLAT](https://arxiv.org/pdf/2412.01506), [Sparc3D](https://arxiv.org/abs/2505.14521).
 
-**Possible Directions for High-Quality Geometry Generation**:
+**Possible Directions**:
 
 - **Mesh Generation**: The representative work is [MeshGPT](https://arxiv.org/pdf/2311.15475). 
+- **Part Generation**: The representative work is [OmniPart](https://arxiv.org/abs/2507.06165)
 ---
 
 <img src="./asset/mvdream.gif" width="696px">
