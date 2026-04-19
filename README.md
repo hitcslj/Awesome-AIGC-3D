@@ -486,6 +486,7 @@ The progress in the field of 3D has been extremely rapid, and many methods have 
 - [SUDOAI](https://www.sudo.ai/)
 - [StabilityAI](https://stability.ai/)
 - [NVIDIA](https://build.nvidia.com/explore/visual-design)
+- [SimplexGen](https://simplexgen.com/) - Image-to-3D generation with mesh optimization tools.
 
 
 
