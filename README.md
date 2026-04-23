@@ -2,7 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2026.xxxxx)
 [![ACM CSUR](https://img.shields.io/badge/ACM-Computing%20Surveys-blue)](https://dl.acm.org/)
-[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://hitcslj.github.io/Awesome-AIGC-3D/)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://christinebobby.github.io/production-ready-3d-survey/)
 [![GitHub stars](https://img.shields.io/github/stars/hitcslj/Awesome-AIGC-3D?style=social)](https://github.com/hitcslj/Awesome-AIGC-3D)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
