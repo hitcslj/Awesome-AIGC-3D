@@ -1,0 +1,7 @@
+@misc{tripoV25_2025,
+  author       = {{Tripo AI}},
+  title        = {Tripo V2.5: Image-to-3D Generation Platform},
+  year         = {2025},
+  howpublished = {\url{https://www.tripo3d.ai}},
+  note         = {Accessed: April 2026}
+}

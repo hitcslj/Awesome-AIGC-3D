@@ -1,0 +1,6 @@
+@inproceedings{kc20243dtexturetransformer,
+  title={3D Texture Transformer: Geometry-conditioned Texture Synthesis},
+  author={KC, Dharma and Chaudhary, Apurba and Subedi, Bikash and others},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  year={2024}
+}

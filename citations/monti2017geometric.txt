@@ -1,0 +1,7 @@
+@inproceedings{monti2017geometric,
+  title={Geometric deep learning on graphs and manifolds using mixture model cnns},
+  author={Monti, Federico and Boscaini, Davide and Masci, Jonathan and Rodola, Emanuele and Svoboda, Jan and Bronstein, Michael M},
+  booktitle={{Proceedings of the IEEE conference on computer vision and pattern recognition}},
+  pages={5115--5124},
+  year={2017}
+}

@@ -1,0 +1,7 @@
+@inproceedings{fan2017point,
+  title={A point set generation network for 3d object reconstruction from a single image},
+  author={Fan, Haoqiang and Su, Hao and Guibas, Leonidas J},
+  booktitle={{Proceedings of the IEEE conference on computer vision and pattern recognition}},
+  pages={605--613},
+  year={2017}
+}

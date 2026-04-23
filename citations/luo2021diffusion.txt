@@ -1,0 +1,7 @@
+@inproceedings{luo2021diffusion,
+  title={Diffusion probabilistic models for 3d point cloud generation},
+  author={Luo, Shitong and Hu, Wei},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={2837--2845},
+  year={2021}
+}

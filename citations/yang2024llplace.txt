@@ -1,0 +1,6 @@
+@article{yang2024llplace,
+  title={LLplace: The 3D Indoor Scene Layout Generation and Editing via Large Language Model},
+  author={Yang, Yixuan and Lu, Junru and Zhao, Zixiang and Luo, Zhen and Yu, James J. Q. and Sanchez, Victor and Zheng, Feng},
+  journal={arXiv preprint arXiv:2406.03866},
+  year={2024}
+}

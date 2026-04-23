@@ -1,0 +1,1 @@
+@String{ZAngewMathMech = "Z. Angew. Math. Mech." }

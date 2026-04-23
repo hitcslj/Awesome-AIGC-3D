@@ -1,0 +1,6 @@
+@article{lai2025natex,
+  title={NaTex: Seamless Texture Generation as Latent Color Diffusion},
+  author={Lai, Zeqiang and Zhao, Yunfei and Zhao, Zibo and Yang, Xin and Huang, Xin and Huang, Jingwei and Yue, Xiangyu and Guo, Chunchao},
+  journal={arXiv preprint arXiv:2511.16317},
+  year={2025}
+}

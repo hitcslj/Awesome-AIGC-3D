@@ -1,0 +1,6 @@
+@article{gan2025omniavatar,
+  title={Omniavatar: Efficient audio-driven avatar video generation with adaptive body animation},
+  author={Gan, Qijun and Yang, Ruizi and Zhu, Jianke and Xue, Shaofei and Hoi, Steven},
+  journal={arXiv preprint arXiv:2506.18866},
+  year={2025}
+}

@@ -1,0 +1,7 @@
+@inproceedings{xiang2024flashavatar,
+  title={Flashavatar: High-fidelity head avatar with efficient gaussian embedding},
+  author={Xiang, Jun and Gao, Xuan and Guo, Yudong and Zhang, Juyong},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={1802--1812},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@misc{exoside2019quadremesher,
+  author       = {Exoside},
+  title        = {Exoside Quad Remesher: Automatic Quad Remeshing Plugin},
+  year         = {2019},
+  howpublished = {Online},
+  url          = {https://exoside.com/}
+}

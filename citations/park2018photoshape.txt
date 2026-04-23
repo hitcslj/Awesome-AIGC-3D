@@ -1,0 +1,10 @@
+@article{park2018photoshape,
+  title={PhotoShape: Photorealistic Materials for Large-Scale Shape Collections},
+  author={Park, Keunhong and Rematas, Konstantinos and Farhadi, Ali and Seitz, Steven M.},
+  journal={ACM Trans. Graph.},
+  volume={37},
+  number={6},
+  articleno={192},
+  year={2018},
+  publisher={ACM New York, NY, USA}
+}

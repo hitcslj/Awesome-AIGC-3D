@@ -1,0 +1,10 @@
+@inproceedings{weng2024pivotmesh,
+  author       = {Haohan Weng and
+                  Yikai Wang and
+                  Tong Zhang and
+                  C. L. Philip Chen and
+                  Jun Zhu},
+  title        = {PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance},
+  booktitle    = {{International Conference on Learning Representations (ICLR)}},
+  year         = {2025}
+}

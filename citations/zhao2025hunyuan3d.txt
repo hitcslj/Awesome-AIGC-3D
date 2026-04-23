@@ -1,0 +1,6 @@
+@article{zhao2025hunyuan3d,
+  title={Hunyuan3d 2.0: Scaling diffusion models for high resolution textured 3d assets generation},
+  author={Zhao, Zibo and Lai, Zeqiang and Lin, Qingxiang and Zhao, Yunfei and Liu, Haolin and Yang, Shuhui and Feng, Yifei and Yang, Mingxin and Zhang, Sheng and Yang, Xianghui and others},
+  journal={arXiv preprint arXiv:2501.12202},
+  year={2025}
+}

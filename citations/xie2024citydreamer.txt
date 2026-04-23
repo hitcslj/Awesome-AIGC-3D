@@ -1,0 +1,7 @@
+@inproceedings{xie2024citydreamer,
+  title={Citydreamer: Compositional generative model of unbounded 3d cities},
+  author={Xie, Haozhe and Chen, Zhaoxi and Hong, Fangzhou and Liu, Ziwei},
+  booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+  pages={9666--9675},
+  year={2024}
+}

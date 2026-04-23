@@ -1,0 +1,7 @@
+@inproceedings{radford2021learning,
+  title={Learning Transferable Visual Models From Natural Language Supervision},
+  author={Radford, Alec and Kim, Jong Wook and Hallacy, Chris and Ramesh, Aditya and Goh, Gabriel and Agarwal, Sandhini and Sastry, Girish and Askell, Amanda and Mishkin, Pamela and Clark, Jack and Krueger, Gretchen and Sutskever, Ilya},
+  booktitle={{International Conference on Machine Learning (ICML)}},
+  pages={8748--8763},
+  year={2021}
+}

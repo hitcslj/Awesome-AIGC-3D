@@ -1,0 +1,11 @@
+@inproceedings{hollein2023text2room,
+  author       = {Lukas H{\"{o}}llein and
+                  Ang Cao and
+                  Andrew Owens and
+                  Justin Johnson and
+                  Matthias Nie{\ss}ner},
+  title        = {Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models},
+  booktitle    = {{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages        = {7875--7886},
+  year         = {2023}
+}

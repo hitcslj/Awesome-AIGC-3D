@@ -1,0 +1,7 @@
+@article{liu2024alignment,
+  title={Alignment of diffusion models: Fundamentals, challenges, and future},
+  author={Liu, Buhua and Shao, Shitong and Li, Bao and Bai, Lichen and Xu, Zhiqiang and Xiong, Haoyi and Kwok, James T and Helal, Sumi and Xie, Zeke},
+  journal={ACM Computing Surveys},
+  year={2024},
+  publisher={ACM New York, NY}
+}

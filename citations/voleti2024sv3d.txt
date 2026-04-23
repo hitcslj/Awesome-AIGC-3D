@@ -1,0 +1,7 @@
+@inproceedings{voleti2024sv3d,
+  title={Sv3d: Novel multi-view synthesis and 3d generation from a single image using latent video diffusion},
+  author={Voleti, Vikram and Yao, Chun-Han and Boss, Mark and Letts, Adam and Pankratz, David and Tochilkin, Dmitry and Laforte, Christian and Rombach, Robin and Jampani, Varun},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={439--457},
+  year={2024}
+}

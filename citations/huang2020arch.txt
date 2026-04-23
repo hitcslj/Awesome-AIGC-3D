@@ -1,0 +1,7 @@
+@inproceedings{huang2020arch,
+  title={{ARCH}: Animatable Reconstruction of Clothed Humans},
+  author={Huang, Zeng and Xu, Yuanlu and Lassner, Christoph and Li, Hao and Tung, Tony},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={3093--3102},
+  year={2020}
+}

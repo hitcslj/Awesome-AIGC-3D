@@ -1,0 +1,7 @@
+@inproceedings{chu2024generalizable,
+  author       = {Xuangeng Chu and
+                  Tatsuya Harada},
+  title        = {Generalizable and Animatable Gaussian Head Avatar},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2024}
+}

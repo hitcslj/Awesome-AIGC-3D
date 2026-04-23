@@ -1,0 +1,13 @@
+@article{xu2020rignet,
+  author       = {Zhan Xu and
+                  Yang Zhou and
+                  Evangelos Kalogerakis and
+                  Chris Landreth and
+                  Karan Singh},
+  title        = {RigNet: neural rigging for articulated characters},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {39},
+  number       = {4},
+  pages        = {58},
+  year         = {2020}
+}

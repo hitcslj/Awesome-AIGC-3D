@@ -1,0 +1,6 @@
+@article{li2025sparc3d,
+  title={Sparc3d: Sparse representation and construction for high-resolution 3d shapes modeling},
+  author={Li, Zhihao and Wang, Yufei and Zheng, Heliang and Luo, Yihao and Wen, Bihan},
+  journal={arXiv preprint arXiv:2505.14521},
+  year={2025}
+}

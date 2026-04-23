@@ -1,0 +1,6 @@
+@article{liu2025quadgpt,
+  title={QuadGPT: Native Quadrilateral Mesh Generation with Autoregressive Models},
+  author={Liu, Jian and Wang, Chunshi and Guo, Song and Weng, Haohan and Zhou, Zhen and Li, Zhiqi and Yu, Jiaao and Zhu, Yiling and Xu, Jing and Lei, Biwen and others},
+  journal={arXiv preprint arXiv:2509.21420},
+  year={2025}
+}

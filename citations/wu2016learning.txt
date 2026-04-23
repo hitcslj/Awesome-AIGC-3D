@@ -1,0 +1,7 @@
+@article{wu2016learning,
+  title={Learning a probabilistic latent space of object shapes via 3d generative-adversarial modeling},
+  author={Wu, Jiajun and Zhang, Chengkai and Xue, Tianfan and Freeman, Bill and Tenenbaum, Josh},
+  journal={Advances in neural information processing systems},
+  volume={29},
+  year={2016}
+}

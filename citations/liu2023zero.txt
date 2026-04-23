@@ -1,0 +1,7 @@
+@inproceedings{liu2023zero,
+  title={Zero-1-to-3: Zero-shot one image to 3d object},
+  author={Liu, Ruoshi and Wu, Rundi and Van Hoorick, Basile and Tokmakov, Pavel and Zakharov, Sergey and Vondrick, Carl},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={9298--9309},
+  year={2023}
+}

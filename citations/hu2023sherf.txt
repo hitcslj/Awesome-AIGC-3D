@@ -1,0 +1,7 @@
+@inproceedings{hu2023sherf,
+  title={Sherf: Generalizable human nerf from a single image},
+  author={Hu, Shoukang and Hong, Fangzhou and Pan, Liang and Mei, Haiyi and Yang, Lei and Liu, Ziwei},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={9352--9364},
+  year={2023}
+}

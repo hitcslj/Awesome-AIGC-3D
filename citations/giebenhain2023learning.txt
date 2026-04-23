@@ -1,0 +1,7 @@
+@inproceedings{giebenhain2023learning,
+  title={Learning neural parametric head models},
+  author={Giebenhain, Simon and Kirschstein, Tobias and Georgopoulos, Markos and R{\"u}nz, Martin and Agapito, Lourdes and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={21003--21012},
+  year={2023}
+}

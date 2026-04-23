@@ -1,0 +1,13 @@
+@article{zheng2021pamir,
+  author       = {Zerong Zheng and
+                  Tao Yu and
+                  Yebin Liu and
+                  Qionghai Dai},
+  title        = {PaMIR: Parametric Model-Conditioned Implicit Representation for Image-Based
+                  Human Reconstruction},
+  journal      = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume       = {44},
+  number       = {6},
+  pages        = {3170--3184},
+  year         = {2022}
+}

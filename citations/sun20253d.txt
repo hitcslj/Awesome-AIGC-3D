@@ -1,0 +1,7 @@
+@inproceedings{sun20253d,
+  title={3d-gpt: Procedural 3d modeling with large language models},
+  author={Sun, Chunyi and Han, Junlin and Deng, Weijian and Wang, Xinlong and Qin, Zishan and Gould, Stephen},
+  booktitle={{Proceedings of the International Conference on 3D Vision (3DV)}},
+  pages={1253--1263},
+  year={2025}
+}

@@ -1,0 +1,6 @@
+@article{ahmed2018survey,
+  title={A survey on deep learning advances on different 3D data representations},
+  author={Ahmed, Eman and Saint, Alexandre and Shabayek, Abd El Rahman and Cherenkova, Kseniya and Das, Rig and Gusev, Gleb and Aouada, Djamila and Ottersten, Bjorn},
+  journal={arXiv preprint arXiv:1808.01462},
+  year={2018}
+}

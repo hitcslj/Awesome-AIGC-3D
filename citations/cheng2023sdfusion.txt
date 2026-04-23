@@ -1,0 +1,7 @@
+@inproceedings{cheng2023sdfusion,
+  title={Sdfusion: Multimodal 3d shape completion, reconstruction, and generation},
+  author={Cheng, Yen-Chi and Lee, Hsin-Ying and Tulyakov, Sergey and Schwing, Alexander G and Gui, Liang-Yan},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={4456--4465},
+  year={2023}
+}

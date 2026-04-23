@@ -1,0 +1,12 @@
+@article{instant2015field,
+  author       = {Wenzel Jakob and
+                  Marco Tarini and
+                  Daniele Panozzo and
+                  Olga Sorkine{-}Hornung},
+  title        = {Instant field-aligned meshes},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {34},
+  number       = {6},
+  pages        = {189:1--189:15},
+  year         = {2015}
+}

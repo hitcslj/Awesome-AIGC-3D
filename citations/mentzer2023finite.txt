@@ -1,0 +1,6 @@
+@article{mentzer2023finite,
+  title={Finite scalar quantization: Vq-vae made simple},
+  author={Mentzer, Fabian and Minnen, David and Agustsson, Eirikur and Tschannen, Michael},
+  journal={arXiv preprint arXiv:2309.15505},
+  year={2023}
+}

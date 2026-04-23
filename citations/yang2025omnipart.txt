@@ -1,0 +1,7 @@
+@inproceedings{yang2025omnipart,
+  title={Omnipart: Part-aware 3d generation with semantic decoupling and structural cohesion},
+  author={Yang, Yunhan and Zhou, Yufan and Guo, Yuan-Chen and Zou, Zi-Xin and Huang, Yukun and Liu, Ying-Tian and Xu, Hao and Liang, Ding and Cao, Yan-Pei and Liu, Xihui},
+  booktitle={{ACM SIGGRAPH Asia Conference Proceedings}},
+  pages={1--12},
+  year={2025}
+}

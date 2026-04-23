@@ -1,0 +1,7 @@
+@inproceedings{zhang2022avatargen,
+  title={Avatargen: a 3d generative model for animatable human avatars},
+  author={Zhang, Jianfeng and Jiang, Zihang and Yang, Dingdong and Xu, Hongyi and Shi, Yichun and Song, Guoxian and Xu, Zhongcong and Wang, Xinchao and Feng, Jiashi},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={668--685},
+  year={2022}
+}

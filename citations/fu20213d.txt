@@ -1,0 +1,7 @@
+@inproceedings{fu20213d,
+  title={3d-front: 3d furnished rooms with layouts and semantics},
+  author={Fu, Huan and Cai, Bowen and Gao, Lin and Zhang, Ling-Xiao and Wang, Jiaming and Li, Cao and Zeng, Qixun and Sun, Chengyue and Jia, Rongfei and Zhao, Binqiang and others},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={10933--10942},
+  year={2021}
+}

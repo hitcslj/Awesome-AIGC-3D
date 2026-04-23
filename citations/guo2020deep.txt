@@ -1,0 +1,10 @@
+@article{guo2020deep,
+  title={Deep learning for 3d point clouds: A survey},
+  author={Guo, Yulan and Wang, Hanyun and Hu, Qingyong and Liu, Hao and Liu, Li and Bennamoun, Mohammed},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  volume={43},
+  number={12},
+  pages={4338--4364},
+  year={2020},
+  publisher={IEEE}
+}

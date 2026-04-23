@@ -1,0 +1,7 @@
+@inproceedings{deng2024flashtex,
+  title={FlashTex: Fast Relightable Mesh Texturing with LightControlNet},
+  author={Deng, Kangle and Grevet, Timothy and Chen, Jun-Yan},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={124--141},
+  year={2024}
+}

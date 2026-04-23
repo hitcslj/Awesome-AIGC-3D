@@ -1,0 +1,13 @@
+@inproceedings{shuaiyang2025layerpano3d,
+  author       = {Shuai Yang and
+                  Jing Tan and
+                  Mengchen Zhang and
+                  Tong Wu and
+                  Gordon Wetzstein and
+                  Ziwei Liu and
+                  Dahua Lin},
+  title        = {LayerPano3D: Layered 3D Panorama for Hyper-Immersive Scene Generation},
+  booktitle    = {{ACM SIGGRAPH Conference Proceedings}},
+  pages        = {109:1--109:10},
+  year         = {2025}
+}

@@ -1,0 +1,6 @@
+@article{zhou2016thingi10k,
+  title={Thingi10K: A Dataset of 10,000 3D-Printing Models},
+  author={Zhou, Qian-Yi and Jacobson, Alec},
+  journal={arXiv preprint arXiv:1605.04797},
+  year={2016}
+}

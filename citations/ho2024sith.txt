@@ -1,0 +1,7 @@
+@inproceedings{ho2024sith,
+  title={{SiTH}: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion},
+  author={Ho, Hsuan-I and Song, Jie and Hilliges, Otmar},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={538--549},
+  year={2024}
+}

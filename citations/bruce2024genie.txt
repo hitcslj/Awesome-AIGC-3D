@@ -1,0 +1,31 @@
+@inproceedings{bruce2024genie,
+  author       = {Jake Bruce and
+                  Michael D. Dennis and
+                  Ashley Edwards and
+                  Jack Parker{-}Holder and
+                  Yuge Shi and
+                  Edward Hughes and
+                  Matthew Lai and
+                  Aditi Mavalankar and
+                  Richie Steigerwald and
+                  Chris Apps and
+                  Yusuf Aytar and
+                  Sarah Bechtle and
+                  Feryal M. P. Behbahani and
+                  Stephanie C. Y. Chan and
+                  Nicolas Heess and
+                  Lucy Gonzalez and
+                  Simon Osindero and
+                  Sherjil Ozair and
+                  Scott E. Reed and
+                  Jingwei Zhang and
+                  Konrad Zolna and
+                  Jeff Clune and
+                  Nando de Freitas and
+                  Satinder Singh and
+                  Tim Rockt{\"{a}}schel},
+  title        = {Genie: Generative Interactive Environments},
+  booktitle    = {{International Conference on Machine Learning (ICML)}},
+  pages        = {4603--4623},
+  year         = {2024}
+}

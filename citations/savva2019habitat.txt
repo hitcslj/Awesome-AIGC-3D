@@ -1,0 +1,18 @@
+@inproceedings{savva2019habitat,
+  author       = {Manolis Savva and
+                  Jitendra Malik and
+                  Devi Parikh and
+                  Dhruv Batra and
+                  Abhishek Kadian and
+                  Oleksandr Maksymets and
+                  Yili Zhao and
+                  Erik Wijmans and
+                  Bhavana Jain and
+                  Julian Straub and
+                  Jia Liu and
+                  Vladlen Koltun},
+  title        = {Habitat: {A} Platform for Embodied {AI} Research},
+  booktitle    = {{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages        = {9338--9346},
+  year         = {2019}
+}

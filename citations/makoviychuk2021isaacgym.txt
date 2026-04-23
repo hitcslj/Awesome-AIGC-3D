@@ -1,0 +1,6 @@
+@inproceedings{makoviychuk2021isaacgym,
+  title={Isaac Gym: High Performance GPU-Based Physics Simulation For Robot Learning},
+  author={Makoviychuk, Viktor and Wawrzyniak, Lukasz and Guo, Yunrong and Lu, Michelle and Storey, Kier and Macklin, Miles and Hoeller, David and Rudin, Nikita and Allshire, Arthur and Handa, Ankur and State, Gavriel},
+  booktitle={{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year={2021}
+}

@@ -1,0 +1,6 @@
+@article{brock2016generative,
+  title={Generative and discriminative voxel modeling with convolutional neural networks},
+  author={Brock, Andrew and Lim, Theodore and Ritchie, James M and Weston, Nick},
+  journal={arXiv preprint arXiv:1608.04236},
+  year={2016}
+}

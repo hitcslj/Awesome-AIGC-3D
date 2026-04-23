@@ -1,0 +1,12 @@
+@article{shen2023flexicubes,
+author = {Shen, Tianchang and Munkberg, Jacob and Hasselgren, Jon and Yin, Kangxue and Wang, Zian
+        and Chen, Wenzheng and Gojcic, Zan and Fidler, Sanja and Sharp, Nicholas and Gao, Jun},
+title = {Flexible Isosurface Extraction for Gradient-Based Mesh Optimization},
+year = {2023},
+publisher = {Association for Computing Machinery},
+volume = {42},
+number = {4},
+doi = {10.1145/3592430},
+journal = {ACM Trans. Graph.},
+articleno = {37}
+}

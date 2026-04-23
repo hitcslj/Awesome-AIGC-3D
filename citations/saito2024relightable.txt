@@ -1,0 +1,7 @@
+@inproceedings{saito2024relightable,
+  title={Relightable gaussian codec avatars},
+  author={Saito, Shunsuke and Schwartz, Gabriel and Simon, Tomas and Li, Junxuan and Nam, Giljoo},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={130--141},
+  year={2024}
+}

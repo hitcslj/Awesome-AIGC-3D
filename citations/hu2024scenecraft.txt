@@ -1,0 +1,14 @@
+@inproceedings{hu2024scenecraft,
+  author       = {Ziniu Hu and
+                  Ahmet Iscen and
+                  Aashi Jain and
+                  Thomas Kipf and
+                  Yisong Yue and
+                  David A. Ross and
+                  Cordelia Schmid and
+                  Alireza Fathi},
+  title        = {SceneCraft: An {LLM} Agent for Synthesizing 3D Scenes as Blender Code},
+  booktitle    = {{International Conference on Machine Learning (ICML)}},
+  pages        = {19252--19282},
+  year         = {2024}
+}

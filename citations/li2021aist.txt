@@ -1,0 +1,7 @@
+@inproceedings{li2021aist,
+  title={AI Choreographer: Music Conditioned 3D Dance Generation With AIST++},
+  author={Li, Ruilong and Yang, Shan and Ross, David A. and Kanazawa, Angjoo},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={13401--13412},
+  year={2021}
+}

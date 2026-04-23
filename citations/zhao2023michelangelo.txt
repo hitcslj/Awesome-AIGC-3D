@@ -1,0 +1,16 @@
+@inproceedings{zhao2023michelangelo,
+  author       = {Zibo Zhao and
+                  Wen Liu and
+                  Xin Chen and
+                  Xianfang Zeng and
+                  Rui Wang and
+                  Pei Cheng and
+                  Bin Fu and
+                  Tao Chen and
+                  Gang Yu and
+                  Shenghua Gao},
+  title        = {Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text
+                  Aligned Latent Representation},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2023}
+}

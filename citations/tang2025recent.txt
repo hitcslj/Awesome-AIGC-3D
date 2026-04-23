@@ -1,0 +1,6 @@
+@article{tang2025recent,
+  title={Recent Advances in 3D Object and Scene Generation: A Survey},
+  author={Tang, Xiang and Li, Ruotong and Fan, Xiaopeng},
+  journal={arXiv preprint arXiv:2504.11734},
+  year={2025}
+}

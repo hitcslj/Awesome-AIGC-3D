@@ -1,0 +1,6 @@
+@article{li2025auto,
+  title={Auto-regressive surface cutting},
+  author={Li, Yang and Cheung, Victor and Liu, Xinhai and Chen, Yuguang and Luo, Zhongjin and Lei, Biwen and Weng, Haohan and Zhao, Zibo and Huang, Jingwei and Chen, Zhuo and others},
+  journal={arXiv preprint arXiv:2506.18017},
+  year={2025}
+}

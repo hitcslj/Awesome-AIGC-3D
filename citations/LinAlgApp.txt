@@ -1,0 +1,1 @@
+@String{LinAlgApp = "Linear Algebra Appl." }

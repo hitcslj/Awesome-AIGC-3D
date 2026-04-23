@@ -1,0 +1,7 @@
+@inproceedings{wu2015modelnet,
+  title={3D ShapeNets: A Deep Representation for Volumetric Shapes},
+  author={Wu, Zhirong and Song, Shuran and Khosla, Aditya and Yu, Fisher and Zhang, Linguang and Tang, Xiaoou and Xiao, Jianxiong},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={1912--1920},
+  year={2015}
+}

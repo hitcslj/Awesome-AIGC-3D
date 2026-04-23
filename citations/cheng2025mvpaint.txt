@@ -1,0 +1,6 @@
+@article{cheng2025mvpaint,
+  title={MVPaint: Synchronized Multi-View Diffusion for Painting Anything 3D},
+  author={Cheng, Wei and Cao, Juncheng and Wu, Jie and Piao, Yatian and Pang, Jiaxiang and Sun, Junzhi and Zhuo, Xiu Li},
+  journal={arXiv preprint arXiv:2411.02336},
+  year={2025}
+}

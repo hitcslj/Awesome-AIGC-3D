@@ -1,0 +1,7 @@
+@inproceedings{kirschstein2025avat3r,
+  title={Avat3r: Large animatable gaussian reconstruction model for high-fidelity 3d head avatars},
+  author={Kirschstein, Tobias and Romero, Javier and Sevastopolsky, Artem and Nie{\ss}ner, Matthias and Saito, Shunsuke},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={12089--12100},
+  year={2025}
+}

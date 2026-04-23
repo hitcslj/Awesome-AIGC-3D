@@ -1,0 +1,6 @@
+@article{nvidia2025cosmos,
+  title={Cosmos World Foundation Model Platform for Physical AI},
+  author={{NVIDIA}},
+  journal={arXiv preprint arXiv:2501.03575},
+  year={2025}
+}

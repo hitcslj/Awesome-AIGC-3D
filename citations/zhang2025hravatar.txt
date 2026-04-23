@@ -1,0 +1,7 @@
+@inproceedings{zhang2025hravatar,
+  title={Hravatar: High-quality and relightable gaussian head avatar},
+  author={Zhang, Dongbin and Liu, Yunfei and Lin, Lijian and Zhu, Ye and Chen, Kangjie and Qin, Minghan and Li, Yu and Wang, Haoqian},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={26285--26296},
+  year={2025}
+}

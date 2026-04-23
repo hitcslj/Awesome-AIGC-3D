@@ -1,0 +1,6 @@
+@inproceedings{valevski2025gamengen,
+  title={Diffusion Models Are Real-Time Game Engines},
+  author={Valevski, Dani and Leviathan, Yaniv and Arar, Moab and Fruchter, Shlomi},
+  booktitle={{International Conference on Learning Representations (ICLR)}},
+  year={2025}
+}

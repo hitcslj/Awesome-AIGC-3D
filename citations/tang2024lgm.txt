@@ -1,0 +1,13 @@
+@inproceedings{tang2024lgm,
+  author       = {Jiaxiang Tang and
+                  Zhaoxi Chen and
+                  Xiaokang Chen and
+                  Tengfei Wang and
+                  Gang Zeng and
+                  Ziwei Liu},
+  title        = {{LGM:} Large Multi-view Gaussian Model for High-Resolution 3D Content
+                  Creation},
+  booktitle    = {{European Conference on Computer Vision (ECCV)}},
+  pages        = {1--18},
+  year         = {2024}
+}

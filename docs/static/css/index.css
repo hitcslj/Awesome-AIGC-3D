@@ -1,0 +1,1072 @@
+/* ============================================
+   Production-Ready 3D Generation Survey
+   Complete Redesign — Modern Academic Theme
+   ============================================ */
+
+/* -- Google Fonts import -- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+
+/* -- Global -- */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  color: #2c3e50;
+  -webkit-font-smoothing: antialiased;
+  padding-top: 0; /* hero sits behind nav initially */
+}
+
+/* ============================================
+   STICKY NAVIGATION BAR
+   ============================================ */
+.site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+  background: rgba(255, 255, 255, 0);
+  backdrop-filter: blur(0px);
+  -webkit-backdrop-filter: blur(0px);
+  transition: all 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+  border-bottom: 1px solid transparent;
+}
+
+.site-nav.scrolled {
+  background: rgba(255, 255, 255, 0.88);
+  backdrop-filter: blur(16px) saturate(180%);
+  -webkit-backdrop-filter: blur(16px) saturate(180%);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.06);
+  box-shadow: 0 1px 12px rgba(0, 0, 0, 0.06);
+}
+
+.nav-inner {
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 52px;
+}
+
+.nav-brand {
+  font-weight: 700;
+  font-size: 0.88rem;
+  color: rgba(255, 255, 255, 0.95);
+  text-decoration: none;
+  white-space: nowrap;
+  letter-spacing: -0.01em;
+  transition: color 0.3s;
+}
+
+.site-nav.scrolled .nav-brand {
+  color: #1a1a2e;
+}
+
+.nav-links {
+  display: flex;
+  gap: 0.1rem;
+}
+
+.nav-links a {
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+  white-space: nowrap;
+}
+
+.nav-links a:hover {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.15);
+}
+
+.site-nav.scrolled .nav-links a {
+  color: #5a5a6a;
+}
+
+.site-nav.scrolled .nav-links a:hover {
+  color: #667eea;
+  background: rgba(102, 126, 234, 0.08);
+}
+
+.nav-links a.active {
+  color: #fff;
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.site-nav.scrolled .nav-links a.active {
+  color: #667eea;
+  background: rgba(102, 126, 234, 0.1);
+  font-weight: 600;
+}
+
+.nav-toggle {
+  display: none;
+  background: none;
+  border: none;
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0.3rem;
+  transition: color 0.3s;
+}
+
+.site-nav.scrolled .nav-toggle {
+  color: #1a1a2e;
+}
+
+/* -- Scroll margin for sections behind navbar -- */
+section[id] {
+  scroll-margin-top: 60px;
+}
+
+/* ============================================
+   HERO SECTION
+   ============================================ */
+.hero.is-light {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  position: relative;
+  overflow: hidden;
+}
+
+.hero.is-light::before {
+  content: '';
+  position: absolute;
+  top: -50%;
+  right: -30%;
+  width: 80%;
+  height: 200%;
+  background: radial-gradient(ellipse, rgba(255,255,255,0.08) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.hero.is-light::after {
+  content: '';
+  position: absolute;
+  bottom: -20%;
+  left: -20%;
+  width: 60%;
+  height: 100%;
+  background: radial-gradient(ellipse, rgba(118,75,162,0.25) 0%, transparent 70%);
+  pointer-events: none;
+}
+
+.hero.is-light .hero-body {
+  padding: 6rem 1.5rem 4rem;
+  position: relative;
+  z-index: 1;
+}
+
+.publication-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 2.4rem;
+  letter-spacing: -0.02em;
+  line-height: 1.2;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.15);
+}
+
+.publication-subtitle {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  color: rgba(255,255,255,0.9);
+  font-size: 1.3rem;
+  margin-top: 0.5rem;
+}
+
+.publication-authors .author-block {
+  display: inline-block;
+  margin: 0 0.3rem;
+}
+
+.publication-authors .author-block a {
+  color: rgba(255,255,255,0.95);
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.2s;
+}
+
+.publication-authors .author-block a:hover {
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.publication-authors .affiliations {
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.75);
+  margin-top: 0.6rem;
+  line-height: 1.6;
+}
+
+/* ============================================
+   ICON-BASED LINK BUTTONS (Hero)
+   ============================================ */
+.publication-links {
+  display: flex;
+  justify-content: center;
+  gap: 0.8rem;
+}
+
+.icon-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  font-size: 1.15rem;
+  text-decoration: none;
+  transition: all 0.25s ease;
+  position: relative;
+}
+
+.icon-btn::after {
+  content: attr(title);
+  position: absolute;
+  bottom: -28px;
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.68rem;
+  font-weight: 500;
+  white-space: nowrap;
+  color: rgba(255,255,255,0.7);
+  opacity: 0;
+  transition: opacity 0.2s;
+  pointer-events: none;
+}
+
+.icon-btn:hover::after {
+  opacity: 1;
+}
+
+.icon-btn--paper {
+  background: rgba(220, 50, 50, 0.2);
+  color: #ffb3b3;
+  border: 1.5px solid rgba(220, 50, 50, 0.4);
+}
+
+.icon-btn--paper:hover {
+  background: rgba(220, 50, 50, 0.45);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(220, 50, 50, 0.3);
+}
+
+.icon-btn--github {
+  background: rgba(255, 255, 255, 0.12);
+  color: rgba(255, 255, 255, 0.9);
+  border: 1.5px solid rgba(255, 255, 255, 0.3);
+}
+
+.icon-btn--github:hover {
+  background: rgba(255, 255, 255, 0.3);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(255, 255, 255, 0.15);
+}
+
+.icon-btn--bibtex {
+  background: rgba(102, 126, 234, 0.2);
+  color: rgba(200, 210, 255, 0.9);
+  border: 1.5px solid rgba(102, 126, 234, 0.4);
+}
+
+.icon-btn--bibtex:hover {
+  background: rgba(102, 126, 234, 0.45);
+  color: #fff;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(102, 126, 234, 0.3);
+}
+
+/* ============================================
+   ICON-BASED LINK BUTTONS (Inline in tables/lists)
+   ============================================ */
+.icon-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  font-size: 0.78rem;
+  text-decoration: none;
+  transition: all 0.2s ease;
+  position: relative;
+}
+
+.icon-link::after {
+  content: attr(title);
+  position: absolute;
+  bottom: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+  font-size: 0.65rem;
+  font-weight: 500;
+  white-space: nowrap;
+  background: #1a1a2e;
+  color: #fff;
+  padding: 2px 8px;
+  border-radius: 4px;
+  opacity: 0;
+  transition: opacity 0.15s;
+  pointer-events: none;
+  z-index: 10;
+}
+
+.icon-link:hover::after {
+  opacity: 1;
+}
+
+.icon-link--paper {
+  background: #fef5f5;
+  color: #b31b1b;
+  border: 1px solid #f0d0d0;
+}
+
+.icon-link--paper:hover {
+  background: #b31b1b;
+  color: #fff;
+  transform: scale(1.12);
+  box-shadow: 0 2px 8px rgba(179, 27, 27, 0.25);
+}
+
+.icon-link--github {
+  background: #f6f8fa;
+  color: #24292e;
+  border: 1px solid #d8dee4;
+}
+
+.icon-link--github:hover {
+  background: #24292e;
+  color: #fff;
+  transform: scale(1.12);
+  box-shadow: 0 2px 8px rgba(36, 41, 46, 0.25);
+}
+
+.icon-link--project {
+  background: #f1f8ff;
+  color: #0366d6;
+  border: 1px solid #c8e1ff;
+}
+
+.icon-link--project:hover {
+  background: #0366d6;
+  color: #fff;
+  transform: scale(1.12);
+  box-shadow: 0 2px 8px rgba(3, 102, 214, 0.25);
+}
+
+/* ============================================
+   SECTIONS — GENERAL
+   ============================================ */
+.section {
+  padding: 3.5rem 1.5rem;
+}
+
+.section h2.title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  color: #1a1a2e;
+  letter-spacing: -0.01em;
+  margin-bottom: 1.5rem;
+}
+
+.section.has-background-light {
+  background: #f8f9fc;
+}
+
+.section-subtitle {
+  color: #5a5a6a;
+  font-size: 1.02rem;
+  max-width: 680px;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.6;
+}
+
+/* ============================================
+   ABSTRACT / OVERVIEW
+   ============================================ */
+.abstract-content {
+  text-align: justify;
+  line-height: 1.85;
+  font-size: 1.02rem;
+  color: #3a3a4a;
+  max-width: 780px;
+  margin: 0 auto;
+}
+
+/* ============================================
+   FIGURES
+   ============================================ */
+.figure-image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.figure-image:hover {
+  box-shadow: 0 8px 36px rgba(0,0,0,0.13);
+  transform: translateY(-2px);
+}
+
+.figure-caption {
+  font-size: 0.9rem;
+  color: #6b6b7b;
+  margin-top: 1.2rem;
+  text-align: center;
+  line-height: 1.6;
+  max-width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  font-style: italic;
+}
+
+/* ============================================
+   FIGURE BLOCKS (Visual Results cards)
+   ============================================ */
+.figure-block {
+  background: #fff;
+  border-radius: 14px;
+  padding: 2rem 2.2rem 2.2rem;
+  box-shadow: 0 2px 20px rgba(0,0,0,0.05);
+  border: 1px solid #eef0f6;
+  transition: box-shadow 0.3s ease;
+}
+
+.figure-block:hover {
+  box-shadow: 0 6px 30px rgba(0,0,0,0.09);
+}
+
+/* ============================================
+   TAXONOMY SECTION — SPECIAL STYLING
+   ============================================ */
+.section--taxonomy {
+  background: linear-gradient(180deg, #f8f9fc 0%, #f0f2fa 100%);
+  position: relative;
+}
+
+.section--taxonomy::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+  background: linear-gradient(90deg, #667eea, #764ba2, #f093fb, #4facfe, #43e97b, #fa709a);
+}
+
+/* ============================================
+   PIPELINE FLOW VISUALIZATION
+   ============================================ */
+.pipeline-flow {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  margin: 2.5rem auto;
+  padding: 1.5rem 1rem;
+  max-width: 860px;
+  flex-wrap: wrap;
+}
+
+.pipeline-stage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.8rem 1rem;
+  border-radius: 10px;
+  background: #fff;
+  border: 2px solid var(--stage-color, #667eea);
+  box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+  transition: all 0.25s ease;
+  min-width: 80px;
+}
+
+.pipeline-stage:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 6px 20px rgba(0,0,0,0.1);
+}
+
+.pipeline-stage-icon {
+  font-size: 1.3rem;
+  color: var(--stage-color, #667eea);
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  background: color-mix(in srgb, var(--stage-color) 10%, transparent);
+}
+
+.pipeline-stage-label {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #1a1a2e;
+  text-align: center;
+  letter-spacing: 0.02em;
+}
+
+.pipeline-arrow {
+  color: #b0b4cc;
+  font-size: 0.85rem;
+  padding: 0 0.3rem;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   TAXONOMY TABS
+   ============================================ */
+.taxonomy-tabs .tabs {
+  margin-bottom: 0;
+}
+
+.taxonomy-tabs .tabs.is-boxed li.is-active a,
+.method-tabs .tabs.is-boxed li.is-active a {
+  background: #667eea;
+  color: #fff;
+  border-color: #667eea;
+  font-weight: 600;
+}
+
+.taxonomy-tabs .tabs.is-boxed a,
+.method-tabs .tabs.is-boxed a {
+  border-radius: 8px 8px 0 0;
+  transition: all 0.2s;
+  font-weight: 500;
+}
+
+.taxonomy-tabs .tab-content,
+.method-tabs .tab-content {
+  display: none;
+  padding: 1.5rem 1.8rem;
+  line-height: 1.8;
+  background: #fff;
+  border: 1px solid #e8e8e8;
+  border-top: none;
+  border-radius: 0 0 10px 10px;
+  color: #444;
+  font-size: 0.98rem;
+}
+
+.taxonomy-tabs .tab-content.is-active,
+.method-tabs .tab-content.is-active {
+  display: block;
+}
+
+/* -- Tab content headings & method highlights -- */
+.tab-content-heading {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 0.9rem;
+  color: #667eea;
+  margin: 1.2rem 0 0.6rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.method-highlights {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+.method-highlights li {
+  padding: 0.6rem 0 0.6rem 1.4rem;
+  position: relative;
+  border-bottom: 1px solid #f4f4f8;
+  font-size: 0.93rem;
+  line-height: 1.6;
+}
+
+.method-highlights li:last-child {
+  border-bottom: none;
+}
+
+.method-highlights li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 1rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+/* -- Method row: text + icon links side by side -- */
+.method-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+}
+
+.method-row > span:first-child {
+  flex: 1;
+  min-width: 0;
+}
+
+.method-icon-links {
+  display: flex;
+  gap: 4px;
+  flex-shrink: 0;
+}
+
+/* ============================================
+   SURVEY HIGHLIGHTS CARDS
+   ============================================ */
+.highlights-grid {
+  margin-top: 1rem;
+}
+
+.highlight-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.06);
+  border: 1px solid #eef0f6;
+  height: 100%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.highlight-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 8px 30px rgba(0,0,0,0.1);
+}
+
+.highlight-icon {
+  font-size: 1.8rem;
+  color: #667eea;
+  margin-bottom: 0.8rem;
+}
+
+.highlight-number {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  font-size: 2.8rem;
+  color: #1a1a2e;
+  line-height: 1;
+  margin-bottom: 0.3rem;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.highlight-label {
+  font-weight: 600;
+  font-size: 1.05rem;
+  color: #1a1a2e;
+  margin-bottom: 0.5rem;
+}
+
+.highlight-desc {
+  font-size: 0.88rem;
+  color: #6b6b7b;
+  line-height: 1.5;
+}
+
+/* ============================================
+   PRODUCTION-READY CRITERIA ICON CARDS
+   ============================================ */
+.criteria-grid {
+  margin-top: 0.5rem;
+}
+
+.criteria-card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 1.8rem 1.4rem;
+  text-align: center;
+  box-shadow: 0 3px 16px rgba(0,0,0,0.05);
+  border: 1px solid #eef0f6;
+  height: 100%;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.criteria-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 8px 28px rgba(0,0,0,0.09);
+}
+
+.criteria-icon {
+  width: 56px;
+  height: 56px;
+  border-radius: 14px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1rem;
+  color: #fff;
+  font-size: 1.4rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.criteria-card-title {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+  font-size: 1rem;
+  color: #1a1a2e;
+  margin-bottom: 0.6rem;
+}
+
+.criteria-card-desc {
+  font-size: 0.86rem;
+  color: #6b6b7b;
+  line-height: 1.55;
+}
+
+/* ============================================
+   METHOD OVERVIEW TABLES
+   ============================================ */
+.method-tabs .tab-content {
+  padding: 0.5rem 0;
+}
+
+.method-table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.method-table thead th {
+  background: #667eea;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  padding: 0.75rem 1rem;
+  font-size: 0.92rem;
+}
+
+.method-table td {
+  padding: 0.7rem 1rem;
+  vertical-align: middle;
+  font-size: 0.92rem;
+}
+
+.method-table .method-name {
+  font-weight: 600;
+  color: #1a1a2e;
+  white-space: nowrap;
+}
+
+.method-table tbody tr:hover {
+  background: #f0f0ff;
+}
+
+.method-table .tag {
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+
+/* -- Method link icons in tables -- */
+.method-links {
+  white-space: nowrap;
+  display: flex;
+  gap: 5px;
+  flex-wrap: nowrap;
+  align-items: center;
+}
+
+/* ============================================
+   DEMO GRID CARDS
+   ============================================ */
+.demo-grid {
+  margin-top: 0.5rem;
+}
+
+.demo-card {
+  background: #fff;
+  border-radius: 14px;
+  border: 2px dashed #d5d8e8;
+  overflow: hidden;
+  text-align: center;
+  transition: border-color 0.3s ease, transform 0.25s ease;
+  position: relative;
+}
+
+.demo-card:hover {
+  border-color: #667eea;
+  transform: translateY(-2px);
+}
+
+.demo-card-preview {
+  background: linear-gradient(135deg, #f5f6fc 0%, #eceef8 100%);
+  padding: 2.5rem 1rem;
+  color: #b0b4cc;
+}
+
+.demo-card-label {
+  padding: 0.8rem 1rem 0.6rem;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: #1a1a2e;
+}
+
+.demo-card-badge {
+  display: inline-block;
+  background: linear-gradient(135deg, #667eea, #764ba2);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.25rem 0.8rem;
+  border-radius: 20px;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* ============================================
+   BIBTEX SECTION — DARK
+   ============================================ */
+.bibtex-section {
+  background: #13131f !important;
+  padding: 3.5rem 1.5rem;
+}
+
+.bibtex-title {
+  color: #fff !important;
+}
+
+.bibtex-subtitle {
+  color: rgba(255, 255, 255, 0.65) !important;
+}
+
+.bibtex-block {
+  position: relative;
+}
+
+.bibtex-block pre {
+  background: #1e1e2e;
+  color: #cdd6f4;
+  border-radius: 10px;
+  padding: 1.5rem;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.82rem;
+  line-height: 1.6;
+  overflow-x: auto;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.2);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.bibtex-block .copy-btn {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  background: rgba(255,255,255,0.1);
+  color: #cdd6f4;
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+
+.bibtex-block .copy-btn:hover {
+  background: rgba(255,255,255,0.2);
+  color: #fff;
+}
+
+/* ============================================
+   FOOTER
+   ============================================ */
+.footer {
+  background: #1a1a2e;
+  color: rgba(255,255,255,0.7);
+  padding: 2rem 1.5rem;
+}
+
+.footer a {
+  color: rgba(255,255,255,0.85);
+  transition: color 0.2s;
+}
+
+.footer a:hover {
+  color: #667eea;
+}
+
+.footer p {
+  color: rgba(255,255,255,0.6);
+}
+
+/* ============================================
+   RESPONSIVE — TABLET
+   ============================================ */
+@media screen and (max-width: 768px) {
+  .publication-title {
+    font-size: 1.6rem;
+  }
+
+  .publication-subtitle {
+    font-size: 1rem;
+  }
+
+  .section {
+    padding: 2rem 1rem;
+  }
+
+  .abstract-content {
+    font-size: 0.95rem;
+  }
+
+  .highlight-number {
+    font-size: 2.2rem;
+  }
+
+  .highlight-card {
+    padding: 1.5rem 1.2rem;
+  }
+
+  .criteria-card {
+    padding: 1.4rem 1rem;
+  }
+
+  .figure-block {
+    padding: 1.2rem 1rem 1.5rem;
+  }
+
+  .method-table td {
+    font-size: 0.85rem;
+    padding: 0.5rem 0.6rem;
+  }
+
+  .method-table .method-name {
+    white-space: normal;
+  }
+
+  .taxonomy-tabs .tab-content,
+  .method-tabs .tab-content {
+    padding: 1.2rem 1rem;
+  }
+
+  /* Pipeline flow wraps */
+  .pipeline-flow {
+    gap: 0.3rem;
+    padding: 1rem 0.5rem;
+  }
+
+  .pipeline-stage {
+    padding: 0.5rem 0.6rem;
+    min-width: 60px;
+  }
+
+  .pipeline-stage-icon {
+    font-size: 1rem;
+    width: 32px;
+    height: 32px;
+  }
+
+  .pipeline-stage-label {
+    font-size: 0.65rem;
+  }
+
+  .pipeline-arrow {
+    font-size: 0.7rem;
+    padding: 0 0.15rem;
+  }
+
+  /* Method row stacks */
+  .method-row {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.4rem;
+  }
+
+  .method-icon-links {
+    padding-left: 0;
+  }
+
+  /* Nav goes mobile */
+  .nav-links {
+    display: none;
+    position: absolute;
+    top: 52px;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(16px);
+    -webkit-backdrop-filter: blur(16px);
+    padding: 0.5rem 0;
+    border-bottom: 1px solid rgba(0,0,0,0.08);
+    box-shadow: 0 4px 16px rgba(0,0,0,0.08);
+  }
+
+  .nav-links a {
+    color: #3a3a4a !important;
+    padding: 0.7rem 1.5rem;
+    border-radius: 0;
+  }
+
+  .nav-links a:hover {
+    background: rgba(102, 126, 234, 0.08) !important;
+    color: #667eea !important;
+  }
+
+  .nav-open .nav-links {
+    display: flex;
+  }
+
+  .nav-toggle {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .publication-title {
+    font-size: 1.35rem;
+  }
+
+  .hero.is-light .hero-body {
+    padding: 4.5rem 1rem 2.5rem;
+  }
+
+  .highlight-number {
+    font-size: 1.8rem;
+  }
+
+  .criteria-icon {
+    width: 44px;
+    height: 44px;
+    font-size: 1.1rem;
+  }
+
+  .pipeline-stage {
+    padding: 0.4rem 0.5rem;
+    min-width: 50px;
+  }
+
+  .pipeline-stage-label {
+    font-size: 0.6rem;
+  }
+
+  .pipeline-arrow {
+    font-size: 0.6rem;
+  }
+
+  .icon-btn {
+    width: 38px;
+    height: 38px;
+    font-size: 1rem;
+  }
+}
+
+/* ============================================
+   color-mix FALLBACK for older browsers
+   ============================================ */
+@supports not (background: color-mix(in srgb, red 50%, blue)) {
+  .pipeline-stage-icon {
+    background: rgba(102, 126, 234, 0.1);
+  }
+}

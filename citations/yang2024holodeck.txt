@@ -1,0 +1,20 @@
+@inproceedings{yang2024holodeck,
+  author       = {Yue Yang and
+                  Fan{-}Yun Sun and
+                  Luca Weihs and
+                  Eli VanderBilt and
+                  Alvaro Herrasti and
+                  Winson Han and
+                  Jiajun Wu and
+                  Nick Haber and
+                  Ranjay Krishna and
+                  Lingjie Liu and
+                  Chris Callison{-}Burch and
+                  Mark Yatskar and
+                  Aniruddha Kembhavi and
+                  Christopher Clark},
+  title        = {Holodeck: Language Guided Generation of 3D Embodied {AI} Environments},
+  booktitle    = {{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages        = {16277--16287},
+  year         = {2024}
+}

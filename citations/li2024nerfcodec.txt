@@ -1,0 +1,7 @@
+@inproceedings{li2024nerfcodec,
+  title={Nerfcodec: Neural feature compression meets neural radiance fields for memory-efficient scene representation},
+  author={Li, Sicheng and Li, Hao and Liao, Yiyi and Yu, Lu},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={21274--21283},
+  year={2024}
+}

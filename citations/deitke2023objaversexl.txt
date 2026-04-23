@@ -1,0 +1,8 @@
+@article{deitke2023objaversexl,
+  title={Objaverse-xl: A universe of 10m+ 3d objects},
+  author={Deitke, Matt and Liu, Ruoshi and Wallingford, Matthew and Ngo, Huong and Michel, Oscar and Kusupati, Aditya and Fan, Alan and Laforte, Christian and Voleti, Vikram and Gadre, Samir Yitzhak and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  pages={35799--35813},
+  year={2023}
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhang2018unreasonable,
+  title={The Unreasonable Effectiveness of Deep Features as a Perceptual Metric},
+  author={Zhang, Richard and Isola, Phillip and Efros, Alexei A. and Shechtman, Eli and Wang, Oliver},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={586--595},
+  year={2018}
+}

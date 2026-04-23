@@ -1,0 +1,1 @@
+@String{IEEETransAC = "{IEEE} Trans. Automat. Control" }

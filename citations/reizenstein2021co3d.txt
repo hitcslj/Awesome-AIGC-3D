@@ -1,0 +1,7 @@
+@inproceedings{reizenstein2021co3d,
+  title={Common Objects in {3D}: Large-Scale Learning and Evaluation of Real-life {3D} Category Reconstruction},
+  author={Reizenstein, Jeremy and Shapovalov, Roman and Henzler, Philipp and Sbordone, Luca and Labatut, Patrick and Novotny, David},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={10901--10911},
+  year={2021}
+}

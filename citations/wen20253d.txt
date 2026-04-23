@@ -1,0 +1,6 @@
+@article{wen20253d,
+  title={3d scene generation: A survey},
+  author={Wen, Beichen and Xie, Haozhe and Chen, Zhaoxi and Hong, Fangzhou and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2505.05474},
+  year={2025}
+}

@@ -1,0 +1,14 @@
+@article{hong2022avatarclip,
+  author       = {Fangzhou Hong and
+                  Mingyuan Zhang and
+                  Liang Pan and
+                  Zhongang Cai and
+                  Lei Yang and
+                  Ziwei Liu},
+  title        = {AvatarCLIP: zero-shot text-driven generation and animation of 3D avatars},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {41},
+  number       = {4},
+  pages        = {161:1--161:19},
+  year         = {2022}
+}

@@ -1,0 +1,7 @@
+@inproceedings{cai2020learning,
+  title={Learning gradient fields for shape generation},
+  author={Cai, Ruojin and Yang, Guandao and Averbuch-Elor, Hadar and Hao, Zekun and Belongie, Serge and Snavely, Noah and Hariharan, Bharath},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={364--381},
+  year={2020}
+}

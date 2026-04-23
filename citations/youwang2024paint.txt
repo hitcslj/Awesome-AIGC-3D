@@ -1,0 +1,7 @@
+@inproceedings{youwang2024paint,
+  title={Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering},
+  author={Youwang, Kim and Oh, Tae-Hyun and Pons-Moll, Gerard},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={4347--4356},
+  year={2024}
+}

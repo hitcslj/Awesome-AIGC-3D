@@ -1,0 +1,6 @@
+@article{yang2024sampart3d,
+  title={Sampart3d: Segment any part in 3d objects},
+  author={Yang, Yunhan and Huang, Yukun and Guo, Yuan-Chen and Lu, Liangjun and Wu, Xiaoyang and Lam, Edmund Y and Cao, Yan-Pei and Liu, Xihui},
+  journal={arXiv preprint arXiv:2411.07184},
+  year={2024}
+}

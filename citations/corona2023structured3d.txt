@@ -1,0 +1,7 @@
+@inproceedings{corona2023structured3d,
+  title={Structured 3D Features for Reconstructing Controllable Avatars},
+  author={Corona, Enric and Zanfir, Mihai and Alldieck, Thiemo and Bazavan, Eduard Gabriel and Zanfir, Andrei and Sminchisescu, Cristian},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={16954--16964},
+  year={2023}
+}

@@ -1,0 +1,7 @@
+@inproceedings{kalischek2024tetradiffusion,
+  title={TetraDiffusion: Tetrahedral diffusion models for 3D shape generation},
+  author={Kalischek, Nikolai and Peters, Torben and Wegner, Jan D and Schindler, Konrad},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={357--373},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{qian2024gaussianavatars,
+  title={Gaussianavatars: Photorealistic head avatars with rigged 3d gaussians},
+  author={Qian, Shenhan and Kirschstein, Tobias and Schoneveld, Liam and Davoli, Davide and Giebenhain, Simon and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={20299--20309},
+  year={2024}
+}

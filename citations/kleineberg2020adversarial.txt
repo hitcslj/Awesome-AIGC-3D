@@ -1,0 +1,6 @@
+@article{kleineberg2020adversarial,
+  title={Adversarial generation of continuous implicit shape representations},
+  author={Kleineberg, Marian and Fey, Matthias and Weichert, Frank},
+  journal={arXiv preprint arXiv:2002.00349},
+  year={2020}
+}

@@ -1,0 +1,1 @@
+@String{ACMMathSoft = "{ACM} Trans. Math. Software" }

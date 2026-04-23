@@ -1,0 +1,7 @@
+@inproceedings{gafni2021nerface,
+  title={Dynamic Neural Radiance Fields for Monocular {4D} Facial Avatar Reconstruction},
+  author={Gafni, Guy and Thies, Justus and Zollh{\"o}fer, Michael and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={8649--8658},
+  year={2021}
+}

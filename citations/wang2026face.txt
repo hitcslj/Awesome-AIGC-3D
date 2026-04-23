@@ -1,0 +1,6 @@
+@article{wang2026face,
+  title={FACE: A Face-based Autoregressive Representation for High-Fidelity and Efficient Mesh Generation},
+  author={Wang, Hanxiao and Guo, Yuan-Chen and Liu, Ying-Tian and Zou, Zi-Xin and Zhang, Biao and Quan, Weize and Liang, Ding and Cao, Yan-Pei and Yan, Dong-Ming},
+  journal={arXiv preprint arXiv:2603.01515},
+  year={2026}
+}

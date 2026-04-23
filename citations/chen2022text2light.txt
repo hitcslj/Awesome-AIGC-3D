@@ -1,0 +1,11 @@
+@article{chen2022text2light,
+  author       = {Zhaoxi Chen and
+                  Guangcong Wang and
+                  Ziwei Liu},
+  title        = {Text2Light: Zero-Shot Text-Driven {HDR} Panorama Generation},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {41},
+  number       = {6},
+  pages        = {195:1--195:16},
+  year         = {2022}
+}

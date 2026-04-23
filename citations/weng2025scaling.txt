@@ -1,0 +1,7 @@
+@inproceedings{weng2025scaling,
+  title={Scaling mesh generation via compressive tokenization},
+  author={Weng, Haohan and Zhao, Zibo and Lei, Biwen and Yang, Xianghui and Liu, Jian and Lai, Zeqiang and Chen, Zhuo and Liu, Yuhong and Jiang, Jie and Guo, Chunchao and others},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={11093--11103},
+  year={2025}
+}

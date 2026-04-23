@@ -1,0 +1,7 @@
+@misc{hunyuan3d31_2025,
+  author       = {{Tencent}},
+  title        = {Hunyuan3D 3.1: Cloud-Based 3D Asset Generation Service},
+  year         = {2025},
+  howpublished = {\url{https://3d.hunyuanglobal.com}},
+  note         = {Accessed: April 2026}
+}

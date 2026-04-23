@@ -1,0 +1,1 @@
+@String{ParDistComp = "J. Parallel and Distrib. Comput." }

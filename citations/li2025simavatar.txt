@@ -1,0 +1,13 @@
+@inproceedings{li2025simavatar,
+  author       = {Xueting Li and
+                  Ye Yuan and
+                  Shalini De Mello and
+                  Gilles Daviet and
+                  Jonathan Leaf and
+                  Miles Macklin and
+                  Jan Kautz and
+                  Umar Iqbal},
+  title        = {SimAvatar: Simulation-Ready Avatars with Layered Hair and Clothing},
+  booktitle    = {{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  year         = {2025}
+}

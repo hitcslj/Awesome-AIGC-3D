@@ -1,0 +1,7 @@
+@inproceedings{park2019deepsdf,
+  title={Deepsdf: Learning continuous signed distance functions for shape representation},
+  author={Park, Jeong Joon and Florence, Peter and Straub, Julian and Newcombe, Richard and Lovegrove, Steven},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={165--174},
+  year={2019}
+}

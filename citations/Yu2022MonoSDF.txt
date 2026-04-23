@@ -1,0 +1,6 @@
+@article{Yu2022MonoSDF,
+  author    = {Yu, Zehao and Peng, Songyou and Niemeyer, Michael and Sattler, Torsten and Geiger, Andreas},
+  title     = {MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction},
+  journal   = {Advances in Neural Information Processing Systems (NeurIPS)},
+  year      = {2022},
+}

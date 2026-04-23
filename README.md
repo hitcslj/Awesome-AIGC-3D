@@ -1,517 +1,451 @@
-# Awesome-AIGC-3D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# From Visual Synthesis to Interactive Worlds <br> A Survey of Production-Ready 3D Generation
 
-This is a curated list of remarkable AIGC 3D papers, which is inspired by [awesome-NeRF](https://github.com/awesome-NeRF/awesome-NeRF). 
+[![arXiv](https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg)](https://arxiv.org/abs/2026.xxxxx)
+[![ACM CSUR](https://img.shields.io/badge/ACM-Computing%20Surveys-blue)](https://dl.acm.org/)
+[![Project Page](https://img.shields.io/badge/Project-Page-green)](https://hitcslj.github.io/Awesome-AIGC-3D/)
+[![GitHub stars](https://img.shields.io/github/stars/hitcslj/Awesome-AIGC-3D?style=social)](https://github.com/hitcslj/Awesome-AIGC-3D)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+<p align="center">
+  <img src="asset/fig1_pipeline.jpg" width="100%">
+</p>
+
+## News
+
+- **[2026-04]** v2.0: ACM Computing Surveys companion release with production-pipeline taxonomy
+- **[2025-08]** v1.0: Original awesome list by Jian Liu (available on [main branch](https://github.com/hitcslj/Awesome-AIGC-3D/tree/main))
+
+## Abstract
+
+Three-dimensional content generation has progressed from producing isolated, visually plausible shapes to constructing structured assets that can be deployed in real-time interactive environments. This trajectory is driven by converging demands from game development, embodied AI, world simulation, digital twins, and spatial computing, all of which require 3D content that goes beyond surface appearance to satisfy engine-level constraints on topology, UV parameterization, physically based materials, skeletal rigging, and physics-aware scene layout. Despite rapid advances in generative modeling, a persistent gap separates the outputs of current methods from the production-ready standard expected by interactive applications. This survey addresses that gap by organizing the literature around the asset production pipeline rather than algorithmic families.
 
 ---
-The progress in the field of 3D has been extremely rapid, and many methods have become obsolete. Here is a preliminary classification:
-
-- **V 0.x**: The SDS version, with the classic work being [DreamFusion]().
-- **V 1.x**: Utilizing multi-view generation + Transformer for reconstruction, and the classic work is [LRM](https://arxiv.org/abs/2311.04400).
-- **V 2.x**: Adopting VAE-DiT + texturify to decouple geometry and texture production, and the classic work is [CLAY](https://arxiv.org/abs/2406.13897), [SLAT](https://arxiv.org/pdf/2412.01506), [Sparc3D](https://arxiv.org/abs/2505.14521).
-
-**Possible Directions**:
-
-- **Mesh Generation**: The representative work is [MeshGPT](https://arxiv.org/pdf/2311.15475). 
-- **Part Generation**: The representative work is [OmniPart](https://arxiv.org/abs/2507.06165)
----
-
-<img src="./asset/mvdream.gif" width="696px">
-
-#### [How to submit a pull request?](https://github.com/hitcslj/Awesome-AIGC-3D/blob/main/how-to-PR.md)
-
-
 
 ## Table of Contents
 
-- [Survey](#survey) 
-- [Papers](#papers)
-- [Benchmarks and Datasets](#Benchmarks-and-Datasets)
-- [Talks](#talks)
-- [Company](#company)
-- [Implementations](#implementations)
-
-## Survey
-
-- [3D Generative Models: A Survey](https://arxiv.org/abs/2210.15663), Shi et al., arxiv 2022 | [bibtex](./citations/3d-generative-survey.txt)
-- [Generative AI meets 3D: A Survey on Text-to-3D in AIGC Era](https://arxiv.org/abs/2305.06131), Li et al., arxiv 2023 | [bibtex](./citations/aigc3d.txt)
-- [AI-Generated Content (AIGC) for Various Data Modalities: A Survey](https://arxiv.org/abs/2308.14177), Foo et al., arxiv 2023 | [bibtex](./citations/aigcvdm.txt)
-- [Advances in 3D Generation: A Survey](https://arxiv.org/abs/2401.17807), Li et al., arxiv 2024 | [bibtex](./citations/advance-3dgeneration.txt)
-- [A Comprehensive Survey on 3D Content Generation](https://arxiv.org/abs/2402.01166), Liu et al., arxiv 2024 | [bibtex](./citations/3dcg.txt)
-- [Geometric Constraints in Deep Learning Frameworks: A Survey](https://arxiv.org/abs/2403.12431), Vats et al., arxiv 2024 | [bibtex](./citations/GeoConstrain.txt)
-
-## Papers
-
-<details close>
-<summary>3D Native Generative Methods</summary>
-
-<details open>
-<summary>Object</summary>
-
-- [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](https://arxiv.org/abs/1803.08495), Chen et al., ACCV  2018 |  [github](https://github.com/kchen92/text2shape) | [bibtex](./citations/text2shape.txt)
-- [ShapeCrafter: A Recursive Text-Conditioned 3D Shape Generation Model](https://arxiv.org/abs/2207.09446), Fu et al., NeurIPS  2022 |  [github](https://github.com/FreddieRao/ShapeCrafter) | [bibtex](./citations/shapecrafter.txt)
-- [GET3D: A Generative Model of High Quality 3D Textured Shapes Learned from Images](https://arxiv.org/abs/2209.11163), Gao et al., NeurIPS  2022 |  [github](https://github.com/nv-tlabs/GET3D) | [bibtex](./citations/get3d.txt)
-- [LION: Latent Point Diffusion Models for 3D Shape Generation](https://arxiv.org/abs/2210.06978), Zeng et al., NeurIPS  2022 |  [github](https://github.com/nv-tlabs/LION) | [bibtex](./citations/lion.txt)
-- [Diffusion-SDF: Conditional Generative Modeling of Signed Distance Functions](https://arxiv.org/abs/2211.13757), Chou et al., ICCV  2023 |  [github](https://github.com/princeton-computational-imaging/Diffusion-SDF) | [bibtex](./citations/diffusionsdf.txt)
-- [MagicPony: Learning Articulated 3D Animals in the Wild](https://arxiv.org/abs/2211.12497), Wu et al., CVPR 2023 | [github](https://github.com/elliottwu/MagicPony) | [bibtex](./citations/magicpony.txt)
-- [DiffRF: Rendering-guided 3D Radiance Field Diffusion](https://arxiv.org/abs/2212.01206), Müller et al., CVPR 2023 | [bibtex](./citations/diffRF.txt)
-- [SDFusion: Multimodal 3D Shape Completion, Reconstruction, and Generation](https://arxiv.org/abs/2212.04493), Cheng et al., CVPR  2023 |  [github](https://github.com/yccyenchicheng/SDFusion) | [bibtex](./citations/sdfusion.txt)
-- [Point-E: A System for Generating 3D Point Clouds from Complex Prompts](https://arxiv.org/abs/2212.08751), Nichol et al., arxiv  2022 |  [github](https://github.com/openai/point-e) | [bibtex](./citations/pointe.txt)
-- [3DShape2VecSet: A 3D Shape Representation for Neural Fields and Generative Diffusion Models](https://arxiv.org/abs/2301.11445), Zhang et al., TOG 2023 |  [github](https://github.com/1zb/3DShape2VecSet) | [bibtex](./citations/3dShape2VecSet.txt)
-- [3DGen: Triplane Latent Diffusion for Textured Mesh Generation](https://arxiv.org/abs/2303.05371), Gupta et al., arxiv 2023  | [bibtex](./citations/3dgen.txt)
-- [MeshDiffusion: Score-based Generative 3D Mesh Modeling](https://arxiv.org/abs/2303.08133), Liu et al., ICLR 2023 |  [github](https://github.com/lzzcd001/MeshDiffusion/) | [bibtex](./citations/meshdiffusion.txt)
-- [HoloDiffusion: Training a 3D Diffusion Model using 2D Images](https://arxiv.org/abs/2303.16509), Karnewar et al., CVPR 2023 | [github](https://github.com/facebookresearch/holo_diffusion) | [bibtex](./citations/holodiffusion.txt)
-- [HyperDiffusion: Generating Implicit Neural Fields with Weight-Space Diffusion](https://arxiv.org/abs/2303.17015), Erkoç et al., ICCV 2023 | [github](https://github.com/Rgtemze/HyperDiffusion) | [bibtex](./citations/hyperdiffusion.txt)
-- [Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463), Jun et al., arxiv 2023 | [github](https://github.com/openai/shap-e) | [bibtex](./citations/shape.txt)
-- [LAS-Diffusion: Locally Attentional SDF Diffusion for Controllable 3D Shape Generation](https://arxiv.org/abs/2305.04461), Zheng et al., TOG 2023 | [github](https://github.com/Zhengxinyang/LAS-Diffusion) | [bibtex](./citations/lasdiffusion.txt)
-- [Michelangelo: Conditional 3D Shape Generation based on Shape-Image-Text Aligned Latent Representation](https://arxiv.org/abs/2306.17115), Zhao et al., NeurIPS 2023 | [github](https://github.com/NeuralCarver/Michelangelo) | [bibtex](./citations/michelangelo.txt)
-- [DiffComplete: Diffusion-based Generative 3D Shape Completion](https://arxiv.org/abs/2306.16329), Chu et al., NeurIPS 2023 | [bibtex](./citations/diffcomplete.txt)
-- [DiT-3D: Exploring Plain Diffusion Transformers for 3D Shape Generation](https://arxiv.org/abs/2307.01831), Mo et al., arxiv 2023 | [github](https://github.com/DiT-3D/DiT-3D) | [bibtext](./citations/dit3d.txt)
-- [3D VADER - AutoDecoding Latent 3D Diffusion Models](https://arxiv.org/abs/2307.05445), Ntavelis et al., arxiv 2023 | [github](https://github.com/snap-research/3DVADER) | [bibtex](./citations/3dvader.txt)
-- [ARGUS: Visualization of AI-Assisted Task Guidance in AR](https://arxiv.org/abs/2308.06246), Castelo et al., TVCG 2023 | [bibtex](./citations/argus.txt)
-- [Large-Vocabulary 3D Diffusion Model with Transformer](https://arxiv.org/abs/2309.07920), Cao et al., ICLR 2024 | [github](https://github.com/ziangcao0312/DiffTF) | [bibtext](./citations/largevoc.txt)
-- [TextField3D: Towards Enhancing Open-Vocabulary 3D Generation with Noisy Text Fields](https://arxiv.org/abs/2309.17175), Huang et al., ICLR 2024 | [bibtex](./citations/textfield3d.txt) 
-- [HyperFields:Towards Zero-Shot Generation of NeRFs from Text](https://arxiv.org/abs/2310.17075), Babu et al., arxiv 2023 | [github](https://github.com/threedle/hyperfields) | [bibtex](./citations/hyperfields.txt)
-- [LRM: Large Reconstruction Model for Single Image to 3D](https://arxiv.org/abs/2311.04400), Hong et al., ICLR 2024 | [bibtex](./citations/lrm.txt)
-- [DMV3D:Denoising Multi-View Diffusion using 3D Large Reconstruction Model](https://arxiv.org/abs/2311.09217), Xu et al., ICLR 2024 | [bibtex](./citations/dmv3d.txt) 
-- [WildFusion:Learning 3D-Aware Latent Diffusion Models in View Space](https://arxiv.org/abs/2311.13570), Schwarz et al., ICLR 2024 | [bibtex](./citations/wildfusion.txt)
-- [Functional Diffusion](https://arxiv.org/abs/2311.15435), Zhang et al., CVPR 2024 | [github](https://github.com/1zb/functional-diffusion) | [bibtex](./citations/fd.txt)
-- [SPiC·E: Structural Priors in 3D Diffusion Models using Cross-Entity Attention](https://arxiv.org/abs/2311.17834), Sella et al., arxiv 2023 | [github](https://github.com/TAU-VAILab/spic-e) | [bibtex](./citations/spice.txt)
-- [ZeroRF: Fast Sparse View 360° Reconstruction with Zero Pretraining](https://arxiv.org/abs/2312.09249), Shi et al., arxiv 2023 | [github](https://github.com/eliphatfs/zerorf)  | [bibtex](./citations/zeroRF.txt) 
-- [Learning the 3D Fauna of the Web](https://arxiv.org/abs/2401.02400), Li et al., arxiv 2024 | [bibtex](./citations/3dfauna.txt)
-- [Pushing Auto-regressive Models for 3D Shape Generation at Capacity and Scalability](https://arxiv.org/abs/2402.12225), Qian et al., arxiv 2024 | [github](https://github.com/FVPLab/Argus-3D) | [bibtext](./citations/argus3d.txt)
-- [LN3Diff: Scalable Latent Neural Fields Diffusion for Speedy 3D Generation](https://arxiv.org/abs/2403.12019), Lan et al., arxiv 2024 | [github](https://github.com/NIRVANALAN/LN3Diff) | [bibtext](./citations/LN3Diff.txt)
-- [GRM: Large Gaussian Reconstruction Model for Efficient 3D Reconstruction and Generation](https://arxiv.org/abs/2403.14621), Xu et al., arxiv 2024 | [github](https://github.com/justimyhxu/grm) | [bibtext](./citations/grm.txt)
-- [Lift3D: Zero-Shot Lifting of Any 2D Vision Model to 3D](https://arxiv.org/abs/2403.18922), Varma T et al., CVPR 2024 | [github](https://github.com/MukundVarmaT/Lift3D) | [bibtext](./citations/lift3d.txt)
-- [MeshLRM: Large Reconstruction Model for High-Quality Meshes](https://arxiv.org/abs/2404.12385), Wei et al., arxiv 2024 | [bibtext](./citations/meshlrm.txt)
-- [Interactive3D🪄: Create What You Want by Interactive 3D Generation](https://arxiv.org/abs/2404.16510), Dong et al., CVPR 2024 | [github](https://github.com/interactive-3d/interactive3d) | [bibtex](./citations/interactive3D.txt)
-- [BrepGen: A B-rep Generative Diffusion Model with Structured Latent Geometry](https://arxiv.org/abs/2401.15563), Xu et al., SIGGRAPH 2024 | [github](https://github.com/samxuxiang/BrepGen) | [bibtex](./citations/brepGen.txt)
-- [Direct3D: Scalable Image-to-3D Generation via 3D Latent Diffusion Transformer](https://arxiv.org/abs/2405.14832), Wu et al., arxiv 2024 | [bibtex](./citations/direct3d.txt)
-- [CLAY: A Controllable Large-scale Generative Model for Creating High-quality 3D Assets](https://arxiv.org/abs/2406.13897), Zhang et al., TOG 2024 | [github](https://github.com/CLAY-3D/OpenCLAY) | [bibtex](./citations/clay.txt)
-- [L4GM: Large 4D Gaussian Reconstruction Model](https://arxiv.org/abs/2406.10324), Ren et al., arxiv 2024 | [bibtex](./citations/l4gm.txt)
-- [Efficient Large-Baseline Radiance Fields, a feed-forward 2DGS model](https://arxiv.org/abs/2407.04699v1), Chen et al., ECCV 2024 | [github](https://github.com/autonomousvision/LaRa) | [bibtex](./citations/LaRa.txt)
-- [SF3D: Stable Fast 3D Mesh Reconstruction with UV-unwrapping and Illumination Disentanglement](https://arxiv.org/abs/2408.00653), Boss et al., arXiv 2024 | [github](https://github.com/Stability-AI/stable-fast-3d) | [bibtex](./citations/sf3d.txt)
-- [G3PT: Unleash the power of Autoregressive Modeling in 3D Generation via Cross-scale Querying Transformer](https://arxiv.org/abs/2409.06322), Zhang et al., arXiv 2024 | [bibtex](./citations/g3pt.txt)
-- [3DTopia-XL: Scaling High-quality 3D Asset Generation via Primitive Diffusion](https://arxiv.org/abs/2409.12957), Chen et al., arXiv 2024 | [github](https://github.com/3DTopia/3DTopia-XL) | [bibtex](./citations/3dtopia-xl.txt)
-- [Hunyuan3D 2.0: Scaling Diffusion Models for High Resolution Textured 3D Assets Generation](https://arxiv.org/abs/2501.12202), Zhao et al., arXiv 2025 | [github](https://github.com/Tencent/Hunyuan3D-2) | [bibtex](./citations/hunyuan3d-2.txt)
-
-</details>
-
-
-<details open>
-<summary>Scene</summary>
-
-
-- [GRAF: Generative Radiance Fields for 3D-Aware Image Synthesis](https://arxiv.org/abs/2007.02442), Schwarz et al., NeurIPS 2020 | [github](https://github.com/autonomousvision/graf) | [bibtext](./citations/graf.txt)
-- [ATISS: Autoregressive Transformers for Indoor Scene Synthesis](https://arxiv.org/abs/2110.03675), Paschalidou et al., NeurIPS 2021 | [github](https://github.com/nv-tlabs/atiss) | [bibtext](./citations/atiss.txt) 
-- [GAUDI: A Neural Architect for Immersive 3D Scene Generation](https://arxiv.org/abs/2207.13751), Bautista et al., NeurIPS 2022 | [github](https://github.com/apple/ml-gaudi) | [bibtext](./citations/gaudi.txt)
-- [NeuralField-LDM: Scene Generation with Hierarchical Latent Diffusion Models](https://arxiv.org/abs/2304.09787), Kim et al., CVPR 2023 | [bibtext](./citations/nerfldm.txt)
-- [Pyramid Diffusion for Fine 3D Large Scene Generation](https://arxiv.org/abs/2311.12085), Liu et al., arxiv 2023 | [github](https://yuheng.ink/project-page/pyramid-discrete-diffusion/) | [bibtext](./citations/pyramid.txt) 
-- [XCube: Large-Scale 3D Generative Modeling using Sparse Voxel Hierarchies](https://arxiv.org/abs/2312.03806), Ren et al., arxiv 2023 | [bibtex](./citations/xcube.txt)
-- [DUSt3R: Geometric 3D Vision Made Easy](https://arxiv.org/abs/2312.14132), Wang et al., arxiv 2023 | [github](https://github.com/naver/dust3r) | [bibtext](./citations/dust3r.txt)
-
-
-</details>
-
-<details open>
-<summary>Human Avatar</summary>
-
-- [SMPL: A skinned multi-person linear model](https://dl.acm.org/doi/10.1145/2816795.2818013), Loper et al., TOG 2015 | [bibtex](./citations/smpl.txt)
-- [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871), Corona et al., CVPR 2021 | [github](https://github.com/enriccorona/SMPLicit) | [bibtext](./citations/smplicit.txt)
-- [HeadNeRF: A Real-time NeRF-based Parametric Head Model](https://arxiv.org/abs/2112.05637), Hong et al., CVPR 2022 | [github](https://github.com/CrisHY1995/headnerf) | [bibtext](./citations/headnerf.txt)
-- [gDNA: Towards Generative Detailed Neural Avatars](https://arxiv.org/abs/2201.04123), Chen et al., CVPR 2022 | [github](https://github.com/xuchen-ethz/gdna) | [bibtext](./citations/gdna.txt)
-- [Rodin: A Generative Model for Sculpting 3D Digital Avatars Using Diffusion](https://arxiv.org/abs/2212.06135), Wang et al., CVPR 2023 | [bibtex](./citations/rodin.txt)
-- [Single-View 3D Human Digitalization with Large Reconstruction Models](https://arxiv.org/abs/2401.12175), Weng et al., CVPR 2023 | [bibtex](./citations/singlehuman.txt)
-
-
-</details>
-
-</details>
-
-<details close>
-<summary>2D Prior-based 3D Generative Methods</summary>
-
-<details open>
-<summary>Object</summary>
-
-- [DreamFields: Zero-Shot Text-Guided Object Generation with Dream Fields](https://arxiv.org/abs/2112.01455), Jain et al., CVPR 2022 | [github](https://github.com/google-research/google-research/tree/master/dreamfields) | [bibtex](./citations/dreamfields.txt)
-- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988), Poole et al., ICLR 2023 | [github](https://github.com/ashawkey/stable-dreamfusion) | [bibtex](./citations/dreamfusion.txt)
-- [Dream3D: Zero-Shot Text-to-3D Synthesis Using 3D Shape Prior and Text-to-Image Diffusion Models](https://arxiv.org/abs/2212.14704), Xu et al., CVPR 2023 | [bibtex](./citations/dream3d.txt)
-- [Magic3D: High-Resolution Text-to-3D Content Creation](https://arxiv.org/abs/2211.10440), Lin et al., CVPR 2023 | [bibtex](./citations/magic3d.txt)
-- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774), Wang et al., CVPR 2023 |[github](https://github.com/pals-ttic/sjc/)| [bibtex](./citations/sjc.txt)
-- [RealFusion: 360° Reconstruction of Any Object from a Single Image](https://arxiv.org/abs/2302.10663), Melas-Kyriazi et al., CVPR 2023 | [github](https://github.com/lukemelas/realfusion) | [bibtex](./citations/realfusion.txt)
-- [3DFuse: Let 2D Diffusion Model Know 3D-Consistency for Robust Text-to-3D Generation](https://arxiv.org/abs/2303.07937), Seo et al., ICLR 2024 | [github](https://github.com/KU-CVLAB/3DFuse) | [bibtex](./citations/3dfuse.txt)
-- [DreamBooth3D: Subject-Driven Text-to-3D Generation](https://arxiv.org/abs/2303.13508), Raj et al., ICCV 2023 | [bibtex](./citations/dreambooth3d.txt)
-- [Fantasia3D: Disentangling Geometry and Appearance for High-quality Text-to-3D Content Creation](https://arxiv.org/abs/2303.13873/), Chen et al., ICCV 2023 | [github](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [bibtex](./citations/fantasia3d.txt)
-- [Make-It-3D: High-Fidelity 3D Creation from A Single Image with Diffusion Prior](https://arxiv.org/abs/2303.14184), Tang et al., ICCV 2023 | [github](https://github.com/junshutang/Make-It-3D) | [bibtex](./citations/makeit3d.txt)
-- [HiFA: High-fidelity Text-to-3D with Advanced Diffusion Guidance](https://arxiv.org/abs/2305.18766), Zhu et al., ICLR 2024 | [github](https://github.com/HiFA-team/HiFA) | [bibtex](./citations/hifa.txt)
-- [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213), Wang et al., NeurIPS 2023 | [github](https://github.com/thu-ml/prolificdreamer) | [bibtex](./citations/prolificdreamer.txt)
-- [ATT3D: Amortized Text-to-3D Object Synthesis](https://arxiv.org/abs/2306.07349), Lorraine et al., ICCV 2023 | [bibtex](./citations/att3d.txt)
-- [DreamGaussian: Generative Gaussian Splatting for Efficient 3D Content Creation](https://arxiv.org/abs/2309.16653), Tang et al., ICLR 2024 | [github](https://github.com/dreamgaussian/dreamgaussian) | [bibtex](./citations/dreamguassian.txt)
-- [NFSD: Noise Free Score Distillation](https://arxiv.org/abs/2310.17590), Katzir et al., arxiv 2023 | [github](https://github.com/orenkatzir/nfsd) | [bibtex](./citations/nfsd.txt)
-- [Text-to-3D with Classifier Score Distillation](https://arxiv.org/abs/2310.19415), Yu et al., arxiv 2023 | [github](https://github.com/CVMI-Lab/Classifier-Score-Distillation) | [bibtex](./citations/csd.txt)
-- [IPDreamer: Appearance-Controllable 3D Object Generation with Image Prompts](https://arxiv.org/abs/2310.05375), Zeng et al., arxiv 2023 | [bibtex](./citations/ipdreamer.txt)
-- [Progressive3D: Progressively Local Editing for Text-to-3D Content Creation with Complex Semantic Prompts](https://arxiv.org/abs/2310.11784), Cheng et al., arxiv 2023 |  [github](https://github.com/cxh0519/Progressive3D) | [bibtex](./citations/progressive3d.txt)
-- [Instant3D : Instant Text-to-3D Generation](https://arxiv.org/abs/2311.08403), Li et al., ICLR 2024 | [bibtex](./citations/instant3d_.txt) 
-- [LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching](https://arxiv.org/abs/2311.11284), Liang et al., arxiv 2023 | [github](https://github.com/EnVision-Research/LucidDreamer) | [bibtex](./citations/luciddreamer-object.txt)
-- [Control3D: Towards Controllable Text-to-3D Generation](https://arxiv.org/abs/2311.05461), Chen et al., ACM Multimedia 2023 | [bibtex](./citations/control3d.txt)
-- [CG3D: Compositional Generation for Text-to-3D via Gaussian Splatting](https://arxiv.org/abs/2311.17907), Vilesov et al., arxiv 2023 | [bibtex](./citations/gc3d.txt)
-- [StableDreamer: Taming Noisy Score Distillation Sampling for Text-to-3D](https://arxiv.org/abs/2312.02189), Guo et al., arxiv 2023 | [bibtex](./citations/stabledreamer.txt)
-- [CAD: Photorealistic 3D Generation via Adversarial Distillation](https://arxiv.org/abs/2312.06663), Wan et al., arxiv 2023 | [github](https://github.com/raywzy/CAD) | [bibtex](./citations/CAD.txt)
-- [DreamControl: Control-Based Text-to-3D Generation with 3D Self-Prior](https://arxiv.org/abs/2312.06439), Huang et al., arxiv 2023 |  [github](https://github.com/tyhuang0428/DreamControl) | [bibtex](./citations/dreamcontrol.txt)
-- [AGAP:Learning Naturally Aggregated Appearance for Efficient 3D Editing](https://arxiv.org/abs/2312.06657), Cheng et al., arxiv 2023 |  [github](https://github.com/felixcheng97/AGAP) | [bibtex](./citations/agap.txt)
-- [SSD: Stable Score Distillation for High-Quality 3D Generation](https://arxiv.org/abs/2312.09305), Tang et al., arxiv 2023 | [bibtex](./citations/ssd.txt)
-- [SteinDreamer: Variance Reduction for Text-to-3D Score Distillation via Stein Identity](https://arxiv.org/abs/2401.00604), Wang et al., arxiv 2023 | [github](https://github.com/VITA-Group/SteinDreamer) | [bibtex](./citations/steindreamer.txt)
-- [Taming Mode Collapse in Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2401.00909), Wang et al., arxiv 2024 | [github](https://github.com/VITA-Group/3D-Mode-Collapse) | [bibtex](./citations/3d-mode-collapse.txt)
-- [Score Distillation Sampling with Learned Manifold Corrective](https://arxiv.org/abs/2401.05293), Alldieck et al., arxiv 2024 | [bibtex](./citations/sdslmc.txt)
-- [Consistent3D: Towards Consistent High-Fidelity Text-to-3D Generation with Deterministic Sampling Prior](https://arxiv.org/abs/2401.09050), Wu et al., arxiv 2024 | [bibtex](./citations/consistent3d.txt)
-- [TIP-Editor: An Accurate 3D Editor Following Both Text-Prompts And Image-Prompts](https://arxiv.org/abs/2401.14828), Zhuang et al., arxiv 2024 | [bibtex](./citations/tipEditor.txt)
-- [ICE-G: Image Conditional Editing of 3D Gaussian Splats](https://arxiv.org/abs/2406.08488), Jaganathan et al., CVPRW 2024 | [bibtext](./citations/iceg.txt)
-- [GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality](https://arxiv.org/abs/2406.18462), Yi et al., arxiv 2024 | [github](https://github.com/hustvl/GaussianDreamerPro) | [bibtex](./citations/gaussianDreamerPro.txt)
-- [ScaleDreamer: Scalable Text-to-3D Synthesis with Asynchronous Score Distillation](https://arxiv.org/pdf/2407.02040), Ma et al., ECCV 2024 | [github](https://github.com/theEricMa/ScaleDreamer) | [bibtex](./citations/scaledreamer.txt)
-
-</details>
-
-
-<details open>
-<summary>Scene</summary>
-
-- [Text2Light: Zero-Shot Text-Driven HDR Panorama Generation](https://arxiv.org/abs/2209.09898), Chen et al., TOG 2022 | [github](https://github.com/FrozenBurning/Text2Light) | [bibtext](./citations/text2light.txt) 
-- [SceneScape: Text-Driven Consistent Scene Generation](https://arxiv.org/abs/2302.01133), Fridman et al., NeurIPS 2023 | [github](https://github.com/RafailFridman/SceneScape) | [bibtext](./citations/scenescape.txt) 
-- [DiffuScene: Scene Graph Denoising Diffusion Probabilistic Model for Generative Indoor Scene Synthesis](https://arxiv.org/abs/2303.14207), Tang et al., arxiv 2023 | [github](https://github.com/tangjiapeng/DiffuScene) | [bibtext](./citations/diffuscene.txt) 
-- [Text2Room: Extracting Textured 3D Meshes from 2D Text-to-Image Models](https://arxiv.org/abs/2303.11989), Höllein et al., ICCV 2023 | [github](https://github.com/lukasHoel/text2room) | [bibtext](./citations/text2room.txt) 
-- [Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields](https://arxiv.org/abs/2305.11588), Zhang et al., TVCG 2024 | [github](https://github.com/eckertzhang/Text2NeRF) | [bibtext](./citations/text2nerf.txt) 
-- [CityDreamer: Compositional Generative Model of Unbounded 3D Cities](https://arxiv.org/abs/2309.00610), Xie et al., arxiv 2023 | [github](https://github.com/hzxie/city-dreamer) | [bibtext](./citations/cityDreamer.txt)
-- [GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting](https://arxiv.org/abs/2311.14521), Chen et al., arxiv 2023 |  [github](https://github.com/buaacyw/GaussianEditor) | [bibtex](./citations/gaussianeditor.txt)
-- [LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes](https://arxiv.org/abs/2311.13384), Chuang et al., arxiv 2023 | [github](https://github.com/luciddreamer-cvlab/LucidDreamer)  | [bibtext](./citations/luciddreamer-scene.txt)
-- [GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions](https://arxiv.org/abs/2311.16037), Fang et al., arxiv 2023 | [bibtex](./citations/gaussianEditor2.txt)
-- [Gaussian Grouping: Segment and Edit Anything in 3D Scenes](https://arxiv.org/abs/2312.00732), Ye et al., arxiv 2023 |  [github](https://github.com/lkeab/gaussian-grouping) | [bibtex](./citations/gaussian-group.txt)
-- [Inpaint3D: 3D Scene Content Generation using 2D Inpainting Diffusion](https://arxiv.org/abs/2312.03869), Prabhu et al., arxiv 2023 | [bibtext](./citations/inpaint3d.txt)
-- [SIGNeRF: Scene Integrated Generation for Neural Radiance Fields](https://arxiv.org/abs/2401.01647), Dihlmann et al., arxiv 2024 |  [github](https://github.com/cgtuebingen/SIGNeRF) | [bibtex](./citations/sigNerf.txt)
-- [Disentangled 3D Scene Generation with Layout Learning](https://arxiv.org/abs/2402.16936), Epstein, et al., arxiv 2024 | [bibtex](./citations/disentangled.txt)
-
-
-</details>
-
-<details open>
-<summary>Human Avatar</summary>
-
-- [AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars](https://arxiv.org/abs/2205.08535), Hong et al., SIGGRAPH 2022 |  [github](https://github.com/hongfz16/AvatarCLIP) | [bibtex](./citations/teca.txt)
-- [DreamWaltz: Make a Scene with Complex 3D Animatable Avatars](https://arxiv.org/abs/2305.12529), Huang et al., NeurIPS 2023 |  [github](https://github.com/IDEA-Research/DreamWaltz) | [bibtex](./citations/dreamwaltz.txt)
-- [DreamHuman: Animatable 3D Avatars from Text](https://arxiv.org/abs/2306.09329), Wang et al., arxiv 2023 | [bibtex](./citations/dreamhuman.txt)
-- [TECA: Text-Guided Generation and Editing of Compositional 3D Avatars](https://arxiv.org/abs/2309.07125), Zhang et al., arxiv 2023 |  [github](https://github.com/HaoZhang990127/TECA) | [bibtex](./citations/teca.txt)
-- [HumanGaussian: Text-Driven 3D Human Generation with Gaussian Splatting](https://arxiv.org/abs/2311.17061), Liu et al., arxiv 2023 |  [github](https://github.com/alvinliu0/HumanGaussian) | [bibtex](./citations/humangaussian.txt)
-- [HeadArtist: Text-conditioned 3D Head Generation with Self Score Distillation](https://arxiv.org/abs/2312.07539), Liu et al., arxiv 2023 | [bibtex](./citations/headArtist.txt)
-- [3DGS-Avatar: Animatable Avatars via Deformable 3D Gaussian Splatting](https://arxiv.org/abs/2312.09228), Qian et al., arxiv 2023 |  [github](https://github.com/mikeqzy/3dgs-avatar-release) | [bibtex](./citations/3dgsAvatar.txt)
-
-
-</details>
-
-
-</details>
-
-
-<details close>
-<summary>Hybrid 3D Generative Methods</summary>
-
-<details open>
-<summary>Object</summary>
-
-- [Zero-1-to-3: Zero-shot One Image to 3D Object](https://arxiv.org/abs/2303.11328), Liu et al., ICCV 2023 | [github](https://github.com/cvlab-columbia/zero123) | [bibtex](./citations/zero123.txt)
-- [One-2-3-45: Any Single Image to 3D Mesh in 45 Seconds without Per-Shape Optimization](https://arxiv.org/abs/2306.16928), Liu et al., NeurIPS 2023 | [github](https://github.com/One-2-3-45/One-2-3-45) | [bibtex](./citations/one2345.txt)
-- [Magic123: One Image to High-Quality 3D Object Generation Using Both 2D and 3D Diffusion Priors](https://arxiv.org/abs/2306.17843), Qian et al., arxiv 2023 | [github](https://github.com/guochengqian/Magic123) | [bibtex](./citations/magic123.txt)
-- [MVDream: Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2308.16512), Shi et al., arxiv 2023 | [github](https://github.com/bytedance/MVDream) | [bibtex](./citations/mvdream.txt)
-- [SyncDreamer: Generating Multiview-consistent Images from a Single-view Image](https://arxiv.org/abs/2309.03453), Liu et al., arxiv 2023 | [github](https://liuyuan-pal.github.io/SyncDreamer/) | [bibtex](./citations/syncdreamer.txt)
-- [Gsgen: Text-to-3D using Gaussian Splatting](https://arxiv.org/abs/2309.16585), Chen et al., arxiv 2023 | [github](https://github.com/gsgen3d/gsgen) | [bibtex](./citations/gsgen.txt)
-- [Consistent123: One Image to Highly Consistent 3D Asset Using Case-Aware Diffusion Priors](https://arxiv.org/abs/2309.17261), Lin et al., arxiv 2024  | [bibtex](./citations/consistent123c.txt)
-- [GaussianDreamer: Fast Generation from Text to 3D Gaussians by Bridging 2D and 3D Diffusion Models](https://arxiv.org/abs/2310.08529), Yi et al., arxiv 2023 | [github](https://github.com/hustvl/GaussianDreamer) | [bibtex](./citations/gaussianDreamer.txt)
-- [Consistent-1-to-3: Consistent Image to 3D View Synthesis via Geometry-aware Diffusion Models](https://arxiv.org/abs/2310.03020), Ye et al., 3DV 2024  | [bibtex](./citations/consistent123.txt)
-- [Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model](https://arxiv.org/abs/2310.15110), Shi et al., arxiv 2023 | [github](https://github.com/SUDO-AI-3D/zero123plus) | [bibtex](./citations/zero123++.txt)
-- [TOSS: High-quality Text-guided Novel View Synthesis from a Single Image](https://arxiv.org/abs/2310.10644), Shi et al., arxiv 2023 | [bibtex](./citations/toss.txt)
-- [Wonder3D: Single Image to 3D using Cross-Domain Diffusion](https://arxiv.org/abs/2310.15008), Long et al., arxiv 2023 | [github](https://github.com/xxlong0/Wonder3D) | [bibtex](./citations/wonder3d.txt)
-- [DreamCraft3D: Hierarchical 3D Generation with Bootstrapped Diffusion Prior](https://arxiv.org/abs/2310.16818), Sun et al., ICLR 2024 | [github](https://github.com/deepseek-ai/DreamCraft3D) | [bibtex](./citations/dreamcraft3d.txt)
-- [SweetDreamer: Aligning Geometric Priors in 2D Diffusion for Consistent Text-to-3D](https://arxiv.org/abs/2310.02596), Li et al., arxiv 2023 | [github](https://github.com/wyysf-98/SweetDreamer) | [bibtex](./citations/sweetdreamer.txt)
-- [One-2-3-45++: Fast Single Image to 3D Objects with Consistent Multi-View Generation and 3D Diffusion](https://arxiv.org/abs/2311.07885), Liu et al., arxiv 2023 | [github](https://github.com/SUDO-AI-3D/One2345plus) | [bibtex](./citations/one2345++.txt)
-- [Direct2.5: Diverse Text-to-3D Generation via Multi-view 2.5D Diffusion](https://arxiv.org/abs/2311.15980), Lu et al., arxiv 2023 | [bibtex](./citations/direct25.txt)
-- [ConRad: Image Constrained Radiance Fields for 3D Generation from a Single Image](https://arxiv.org/abs/2311.05230), Purushwalkam et al., NeurIPS 2023 | [bibtex](./citations/conrad.txt)
-- [Instant3D: Fast Text-to-3D with Sparse-View Generation and Large Reconstruction Model](https://arxiv.org/abs/2311.06214), Li et al., arxiv 2023 | [bibtex](./citations/instant3d.txt) 
-- [MVControl: Adding Conditional Control to Multi-view Diffusion for Controllable Text-to-3D Generation](https://arxiv.org/abs/2311.14494), Li et al., arxiv 2023 |  [github](https://github.com/WU-CVGL/MVControl/) | [bibtex](./citations/mvcontorl.txt)
-- [GeoDream:Disentangling 2D and Geometric Priors for High-Fidelity and Consistent 3D Generation](https://arxiv.org/abs/2311.17971), Ma et al., arxiv 2023 | [github](https://github.com/baaivision/GeoDream/) | [bibtex](./citations/geodream.txt)
-- [RichDreamer: A Generalizable Normal-Depth Diffusion Model for Detail Richness in Text-to-3D](https://arxiv.org/abs/2311.16918), Qiu et al., arxiv 2023 | [github](https://github.com/alibaba/RichDreamer) | [bibtex](./citations/richdreamer.txt)
-- [Slice3D: Multi-Slice, Occlusion-Revealing, Single View 3D Reconstruction](https://arxiv.org/abs/2312.02221), Wang et al., CVPR 2024 | [github](https://github.com/yizhiwang96/Slice3D) | [bibtex](./citations/slice3d.txt)
-- [DreamComposer: Controllable 3D Object Generation via Multi-View Conditions](https://arxiv.org/abs/2312.03611), Yang et al., arxiv 2023 | [github](https://github.com/yhyang-myron/DreamComposer) | [bibtex](./citations/dreamcomposer.txt)
-- [Cascade-Zero123: One Image to Highly Consistent 3D with Self-Prompted Nearby Views](https://arxiv.org/abs/2312.04424), Chen et al., arxiv 2023 | [github](https://github.com/AbrahamYabo/Cascade-Zero123) | [bibtex](./citations/cascadeZero123.txt)
-- [Free3D: Consistent Novel View Synthesis without 3D Representation](https://arxiv.org/abs/2312.04551), Zheng et al., arxiv 2023 | [github](https://github.com/lyndonzheng/Free3D) | [bibtex](./citations/free3d.txt)
-- [Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior](https://arxiv.org/abs/2312.06655), Liu et al., arxiv 2023 | [github](https://github.com/liuff19/Sherpa3D) | [bibtex](./citations/sherpa3d.txt)
-- [UniDream: Unifying Diffusion Priors for Relightable Text-to-3D Generation](https://arxiv.org/abs/2312.08754), Liu et al., arxiv 2023 | [github](https://yg256li.github.io/UniDream/) | [bibtex](./citations/unidream.txt)
-- [Repaint123: Fast and High-quality One Image to 3D Generation with Progressive Controllable 2D Repainting](https://arxiv.org/abs/2312.13271), Zhang et al., arxiv 2023 | [github](https://github.com/junwuzhang19/repaint123) | [bibtex](./citations/repaint123.txt)
-- [BiDiff: Text-to-3D Generation with Bidirectional Diffusion using both 2D and 3D priors](https://arxiv.org/abs/2312.04963), Ding et al., arxiv 2023 | [github](https://github.com/BiDiff/bidiff) | [bibtex](./citations/bidiff.txt)
-- [ControlDreamer: Stylized 3D Generation with Multi-View ControlNet](https://arxiv.org/abs/2312.01129), Oh et al., arxiv 2023 |  [github](https://github.com/oyt9306/ControlDreamer) | [bibtex](./citations/controldreamer.txt)
-- [X-Dreamer: Creating High-quality 3D Content by Bridging the Domain Gap Between Text-to-2D and Text-to-3D Generation](https://arxiv.org/abs/2312.00085), Ma et al., arxiv 2023 | [github](https://github.com/xmu-xiaoma666/X-Dreamer) | [bibtex](./citations/xdreamer.txt)
-- [Splatter Image: Ultra-Fast Single-View 3D Reconstruction](https://arxiv.org/abs/2312.13150), Szymanowicz et al., arxiv 2023 | [github](https://github.com/szymanowiczs/splatter-image) | [bibtex](./citations/splatter-image.txt)
-- [Carve3D: Improving Multi-view Reconstruction Consistency for Diffusion Models with RL Finetuning](https://arxiv.org/abs/2312.13980), Xie et al., arxiv 2023 | [bibtex](./citations/carve3d.txt)
-- [HarmonyView: Harmonizing Consistency and Diversity in One-Image-to-3D](https://arxiv.org/abs/2312.15980), Woo et al., arxiv 2023 | [github](https://github.com/byeongjun-park/HarmonyView) | [bibtex](./citations/harmonyView.txt)
-- [ImageDream: Image-Prompt Multi-view Diffusion for 3D Generation](https://arxiv.org/abs/2312.02201), Wang et al., arxiv 2023 | [github](https://github.com/bytedance/ImageDream) | [bibtex](./citations/imageDream.txt)
-- [iFusion: Inverting Diffusion for Pose-Free Reconstruction from Sparse Views](https://arxiv.org/abs/2312.17250), Wu et al., arxiv 2023 | [github](https://github.com/chinhsuanwu/ifusion) | [bibtex](./citations/ifusion.txt)
-- [AGG: Amortized Generative 3D Gaussians for Single Image to 3D](https://arxiv.org/abs/2401.04099), Xu et al., arxiv 2024 | [bibtex](./citations/agg.txt)
-- [HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Mercier et al., arxiv 2024 | [bibtex](./citations/HexaGen3D.txt)
-- [HexaGen3D: StableDiffusion is just one step away from Fast and Diverse Text-to-3D Generation](https://arxiv.org/abs/2401.07727), Mercier et al., arxiv 2024 | [bibtex](./citations/HexaGen3D.txt)
-- [Sketch2NeRF: Multi-view Sketch-guided Text-to-3D Generation](https://arxiv.org/abs/2401.14257), Chen et al., arxiv 2024 | [bibtex](./citations/Sketch2NeRF.txt)
-- [IM-3D: Iterative Multiview Diffusion and Reconstruction for High-Quality 3D Generation](https://arxiv.org/abs/2402.08682), Melas-Kyriazi et al., arxiv 2024 | [bibtex](./citations/im3d.txt)
-- [LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation](https://arxiv.org/abs/2402.05054), Tang et al., arxiv 2024 | [github](https://github.com/3DTopia/LGM)  | [bibtex](./citations/lgm.txt) 
-- [Retrieval-Augmented Score Distillation for Text-to-3D Generation](https://arxiv.org/abs/2402.02972), Seo et al., ICML 2024 | [github](https://github.com/KU-CVLAB/RetDream) | [bibtex](./citations/retdream.txt) 
-- [EscherNet: A Generative Model for Scalable View Synthesis](https://arxiv.org/abs/2402.03908), Kong et al., arxiv 2024 | [github](https://github.com/kxhit/EscherNet)  | [bibtex](./citations/eschernet.txt) 
-- [MVDiffusion++: A Dense High-resolution Multi-view Diffusion Model for Single or Sparse-view 3D Object Reconstruction](https://arxiv.org/abs/2402.12712), Tang et al., arxiv 2024  | [bibtex](./citations/mvdiffusionplus.txt) 
-- [MVD2: Efficient Multiview 3D Reconstruction for Multiview Diffusion](https://arxiv.org/abs/2402.14253), Zheng et al., arxiv 2024  | [bibtex](./citations/mvd2.txt) 
-- [Consolidating Attention Features for Multi-view Image Editing](https://arxiv.org/abs/2402.14792), Patashnik et al., arxiv 2024  | [bibtex](./citations/mvie.txt) 
-- [ViewFusion: Towards Multi-View Consistency via Interpolated Denoising](https://arxiv.org/abs/2402.18842), Yang et al., CVPR 2024 | [github](https://github.com/Wi-sc/ViewFusion)  | [bibtex](./citations/viewfusion.txt) 
-- [CRM: Single Image to 3D Textured Mesh with Convolutional Reconstruction Model](https://arxiv.org/abs/2403.05034), Wang et al., arxiv 2024 | [github](https://github.com/thu-ml/CRM) | [bibtext](./citations/crm.txt)
-- [Sculpt3D: Multi-View Consistent Text-to-3D Generation with Sparse 3D Prior](https://arxiv.org/abs/2403.09140), Chen et al., CVPR 2024 | [github](https://github.com/StellarCheng/Scuplt_3d) | [bibtext](./citations/Scuplt_3d.txt)
-- [Make-Your-3D: Fast and Consistent Subject-Driven 3D Content Generation](https://arxiv.org/abs/2403.09625), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Make-Your-3D) | [bibtext](./citations/make_your_3d.txt)
-- [Controllable Text-to-3D Generation via Surface-Aligned Gaussian Splatting](https://arxiv.org/abs/2403.09981), Li et al., arxiv 2024 |  [github](https://github.com/WU-CVGL/MVControl/) | [bibtex](./citations/controllable.txt)
-- [VideoMV: Consistent Multi-View Generation Based on Large Video Generative Model](https://arxiv.org/abs/2403.12010), Zuo et al., arxiv 2024 |  [github](https://github.com/alibaba/VideoMV) | [bibtex](./citations/videomv.txt)
-- [SV3D: Novel Multi-view Synthesis and 3D Generation from a Single Image using Latent Video Diffusion](https://arxiv.org/abs/2403.12008), Voleti et al., arxiv 2024 | [bibtex](./citations/sv3d.txt)
-- [DreamReward: Text-to-3D Generation with Human Preference](https://arxiv.org/abs/2403.14613), Ye et al., arxiv 2024 | [bibtex](./citations/dreamreward.txt)
-- [LATTE3D: Large-scale Amortized Text-To-Enhanced3D Synthesis](https://arxiv.org/abs/2403.15385), Xie et al., arxiv 2024 | [bibtex](./citations/latte3d.txt)
-- [DreamPolisher: Towards High-Quality Text-to-3D Generation via Geometric Diffusion](https://arxiv.org/abs/2403.17237), Lin et al., arxiv 2024 | [github](https://github.com/yuanze-lin/DreamPolisher) | [bibtex](./citations/dreampolisher.txt)
-- [GeoWizard: Unleashing the Diffusion Priors for 3D Geometry Estimation from a Single Image](https://arxiv.org/abs/2403.12013), Fu et al., arxiv 2024 | [github](https://github.com/fuxiao0719/GeoWizard) | [bibtex](./citations/geowizard.txt)
-- [ThemeStation: Generating Theme-Aware 3D Assets from Few Exemplars](https://arxiv.org/abs/2403.15383), Wang et al., arxiv 2024 | [github](https://github.com/3DThemeStation/ThemeStation) | [bibtex](./citations/ThemeStation.txt)
-- [FlexiDreamer: Single Image-to-3D Generation with FlexiCubes](https://arxiv.org/abs/2404.00987), Zhao et al., arxiv 2024 | [github](https://github.com/zhaorw02/FlexiDreamer) | [bibtex](./citations/flexidreamer.txt)
-- [Sketch3D: Style-Consistent Guidance for Sketch-to-3D Generation](https://arxiv.org/abs/2404.01843), Zheng et al., arxiv 2024 | [bibtex](./citations/sketch3d.txt)
-- [DreamView: Injecting View-specific Text Guidance into Text-to-3D Generation](https://arxiv.org/abs/2404.06119), Yan et al., arxiv 2024 | [github](https://github.com/iSEE-Laboratory/DreamView) | [bibtex](./citations/dreamview.txt)
-- [InstantMesh: Efficient 3D Mesh Generation from a Single Image with Sparse-view Large Reconstruction Models](https://arxiv.org/abs/2404.07191), Xu et al., arxiv 2024 | [github](https://github.com/TencentARC/InstantMesh) | [bibtex](./citations/instant_mesh.txt)
-- [DGE: Direct Gaussian 3D Editing by Consistent Multi-view Editing](https://arxiv.org/abs/2404.18929), Chen et al., arxiv 2024 | [github](https://github.com/silent-chen/DGE) | [bibtex](./citations/dge.txt)
-- [MicroDreamer: Zero-shot 3D Generation in ∼20 Seconds by Score-based Iterative Reconstruction](https://arxiv.org/abs/2404.19525), Chen et al., arxiv 2024 | [github](https://github.com/ML-GSAI/MicroDreamer) | [bibtex](./citations/microdreamer.txt)
-- [SketchDream: Sketch-based Text-to-3D Generation and Editing](https://arxiv.org/abs/2405.06461), Liu et al., SIGGRAPH 2024 | [bibtex](./citations/sketchdream.txt)
-- [Unique3D: High-Quality and Efficient 3D Mesh Generation from a Single Image](https://arxiv.org/abs/2405.20343), Wu et al., arxiv 2024 | [github](https://github.com/AiuniAI/Unique3D) | [bibtex](./citations/unique3d.txt)
-- [Fourier123: One Image to High-Quality 3D Object Generation with Hybrid Fourier Score Distillation](https://arxiv.org/abs/2405.20669), Yang et al., arxiv 2024 | [github](https://github.com/Ysz2022/Fourier123) | [bibtex](./citations/fourier123.txt)
-- [CAT3D: Create Anything in 3D with Multi-View Diffusion Models](https://arxiv.org/abs/2405.10314), Gao et al., arxiv 2024 | [bibtext](./citations/cat3d.txt)
-- [CraftsMan: High-fidelity Mesh Generation with 3D Native Generation and Interactive Geometry Refiner](https://arxiv.org/abs/2405.14979), Li et al., arxiv 2024 | [github](https://github.com/wyysf-98/CraftsMan) | [bibtext](./citations/craftsman.txt)
-- [Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials](https://arxiv.org/abs/2407.02445), Siddiqui et al., arxiv 2024 | [bibtext](./citations/meta3dAsset.txt)
-- [VQA-Diff: Exploiting VQA and Diffusion for Zero-Shot Image-to-3D Vehicle Asset Generation in Autonomous Driving](https://arxiv.org/abs/2407.06516), Liu et al., ECCV 2024 | [bibtext](./citations/vqadiff.txt)
-- [Cycle3D: High-quality and Consistent Image-to-3D Generation via Generation-Reconstruction Cycle](https://arxiv.org/abs/2407.19548), Tang et al., arxiv 2024 | [github](https://github.com/PKU-YuanGroup/Cycle3D) | [bibtext](./citations/cycle3d.txt)
-- [Phidias: A Generative Model for Creating 3D Content from Text, Image, and 3D Conditions with Reference-Augmented Diffusion](https://arxiv.org/abs/2409.11406), Wang et al., arxiv 2024 | [github](https://github.com/3DTopia/Phidias-Diffusion) | [bibtext](./citations/Phidias.txt)
-
-</details>
-
-
-<details open>
-<summary>Scene</summary>
-
-
-- [Ctrl-Room: Controllable Text-to-3D Room Meshes Generation with Layout Constraints](https://arxiv.org/abs/2310.03602), Fang et al., arxiv 2023 | [github](https://github.com/fangchuan/Ctrl-Room) | [bibtext](./citations/ctrlroom.txt) 
-- [RoomDesigner: Encoding Anchor-latents for Style-consistent and Shape-compatible Indoor Scene Generation](https://arxiv.org/abs/2310.10027), Zhao et al., 3DV 2024 | [github](https://github.com/zhao-yiqun/RoomDesigner) | [bibtext](./citations/roomdesigner.txt)
-- [ZeroNVS: Zero-Shot 360-Degree View Synthesis from a Single Real Image](https://arxiv.org/abs/2310.17994), Sargent et al., arxiv 2023 | [github](https://github.com/kylesargent/zeronvs) | [bibtext](./citations/zeroNVS.txt) 
-- [GraphDreamer: Compositional 3D Scene Synthesis from Scene Graphs](https://arxiv.org/abs/2312.00093), Gao et al., arxiv 2023 | [github](https://github.com/GGGHSL/GraphDreamer) | [bibtext](./citations/graphdreamer.txt)
-- [ControlRoom3D:Room Generation using Semantic Proxy Rooms](https://arxiv.org/abs/2312.05208), Schult et al., arxiv 2023 | [bibtext](./citations/controlroom3d.txt)
-- [AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes](https://arxiv.org/abs/2312.06644), Wen et al., arxiv 2023 | [bibtext](./citations/anyhome.txt)
-- [SceneWiz3D: Towards Text-guided 3D Scene Composition](https://arxiv.org/abs/2312.08885), Zhang et al., arxiv 2023 | [github](https://github.com/zqh0253/SceneWiz3D) | [bibtext](./citations/scenewiz3d.txt)
-- [Text2Immersion: Generative Immersive Scene with 3D Gaussians](https://arxiv.org/abs/2312.09242), Ouyang et al., arxiv 2023 | [bibtext](./citations/text2immersion.txt)
-- [ShowRoom3D: Text to High-Quality 3D Room Generation Using 3D Priors](https://arxiv.org/abs/2312.13324), Mao et al., arxiv 2023 | [github](https://github.com/showlab/ShowRoom3D) | [bibtext](./citations/showRoom3d.txt)
-- [GALA3D: Towards Text-to-3D Complex Scene Generation via Layout-guided Generative Gaussian Splatting](https://arxiv.org/abs/2402.07207), Zhou et al., arxiv 2024 | [github](https://github.com/VDIGPKU/GALA3D) | [bibtext](./citations/gala3d.txt)
-- [3D-SceneDreamer: Text-Driven 3D-Consistent Scene Generation](https://arxiv.org/abs/2403.09439), Zhang et al., arxiv 2024 | [bibtext](./citations/3dscenedreamer.txt)
-- [Flash3D: Feed-Forward Generalisable 3D Scene Reconstruction from a Single Image](https://arxiv.org/abs/2406.04343), Szymanowicz et al., arxiv 2024 | [bibtext](./citations/flash3d.txt)
-- [ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis](https://arxiv.org/abs/2409.02048), Mao et al., arxiv 2024 | [github](https://github.com/Drexubery/ViewCrafter) | [bibtext](./citations/viewcrafter.txt)
-
-</details>
-
-<details open>
-<summary>Human Avatar</summary>
-
-- [SofGAN: A Portrait Image Generator with Dynamic Styling](https://arxiv.org/abs/2007.03780), Chen et al., TOG 2022 | [github](https://github.com/apchenstu/sofgan) | [bibtext](./citations/sofgan.txt) 
-- [Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors](https://arxiv.org/abs/2302.01162), Xiong et al., ICCV 2023 | [github](https://github.com/X-zhangyang/Get3DHuman) | [bibtext](./citations/get3dhuman.txt) 
-- [DreamFace: Progressive Generation of Animatable 3D Faces under Text Guidance](https://arxiv.org/abs/2304.03117), Zhang et al., arxiv 2023 | [bibtext](./citations/dreamface.txt) 
-- [TADA! Text to Animatable Digital Avatars](https://arxiv.org/abs/2308.10899), Liao et al., 3DV 2024 | [github](https://github.com/TingtingLiao/TADA) | [bibtext](./citations/tada.txt) 
-- [SCULPT: Shape-Conditioned Unpaired Learning of Pose-dependent Clothed and Textured Human Meshes](https://arxiv.org/abs/2308.10638), Sanyal et al., arxiv 2023 | [bibtext](./citations/sculpt.txt) 
-- [HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation](https://arxiv.org/abs/2310.01406), Huang et al., arxiv 2023 |  [github](https://github.com/xhuangcv/humannorm) | [bibtex](./citations/humannorm.txt)
-
-
-
-</details>
-
-<details open>
-<summary>Dynamic</summary>
-
-- [MAV3d: Text-To-4D Dynamic Scene Generation](https://arxiv.org/abs/2301.11280), Singer et al., arxiv 2023 | [bibtext](./citations/mav3d.txt) 
-- [Control4D: Dynamic Portrait Editing by Learning 4D GAN from 2D Diffusion-based Editor](https://arxiv.org/abs/2305.20082), Shao et al., arxiv 2023 | [bibtex](./citations/control4d.txt)
-- [MAS: Multi-view Ancestral Sampling for 3D motion generation using 2D diffusion](https://arxiv.org/abs/2310.14729), Kapon et al., arxiv 2023 | [github](https://github.com/roykapon/MAS) | [bibtext](./citations/mas.txt) 
-- [Consistent4D: Consistent 360° Dynamic Object Generation from Monocular Video](https://arxiv.org/abs/2311.02848), Jiang et al., arxiv 2023 | [github](https://github.com/yanqinJiang/Consistent4D) | [bibtext](./citations/consistent4d.txt) 
-- [Animate124: Animating One Image to 4D Dynamic Scene](https://arxiv.org/abs/2311.14603), Zhao et al., arxiv 2023 | [github](https://github.com/HeliosZhao/Animate124) | [bibtext](./citations/animate124.txt) 
-- [A Unified Approach for Text- and Image-guided 4D Scene Generation](https://arxiv.org/abs/2311.16854), Zheng et al., arxiv 2023 | [bibtext](./citations/dream-in-4d.txt) 
-- [4D-fy: Text-to-4D Generation Using Hybrid Score Distillation Sampling](https://arxiv.org/abs/2311.17984), Bahmani et al., arxiv 2023 | [github](https://github.com/sherwinbahmani/4dfy) | [bibtext](./citations/4dfy.txt) 
-- [AnimatableDreamer: Text-Guided Non-rigid 3D Model Generation and Reconstruction with Canonical Score Distillation](https://arxiv.org/abs/2312.03795), Wang et al., arxiv 2023 | [bibtext](./citations/animatable-dreamer.txt) 
-- [Virtual Pets: Animatable Animal Generation in 3D Scenes](https://arxiv.org/abs/2312.14154), Cheng et al., arxiv 2023 | [github](https://github.com/yccyenchicheng/VirtualPets) | [bibtext](./citations/virtual-pets.txt) 
-- [Align Your Gaussians:Text-to-4D with Dynamic 3D Gaussians and Composed Diffusion Models](https://arxiv.org/abs/2312.13763), Ling et al., arxiv 2023 [bibtext](./citations/aligngaussian.txt) 
-- [Ponymation: Learning 3D Animal Motions from Unlabeled Online Videos](https://arxiv.org/abs/2312.13604), Sun et al., arxiv 2023 | [bibtext](./citations/ponyMation.txt) 
-- [4DGen: Grounded 4D Content Generation with Spatial-temporal Consistency](https://arxiv.org/abs/2312.17225), Yin et al., arxiv 2023 | [github](https://github.com/VITA-Group/4DGen) | [bibtext](./citations/4dgen.txt) 
-- [DreamGaussian4D: Generative 4D Gaussian Splatting](https://arxiv.org/abs/2312.17142), Ren et al., arxiv 2023 | [github](https://github.com/jiawei-ren/dreamgaussian4d) | [bibtext](./citations/dreamgaussian4d.txt) 
-- [Fast Dynamic 3D Object Generation from a Single-view Video](https://arxiv.org/abs/2401.08742), Pan et al., arxiv 2024 | [github](https://github.com/fudan-zvg/Efficient4D) | [bibtext](./citations/efficient4d.txt)
-- [ComboVerse: Compositional 3D Assets Creation Using Spatially-Aware Diffusion Guidance](https://arxiv.org/abs/2403.12409), Chen et al., arxiv 2024 | [bibtext](./citations/comboVerse.txt)
-- [STAG4D: Spatial-Temporal Anchored Generative 4D Gaussians](https://arxiv.org/abs/2403.14939), Zeng et al., arxiv 2024  | [bibtext](./citations/stag4d.txt)
-- [TC4D: Trajectory-Conditioned Text-to-4D Generation](https://arxiv.org/abs/2403.17920), Bahmani et al., arxiv 2024  | [bibtext](./citations/tc4d.txt)
-- [Diffusion^2: Dynamic 3D Content Generation via Score Composition of Orthogonal Diffusion Models](https://arxiv.org/abs/2404.02148), Yang et al., arxiv 2024  | [bibtext](./citations/diffusion^2.txt)
-- [Hash3D: Training-free Acceleration for 3D Generation](https://arxiv.org/abs/2404.06091), Yang et al., arxiv 2024 | [github](https://github.com/Adamdad/hash3D) | [bibtext](./citations/hash3d.txt)
-- [Magic-Boost: Boost 3D Generation with Mutli-View Conditioned Diffusion](https://arxiv.org/abs/2404.06429), Yang et al., arxiv 2024 | [github](https://github.com/magic-research/magic-boost) | [bibtext](./citations/magicboost.txt)
-- [Enhancing 3D Fidelity of Text-to-3D using Cross-View Correspondences](https://arxiv.org/abs/2404.10603), Kim et al., CVPR 2024 | [bibtext](./citations/cross-view-correspondences.txt)
-- [DreamScene4D: Dynamic Multi-Object Scene Generation from Monocular Videos](https://arxiv.org/abs/2405.02280), Chu et al., arxiv 2024 | [github](https://github.com/dreamscene4d/dreamscene4d) | [bibtext](./citations/dreamscene4d.txt)
-- [Diffusion4D: Fast Spatial-temporal Consistent 4D Generation via Video Diffusion Models](https://arxiv.org/abs/2405.16645), Liang et al., arxiv 2024 | [github](https://github.com/VITA-Group/Diffusion4D) | [bibtext](./citations/diffusion4d.txt)
-- [Vidu4D: Single Generated Video to High-Fidelity 4D Reconstruction with Dynamic Gaussian Surfels](https://arxiv.org/abs/2405.16822), Wang et al., arxiv 2024 | [github](https://github.com/yikaiw/vidu4d) | [bibtext](./citations/vidu4d.txt)
-- [Physics3D: Learning Physical Properties of 3D Gaussians via Video Diffusion](https://arxiv.org/abs/2406.04338), Liu et al., arxiv 2024 | [github](https://github.com/liuff19/Physics3D) | [bibtext](./citations/physics3D.txt)
-- [4Real: Towards Photorealistic 4D Scene Generation via Video Diffusion Models](https://arxiv.org/abs/2406.07472), Liu et al., arxiv 2024 | [bibtext](./citations/4real.txt)
-- [SV4D: Dynamic 3D Content Generation with Multi-Frame and Multi-View Consistency](https://arxiv.org/abs/2407.17470), Xie et al., arxiv 2024 | [github](https://github.com/Stability-AI/generative-models) | [bibtext](./citations/stablev3d.txt)
-
-
-</details>
-
-</details>
-
-<details close>
-<summary>Others</summary>
-
-<details open>
-<summary>Artist Mesh Generation</summary>
-
-- [MeshGPT: Generating Triangle Meshes with Decoder-Only Transformers](https://arxiv.org/abs/2311.15475), Siddiqui et al., arxiv 2023 | [github](https://github.com/nihalsid/mesh-gpt) | [bibtex](./citations/meshgpt.txt)
-- [MeshXL: Neural Coordinate Field for Generative 3D Foundation Models](https://arxiv.org/abs/2405.20853), Chen et al., NeurIPS 2024 | [github](https://github.com/OpenMeshLab/MeshXL) | [bibtex](./citations/meshXL.txt)
-- [PivotMesh: Generic 3D Mesh Generation via Pivot Vertices Guidance](https://arxiv.org/abs/2405.16890), Weng et al., ICLR 2024 | [github](https://github.com/whaohan/pivotmesh) | [bibtex](./citations/pivotmesh.txt)
-- [MeshAnything:Artist-Created Mesh Generation with Autoregressive Transformers](https://arxiv.org/abs/2406.10163), Chen et al., arxiv 2024 | [github](https://github.com/buaacyw/MeshAnything) | [bibtex](./citations/meshAnything.txt)
-- [MeshAnything V2: Artist-Created Mesh Generation With Adjacent Mesh Tokenization](https://arxiv.org/abs/2408.02555), Chen et al., arXiv 2024 | [github](https://github.com/buaacyw/MeshAnythingV2) | [bibtex](./citations/MeshAnythingV2.txt)
-- [EdgeRunner: Auto-regressive Auto-encoder for Artistic Mesh Generation](https://arxiv.org/abs/2409.18114), Tang et al., arXiv 2024 | [github](https://github.com/NVlabs/EdgeRunner) |[bibtex](./citations/edge_runner.txt)
-- [SpaceMesh: A Continuous Representation for Learning Manifold Surface Meshes](https://arxiv.org/abs/2409.20562), Shen et al., SIGGRAPH Asia 2024 |[bibtex](./citations/space_mesh.txt)
-- [Meshtron: High-Fidelity, Artist-Like 3D Mesh Generation at Scale](https://arxiv.org/abs/2412.09548v1), Hao et al., arxiv 2024 | [bibtex](./citations/meshtron.txt)
-- [LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models](https://arxiv.org/abs/2411.09595), Wang et al., arxiv 2024 | [github](https://github.com/nv-tlabs/LLaMa-Mesh) | [bibtext](./citations/LLaMa-Mesh.txt)
-- [Scaling Mesh Generation via Compressive Tokenization](https://arxiv.org/abs/2411.07025), Weng et al., arxiv 2024 | [github](https://github.com/whaohan/bpt) | [bibtext](./citations/bpt.txt)
-- [MeshArt: Generating Articulated Meshes with Structure-guided Transformers](https://arxiv.org/abs/2412.11596), Gao et al., arxiv 2024| [bibtext](./citations/meshart.txt)
-
-</details>
-
-
-
-<details open>
-<summary>Physical</summary>
-
-- [Physical Property Understanding from Language-Embedded Feature Fields](https://arxiv.org/abs/2404.04242), Zhai et al., CVPR 2024 | [github](https://github.com/ajzhai/NeRF2Physics) | [bibtext](./citations/nerf2physics.txt) 
-- [Physically Compatible 3D Object Modeling from a Single Image](https://arxiv.org/abs/2405.20510v1), Guo et al., arxiv 2024 | [bibtext](./citations/physically_3d.txt)
-
-</details>
-
-
-
-<details open>
-<summary>Texture</summary>
-
-- [StyleMesh: Style Transfer for Indoor 3D Scene Reconstructions](https://arxiv.org/abs/2112.01530), Höllein et al., CVPR 2022 | [github](https://github.com/lukasHoel/stylemesh) | [bibtex](./citations/stylemesh.txt)
-- [CLIP-Mesh: Generating textured meshes from text using pretrained image-text models](https://arxiv.org/abs/2203.13333), Khalid et al., SIGGRAPH Asia 2022 | [github](https://github.com/NasirKhalid24/CLIP-Mesh) | [bibtex](./citations/clipmesh.txt)
-- [TANGO: Text-driven PhotoreAlistic aNd Robust 3D Stylization via LiGhting DecompOsition](https://arxiv.org/abs/2210.11277), Chen et al., NeurIPS 2022 | [github](https://github.com/Gorilla-Lab-SCUT/tango) | [bibtex](./citations/tango.txt)
-- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/abs/2211.07600), Metzer et al., CVPR 2023 | [github](https://github.com/eladrich/latent-nerf) | [bibtex](./citations/latentNerf.txt)
-- [TEXTure: Text-Guided Texturing of 3D Shapes](https://arxiv.org/abs/2302.01721), Richardson et al., SIGGRAPH 2023 | [github](https://github.com/TEXTurePaper/TEXTurePaper) | [bibtex](./citations/texture.txt)
-- [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://arxiv.org/abs/2303.11396), Chen et al., ICCV 2023 | [github](https://github.com/daveredrum/Text2Tex) | [bibtex](./citations/text2tex.txt)
-- [RoomDreamer: Text-Driven 3D Indoor Scene Synthesis with Coherent Geometry and Texture](https://arxiv.org/abs/2305.11337), Song et al., ACM Multimedia 2023 | [bibtex](./citations/roomdreamer.txt)
-- [Generating Parametric BRDFs from Natural Language Descriptions](https://arxiv.org/abs/2306.15679), Memery et al., arxiv 2023  [bibtex](./citations/BRDF.txt)
-- [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://arxiv.org/abs/2307.01097), Tang et al., NeurIPS 2023 | [github](https://github.com/Tangshitao/MVDiffusion) | [bibtext](./citations/mvdiffusion.txt) 
-- [MATLABER: Material-Aware Text-to-3D via LAtent BRDF auto-EncodeR](https://arxiv.org/abs/2308.09278), Xu et al., arxiv 2023 | [github](https://github.com/SheldonTsui/Matlaber) | [bibtex](./citations/matlaber.txt)
-- [ITEM3D: Illumination-Aware Directional Texture Editing for 3D Models](https://arxiv.org/abs/2309.14872), Liu et al., arxiv 2023 | [github](https://github.com/shengqiliu1/ITEM3D) | [bibtex](./citations/item3d.txt)
-- [TexFusion: Synthesizing 3D Textures with Text-Guided Image Diffusion Models](https://arxiv.org/abs/2310.13772), Cao et al., ICCV 2023 | [bibtex](./citations/texfusion.txt)
-- [DreamSpace: Dreaming Your Room Space with Text-Driven Panoramic Texture Propagation](https://arxiv.org/abs/2310.13119), Yang et al., arxiv 2023 | [github](https://github.com/ybbbbt/dreamspace) | [bibtext](./citations/dreamspace.txt) 
-- [3DStyle-Diffusion: Pursuing Fine-grained Text-driven 3D Stylization with 2D Diffusion Models](https://arxiv.org/abs/2311.05464), Yang et al., ACM Multimedia 2023 | [github](https://github.com/yanghb22-fdu/3DStyle-Diffusion-Official) | [bibtex](./citations/3dstylediffusion.txt)
-- [Text-Guided Texturing by Synchronized Multi-View Diffusion](https://arxiv.org/abs/2311.12891), Liu et al., arxiv 2023 | [bibtex](./citations/textsync.txt)
-- [SceneTex: High-Quality Texture Synthesis for Indoor Scenes via Diffusion Priors](https://arxiv.org/abs/2311.17261), Chen et al., arxiv 2023 | [github](https://github.com/daveredrum/SceneTex) | [bibtext](./citations/scenetex.txt) 
-- [TeMO: Towards Text-Driven 3D Stylization for Multi-Object Meshes](https://arxiv.org/abs/2312.04248), Zhang et al., arxiv 2023 | [bibtex](./citations/temo.txt)
-- [Single Mesh Diffusion Models with Field Latents for Texture Generation](https://arxiv.org/abs/2312.09250), Mitchel et al., arxiv 2023 | [bibtex](./citations/smd.txt)
-- [Paint-it: Text-to-Texture Synthesis via Deep Convolutional Texture Map Optimization and Physically-Based Rendering](https://arxiv.org/abs/2312.11360), Youwang et al., arxiv 2023 | [github](https://github.com/postech-ami/paint-it) | [bibtext](./citations/paint-it.txt) 
-- [Paint3D: Paint Anything 3D with Lighting-Less Texture Diffusion Models](https://arxiv.org/abs/2312.13913), Zeng et al., arxiv 2023 | [github](https://github.com/OpenTexture/Paint3D) | [bibtext](./citations/paint3d.txt) 
-- [TextureDreamer: Image-guided Texture Synthesis through Geometry-aware Diffusion](https://arxiv.org/abs/2401.09416), Yeh et al., arxiv 2024 | [bibtext](./citations/texturedreamer.txt) 
-- [FlashTex: Fast Relightable Mesh Texturing with LightControlNet](https://arxiv.org/abs/2402.13251), Deng et al., arxiv 2024 | [bibtext](./citations/flashtex.txt) 
-- [Make-it-Real: Unleashing Large Multimodal Model's Ability for Painting 3D Objects with Realistic Materials](https://arxiv.org/abs/2404.16829), Fang et al., arxiv 2024 | [github](https://github.com/Aleafy/Make_it_Real) | [bibtext](./citations/make-it-real.txt) 
-- [MaPa: Text-driven Photorealistic Material Painting for 3D Shapes](https://arxiv.org/abs/2404.17569), Zhang et al., SIGGRAPH 2024 | [bibtext](./citations/mapa.txt) 
-- [Meta 3D TextureGen: Fast and Consistent Texture Generation for 3D Objects](https://arxiv.org/abs/2407.02430), Bensadoun et al., arxiv 2024 | [bibtext](./citations/meta3dtexture.txt) 
-- [TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting](https://arxiv.org/abs/2411.19654), Xiong et al., arxiv 2024 | [bibtext](./citations/texgaussian.txt) 
-
-</details>
-
-<details open>
-<summary>Procedural 3D Modeling</summary>
-
-- [ProcTHOR: Large-Scale Embodied AI Using Procedural Generation](https://procthor.allenai.org/), Deitke et al., NeurIPS 2022 |  [github](https://github.com/allenai/procthor) | [bibtex](./citations/procthor.txt)
-- [3D-GPT: Procedural 3D Modeling with Large Language Models](https://arxiv.org/abs/2310.12945), Sun et al., arxiv 2023 |  [github](https://github.com/Chuny1/3DGPT) | [bibtex](./citations/3dgpt.txt)
-
-</details>
-
-
-<details open>
-<summary>3D Representation</summary>
-
-- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934), Mildenhall et al., ECCV 2020 | [github](https://github.com/bmild/nerf) | [bibtex](./citations/nerf.txt)
-- [Deep Marching Tetrahedra: a Hybrid Representation for High-Resolution 3D Shape Synthesis](https://arxiv.org/abs/2111.04276), Shen et al., arxiv 2021 | [bibtex](./citations/dmtet.txt)
-- [3D Gaussian Splatting for Real-Time Radiance Field Rendering](https://arxiv.org/abs/2308.04079), Kerbl et al., TOG 2023 | [github](https://github.com/graphdeco-inria/gaussian-splatting) | [bibtex](./citations/3dgaussian.txt)
-- [Uni3D: Exploring Unified 3D Representation at Scale](https://arxiv.org/abs/2310.06773), Zhou et al., ICLR 2024 | [github](https://github.com/baaivision/Uni3D) | [bibtex](./citations/uni3d.txt)
-- [SMERF: Streamable Memory Efficient Radiance Fields for Real-Time Large-Scene](https://arxiv.org/abs/2312.07541), Duckworth et al., arxiv 2023 | [bibtex](./citations/smerf.txt)
-- [Triplane Meets Gaussian Splatting:Fast and Generalizable Single-View 3D Reconstruction with Transformers](https://arxiv.org/abs/2312.09147), Zou et al., arxiv 2023 | [bibtex](./citations/tmgs.txt)
-- [SC-GS: Sparse-Controlled Gaussian Splatting for Editable Dynamic Scenes](https://arxiv.org/abs/2312.14937), Huang et al., arxiv 2023 | [github](https://github.com/yihua7/SC-GS) | [bibtex](./citations/scgs.txt)
-- [DMesh: A Differentiable Representation for General Meshes](https://arxiv.org/abs/2404.13445), Son et al., arxiv 2024 | [github](https://github.com/SonSang/dmesh) | [bibtex](./citations/dmesh.txt)
-
-</details>
-
-</details>
-
-
-## Benchmarks and Datasets
-
-- [Objaverse-XL](https://objaverse.allenai.org/), Deitke et al., NeurIPS 2023 | [github](https://github.com/allenai/objaverse-xl) | [bibtext](./citations/objaverse-xl.txt) 
-- [G-buffer Objaverse: High-Quality Rendering Dataset of Objaverse](https://aigc3d.github.io/gobjaverse/), Xu et al.
-- [GPT-4V(ision) is a Human-Aligned Evaluator for Text-to-3D Generation](https://arxiv.org/abs/2401.04092), Wu et al., arXiv 2024 | [github](https://github.com/3DTopia/GPTEval3D) | [bibtext](./citations/gpt4v.txt) 
-- [SceneVerse: Scaling 3D Vision-Language Learning for Grounded Scene Understanding](https://arxiv.org/abs/2401.09340), Jia et al., arXiv 2024 | [bibtext](./citations/sceneverse.txt) 
-- [Make-A-Shape: a Ten-Million-scale 3D Shape Model](https://arxiv.org/abs/2401.11067), Wu et al., arXiv 2024 | [bibtext](./citations/make-a-shape.txt) 
-- [Zeroverse](https://arxiv.org/abs/2406.09371), Xie et al., arXiv 2024 | [github](https://github.com/desaixie/zeroverse) | [bibtext](./citations/zeroverse.txt) 
-
-
-## Talks
-- [AI 3D Generation, explained](https://www.youtube.com/watch?v=EoAm1yZR-ao), Jia-Bin Huang
-- [3D Generation, bilibili](https://space.bilibili.com/23460054/channel/collectiondetail?sid=1860808&ctype=0), Leo
-- [3D AIGC Algorithm Trends and Industry Implementation](https://app6ca5octe2206.pc.xiaoe-tech.com/p/t_pc/course_pc_detail/video/v_65810adbe4b04c10093fdacc), Ding Liang
-- [3D Generation: Past, Present and Future](https://www.bilibili.com/video/BV1wT4y1879Y/?spm_id_from=333.999.0.0&vd_source=0fb3bb9416e8fa252211d77e6b01b9d0),GAMES Webinar 311
-
-
-## Company
-> More and more startups and large companies are entering the 3D generation field. Perhaps the way out for 3D generation is an online creative engine that provides ordinary users or professional users with high-quality online creation. It is different from traditional services such as Adobe.
-
-
-- [TRIPOAI](https://www.tripo3d.ai/)
-- [Tencent](https://3d.hunyuan.tencent.com/)
-- [ByteDance](https://www.volcengine.com/product/veOmniverse)
-- [Meshy](https://www.meshy.ai/)
-- [Deemos](https://hyperhuman.deemos.com/rodin/)
-- [DreamTech](https://nju-3dv.github.io/projects/Direct3D-S2/)
-- [LumaAI](https://lumalabs.ai/)
-- [CSMAI](https://www.csm.ai/)
-- [SUDOAI](https://www.sudo.ai/)
-- [StabilityAI](https://stability.ai/)
-- [NVIDIA](https://build.nvidia.com/explore/visual-design)
-
-
-
-## Implementations
-
-- [Threestudio](https://github.com/threestudio-project/threestudio), Yuan-Chen Guo, 2023 | [bibtex](./citations/threestudio.txt)
-- [stable-dreamfusion](https://github.com/ashawkey/stable-dreamfusion), Jiaxiang Tang, 2023 | [bibtex](./citations/stable-dreamfusion.txt)
-- [Dream Textures](https://github.com/carson-katri/dream-textures), Carson Katri, 2023 
-- [ComfyTextures](https://github.com/AlexanderDzhoganov/ComfyTextures), Alexander Dzhoganov, 2023  
-- [ComfyUI-3D-Pack](https://github.com/MrForExample/ComfyUI-3D-Pack), MrForExample, 2024
-- [GauStudio](https://arxiv.org/abs/2403.19632), Ye et al., arxiv 2024 | [github](https://github.com/GAP-LAB-CUHK-SZ/gaustudio) | [bibtex](./citations/gaustudio.txt)
-
-
-## License 
-Awesome AIGC 3D is released under the [MIT license](./LICENSE).
+- [Survey Taxonomy](#survey-taxonomy)
+- [Data Foundations & Benchmarks](#data-foundations--benchmarks)
+  - [Object Datasets](#object-datasets)
+  - [Character Datasets](#character-datasets)
+  - [Scene Datasets](#scene-datasets)
+- [General Objects & Props](#general-objects--props)
+  - [Geometry Generation](#geometry-generation)
+  - [Topology Generation](#topology-generation)
+  - [Appearance Generation](#appearance-generation)
+- [Characters & Avatars](#characters--avatars)
+  - [Structural Priors](#structural-priors)
+  - [Full-Body Synthesis](#full-body-synthesis)
+  - [Head & Face Synthesis](#head--face-synthesis)
+  - [Rigging & Skinning](#rigging--skinning)
+- [Scenes & Environments](#scenes--environments)
+  - [Layout Generation](#layout-generation)
+  - [Scene Population & Asset Grounding](#scene-population--asset-grounding)
+  - [World-Scale Generation](#world-scale-generation)
+- [Evaluation & Benchmarks](#evaluation--benchmarks)
+- [Industry & Companies](#industry--companies)
+- [Citation](#citation)
+- [Contributing](#contributing)
+- [Acknowledgments](#acknowledgments)
+- [v1 Paper Collection](#v1-paper-collection)
+- [Star History](#star-history)
+
+---
+
+## Survey Taxonomy
+
+<p align="center">
+  <img src="asset/fig2_taxonomy.png" width="100%">
+</p>
+
+The survey is organized around a **two-dimensional taxonomy**:
+
+- **Horizontal axis (asset types):** General Objects, Characters & Avatars, Scenes & Environments
+- **Vertical axis (pipeline stages):** Data Foundations &rarr; Geometry &rarr; Topology &rarr; UV &rarr; PBR Materials &rarr; Rigging &rarr; Scene Assembly
+
+This structure mirrors the production pipeline used in game engines and interactive applications, enabling direct assessment of where each method fits within a deployment workflow.
+
+---
+
+## Data Foundations & Benchmarks
+
+### Object Datasets
+
+| Dataset | Year | Scale | Description |
+|---------|------|-------|-------------|
+| [ShapeNet](https://shapenet.org/) | 2015 | 51K models, 55 categories | Large-scale 3D shape repository (Chang et al.) |
+| [ModelNet](https://modelnet.cs.princeton.edu/) | 2015 | 12K CAD models, 40 categories | Princeton 3D object benchmark (Wu et al.) |
+| [ABC](https://deep-geometry.github.io/abc-dataset/) | 2019 | 1M+ CAD models | Mechanical parts with parametric annotations (Koch et al.) |
+| [GSO (Google Scanned Objects)](https://app.gazebosim.org/GoogleResearch/fuel/collections/Scanned%20Objects%20by%20Google%20Research) | 2022 | 1K+ scans | Household objects with PBR materials (Downs et al.) |
+| [ABO (Amazon Berkeley Objects)](https://amazon-berkeley-objects.s3.amazonaws.com/index.html) | 2022 | 8K+ models | Product catalog with multi-view images (Collins et al.) |
+| [Objaverse](https://objaverse.allenai.org/) | 2023 | 800K+ objects | Internet-scale 3D asset collection (Deitke et al.) |
+| [Objaverse-XL](https://objaverse.allenai.org/) | 2024 | 10.2M objects | Extended internet-scale collection (Deitke et al.) |
+
+### Character Datasets
+
+| Dataset | Year | Scale | Description |
+|---------|------|-------|-------------|
+| [FAUST](http://faust.is.tue.mpg.de/) | 2014 | 300 scans, 10 subjects | Real body scans with ground-truth correspondence (Bogo et al.) |
+| [AMASS](https://amass.is.tue.mpg.de/) | 2019 | Large-scale motion capture | Unified motion capture archive (Mahmood et al.) |
+| [CAPE](https://cape.is.tue.mpg.de/) | 2020 | 4D clothing | Clothed body scans with pose variation (Ma et al.) |
+| [THuman2.0](https://github.com/ytrock/THuman2.0-Dataset) | 2021 | 526 high-res scans | Detailed textured human models (Yu et al.) |
+| [HuMMan](https://caizhongang.github.io/projects/HuMMan/) | 2022 | 1K subjects | Multi-modal human dataset (Cai et al.) |
+| [Motion-X](https://motion-x-dataset.github.io/) | 2024 | Large-scale motion | Expressive whole-body motion dataset (Lin et al.) |
+
+### Scene Datasets
+
+| Dataset | Year | Scale | Description |
+|---------|------|-------|-------------|
+| [ScanNet](http://www.scan-net.org/) | 2017 | 1,513 indoor scans | RGB-D reconstructions with annotations (Dai et al.) |
+| [Matterport3D](https://niessner.github.io/Matterport/) | 2017 | 90 buildings | Large-scale indoor environments (Chang et al.) |
+| [3D-FRONT](https://tianchi.aliyun.com/specials/promotion/alibaba-3d-scene-dataset) | 2021 | 18K rooms | Professionally designed indoor layouts (Fu et al.) |
+| [ProcTHOR](https://procthor.allenai.org/) | 2022 | Procedural houses | Infinitely scalable simulated interiors (Deitke et al.) |
+| [Infinigen](https://infinigen.org/) | 2023 | Procedural nature | Photorealistic procedural generation of natural worlds (Raistrick et al.) |
+| [Infinigen Indoors](https://infinigen.org/) | 2024 | Procedural interiors | Indoor extension of Infinigen (Raistrick et al.) |
+
+---
+
+## General Objects & Props
+
+### Geometry Generation
+
+#### Score Distillation (SDS)
+
+- **DreamFusion**, Poole et al., ICLR 2023 | [Paper](https://arxiv.org/abs/2209.14988) | [Project](https://dreamfusion3d.github.io/) | [BibTeX](./citations/dreamfusion.txt)
+- **Magic3D**, Lin et al., CVPR 2023 | [Paper](https://arxiv.org/abs/2211.10440) | [Project](https://research.nvidia.com/labs/dir/magic3d/) | [BibTeX](./citations/magic3d.txt)
+- **Fantasia3D**, Chen et al., ICCV 2023 | [Paper](https://arxiv.org/abs/2303.13873) | [Code](https://github.com/Gorilla-Lab-SCUT/Fantasia3D) | [BibTeX](./citations/fantasia3d.txt)
+- **ProlificDreamer**, Wang et al., NeurIPS 2023 | [Paper](https://arxiv.org/abs/2305.16213) | [Code](https://github.com/thu-ml/prolificdreamer) | [BibTeX](./citations/prolificdreamer.txt)
+- **RichDreamer**, Qiu et al., CVPR 2024 | [Paper](https://arxiv.org/abs/2311.16918) | [Code](https://github.com/modelscope/richdreamer) | [BibTeX](./citations/richdreamer.txt)
+
+#### Multi-View Reconstruction (MV)
+
+- **Zero-1-to-3**, Liu et al., ICCV 2023 | [Paper](https://arxiv.org/abs/2303.11328) | [Code](https://github.com/cvlab-columbia/zero123) | [BibTeX](./citations/zero123.txt)
+- **MVDream**, Shi et al., ICML 2024 | [Paper](https://arxiv.org/abs/2308.16512) | [Code](https://github.com/bytedance/MVDream) | [BibTeX](./citations/mvdream.txt)
+- **Wonder3D**, Long et al., CVPR 2024 | [Paper](https://arxiv.org/abs/2310.15008) | [Code](https://github.com/xxlong0/Wonder3D) | [BibTeX](./citations/wonder3d.txt)
+- **SV3D**, Voleti et al., ECCV 2024 | [Paper](https://arxiv.org/abs/2403.12008) | [Project](https://sv3d.github.io/) | [BibTeX](./citations/sv3d.txt)
+
+#### GAN-based
+
+- **3D-GAN**, Wu et al., NeurIPS 2016 | [Paper](https://arxiv.org/abs/1610.07584) | [BibTeX](./citations/wu2016learning.txt)
+- **Tree-GAN**, Shu et al., 2019 | [Paper](https://arxiv.org/abs/1905.06292) | [BibTeX](./citations/shu20193d.txt)
+- **SP-GAN**, Li et al., ICCV 2021 | [Paper](https://arxiv.org/abs/2108.04476) | [BibTeX](./citations/li2021sp.txt)
+- **SDF-StyleGAN**, Zheng et al., CVPR 2022 | [Paper](https://arxiv.org/abs/2206.12055) | [BibTeX](./citations/zheng2022sdfstylegan.txt)
+
+#### VAE / AE
+
+- **AtlasNet**, Groueix et al., CVPR 2018 | [Paper](https://arxiv.org/abs/1802.05384) | [Code](https://github.com/ThibaultGROUEIX/AtlasNet) | [BibTeX](./citations/groueix2018papier.txt)
+- **TM-Net**, Gao et al., 2021 | [Paper](https://arxiv.org/abs/2104.06302) | [BibTeX](./citations/gao2021tm.txt)
+- **Michelangelo**, Zhao et al., NeurIPS 2023 | [Paper](https://arxiv.org/abs/2306.17115) | [Code](https://github.com/NeuralCarver/Michelangelo) | [BibTeX](./citations/michelangelo.txt)
+- **CLAY**, Zhang et al., 2024 | [Paper](https://arxiv.org/abs/2406.13897) | [BibTeX](./citations/clay.txt)
+
+#### Direct 3D Diffusion
+
+- **PC-DPM**, Luo et al., ICLR 2021 | [Paper](https://arxiv.org/abs/2103.01458) | [BibTeX](./citations/luo2021diffusion.txt)
+- **MeshDiffusion**, Liu et al., ICLR 2023 | [Paper](https://arxiv.org/abs/2303.08133) | [Code](https://github.com/lzzcd001/MeshDiffusion) | [BibTeX](./citations/meshdiffusion.txt)
+- **TetraDiffusion**, Kalischek et al., 2024 | [Paper](https://arxiv.org/abs/2411.18629) | [BibTeX](./citations/kalischek2024tetradiffusion.txt)
+
+#### Feed-Forward (FF)
+
+- **Pixel2Mesh**, Wang et al., ECCV 2018 | [Paper](https://arxiv.org/abs/1804.01654) | [Code](https://github.com/nywang16/Pixel2Mesh) | [BibTeX](./citations/wang2018pixel2mesh.txt)
+- **LRM**, Hong et al., ICLR 2024 | [Paper](https://arxiv.org/abs/2311.04400) | [Project](https://yiconghong.me/LRM/) | [BibTeX](./citations/lrm.txt)
+- **TripoSR**, Tochilkin et al., 2024 | [Paper](https://arxiv.org/abs/2403.02151) | [Code](https://github.com/VAST-AI-Research/TripoSR) | [BibTeX](./citations/TripoSR2024.txt)
+- **InstantMesh**, Xu et al., 2024 | [Paper](https://arxiv.org/abs/2404.07191) | [Code](https://github.com/TencentARC/InstantMesh) | [BibTeX](./citations/instant_mesh.txt)
+- **SF3D**, Boss et al., 2024 | [Paper](https://arxiv.org/abs/2408.00653) | [Code](https://github.com/Stability-AI/stable-fast-3d) | [BibTeX](./citations/sf3d.txt)
+- **Fast3R**, Yang et al., 2025 | [Paper](https://arxiv.org/abs/2501.13928) | [BibTeX](./citations/yang2025fast3r.txt)
+
+#### Latent Generative Models (LGM)
+
+- **Shap-E**, Jun et al., 2023 | [Paper](https://arxiv.org/abs/2305.02463) | [Code](https://github.com/openai/shap-e) | [BibTeX](./citations/shape.txt)
+- **3DShape2VecSet**, Zhang et al., SIGGRAPH 2023 | [Paper](https://arxiv.org/abs/2301.11445) | [Code](https://github.com/1zb/3DShape2VecSet) | [BibTeX](./citations/3dShape2VecSet.txt)
+- **XCube**, Ren et al., CVPR 2024 | [Paper](https://arxiv.org/abs/2312.03806) | [BibTeX](./citations/xcube.txt)
+- **TRELLIS**, Xiang et al., CVPR 2025 | [Paper](https://arxiv.org/abs/2412.01506) | [Code](https://github.com/microsoft/TRELLIS) | [BibTeX](./citations/xiang2025structured.txt)
+- **TRELLIS.2**, Xiang et al., 2025 | [Paper](https://arxiv.org/abs/2503.18921) | [Code](https://github.com/microsoft/TRELLIS) | [BibTeX](./citations/xiang2025trellis2.txt)
+- **SparseFlex**, He et al., 2025 | [Paper](https://arxiv.org/abs/2503.15448) | [BibTeX](./citations/he2025sparseflex.txt)
+- **TripoSG**, Li et al., 2025 | [Paper](https://arxiv.org/abs/2502.06608) | [Code](https://github.com/VAST-AI-Research/TripoSG) | [BibTeX](./citations/li2025triposg.txt)
+- **MeshCraft**, He et al., 2025 | [Paper](https://arxiv.org/abs/2503.23022) | [BibTeX](./citations/he2025meshcraft.txt)
+
+#### Part-Aware
+
+- **PAGENet**, Li et al., AAAI 2020 | [BibTeX](./citations/li2020learning.txt)
+- **SAMPart3D**, Yang et al., 2024 | [BibTeX](./citations/yang2024sampart3d.txt)
+- **HoloPart**, Yang et al., 2025 | [BibTeX](./citations/yang2025holopart.txt)
+- **PartGen**, Chen et al., 2025 | [BibTeX](./citations/chen2025partgen.txt)
+- **PartCrafter**, Lin et al., 2025 | [BibTeX](./citations/lin2025partcrafter.txt)
+- **OmniPart**, Yang et al., 2025 | [BibTeX](./citations/yang2025omnipart.txt)
+
+---
+
+### Topology Generation
+
+#### Indirect Methods (Post-hoc Remeshing)
+
+- **Instant Meshes**, Jakob et al., 2015 | [Code](https://github.com/wjakob/instant-meshes) | [BibTeX](./citations/instant2015field.txt)
+- **QuadriFlow**, Huang et al., SGP 2018 | [Paper](https://arxiv.org/abs/1801.07715) | [Code](https://github.com/hjwdzh/QuadriFlow) | [BibTeX](./citations/huang2018quadriflow.txt)
+- **NeurCross**, Dong et al., 2025 | [BibTeX](./citations/dong2025neurcross.txt)
+
+#### Direct Methods -- Autoregressive
+
+- **PolyGen**, Nash et al., ICML 2020 | [Paper](https://arxiv.org/abs/2002.10880) | [Code](https://github.com/deepmind/polygen) | [BibTeX](./citations/nash2020polygen.txt)
+- **MeshGPT**, Siddiqui et al., ICLR 2024 | [Paper](https://arxiv.org/abs/2311.15475) | [Project](https://nihalsid.github.io/mesh-gpt/) | [BibTeX](./citations/meshgpt.txt)
+- **MeshAnything**, Chen et al., 2024 | [Paper](https://arxiv.org/abs/2406.10163) | [Code](https://github.com/buaacyw/MeshAnything) | [BibTeX](./citations/meshAnything.txt)
+- **MeshAnything V2**, Chen et al., 2025 | [Paper](https://arxiv.org/abs/2408.02555) | [Code](https://github.com/buaacyw/MeshAnythingV2) | [BibTeX](./citations/MeshAnythingV2.txt)
+- **PivotMesh**, Weng et al., 2024 | [Paper](https://arxiv.org/abs/2405.16890) | [BibTeX](./citations/pivotmesh.txt)
+- **EdgeRunner**, Tang et al., 2024 | [Paper](https://arxiv.org/abs/2409.18114) | [BibTeX](./citations/edge_runner.txt)
+- **QuadGPT**, Liu et al., 2025 | [Paper](https://arxiv.org/abs/2509.21420) | [BibTeX](./citations/liu2025quadgpt.txt)
+- **DeepMesh**, Zhao et al., ICCV 2025 | [Paper](https://arxiv.org/abs/2503.15265) | [Code](https://github.com/zhaorw02/DeepMesh) | [BibTeX](./citations/zhao2025deepmesh.txt)
+- **Mesh-RFT**, Liu et al., 2025 | [Paper](https://arxiv.org/abs/2505.16761) | [BibTeX](./citations/liu2025mesh.txt)
+
+#### Direct Methods -- Diffusion
+
+- **PolyDiff**, Alliegro et al., ICCV 2023 | [Paper](https://arxiv.org/abs/2312.11417) | [BibTeX](./citations/alliegro2023polydiff.txt)
+- **SpaceMesh**, Shen et al., 2024 | [BibTeX](./citations/space_mesh.txt)
+- **MeshCraft**, He et al., 2025 | [Paper](https://arxiv.org/abs/2503.23022) | [BibTeX](./citations/he2025meshcraft.txt)
+
+---
+
+### Appearance Generation
+
+#### UV Unwrapping
+
+- **xatlas**, Barber, 2018 | [Code](https://github.com/jpcy/xatlas) | [BibTeX](./citations/xatlas2018.txt)
+- **Auto-UV**, Li et al., 2025 | [BibTeX](./citations/li2025auto.txt)
+- **Flatten Anything**, Zhang et al., 2024 | [BibTeX](./citations/zhang2024flatten.txt)
+- **FlexPara**, Zhao et al., 2025 | [Paper](https://arxiv.org/abs/2504.01894) | [BibTeX](./citations/zhao2025flexpara.txt)
+- **PartUV**, Wang et al., 2025 | [BibTeX](./citations/wang2025partuv.txt)
+- **ArtUV**, Chen et al., 2025 | [Paper](https://arxiv.org/abs/2504.09914) | [BibTeX](./citations/chen2025artuv.txt)
+- **SeamCrafter**, Xu et al., 2025 | [Paper](https://arxiv.org/abs/2504.12256) | [BibTeX](./citations/xu2025seamcrafter.txt)
+
+#### Texture & PBR Material Generation
+
+- **TEXTure**, Richardson et al., SIGGRAPH 2023 | [Paper](https://arxiv.org/abs/2302.01721) | [Code](https://github.com/TEXTurePaper/TEXTurePaper) | [BibTeX](./citations/texture.txt)
+- **Text2Tex**, Chen et al., ICCV 2023 | [Paper](https://arxiv.org/abs/2303.11396) | [Code](https://github.com/daveredrum/Text2Tex) | [BibTeX](./citations/text2tex.txt)
+- **TexFusion**, Cao et al., 2023 | [BibTeX](./citations/texfusion.txt)
+- **Paint3D**, Zeng et al., 2024 | [Paper](https://arxiv.org/abs/2312.13913) | [Code](https://github.com/OpenTexture/Paint3D) | [BibTeX](./citations/paint3d.txt)
+- **FlashTex**, Deng et al., 2024 | [BibTeX](./citations/flashtex.txt)
+- **TexGen**, Yu et al., 2024 | [BibTeX](./citations/texgaussian.txt)
+- **MVPaint**, Cheng et al., 2025 | [Paper](https://arxiv.org/abs/2411.02336) | [BibTeX](./citations/cheng2025mvpaint.txt)
+- **MaterialMVP**, He et al., 2025 | [BibTeX](./citations/he2025materialmvp.txt)
+- **MaterialAnything**, Huang et al., 2024 | [Paper](https://arxiv.org/abs/2411.15138) | [BibTeX](./citations/huang2024materialanything.txt)
+- **Meta 3D AssetGen**, Siddiqui et al., 2024 | [Paper](https://arxiv.org/abs/2407.02445) | [BibTeX](./citations/meta3dAsset.txt)
+- **PBR3DGen**, Wei et al., 2025 | [Paper](https://arxiv.org/abs/2504.12836) | [BibTeX](./citations/wei2025pbr3dgenvlmguidedmeshgeneration.txt)
+
+---
+
+## Characters & Avatars
+
+<p align="center">
+  <img src="asset/fig_characters.png" width="100%">
+</p>
+
+### Structural Priors
+
+- **SMPL**, Loper et al., SIGGRAPH Asia 2015 | [BibTeX](./citations/smpl.txt)
+- **SMPL-X**, Pavlakos et al., CVPR 2019 | [BibTeX](./citations/pavlakos2019expressive.txt)
+- **FLAME**, Li et al., SIGGRAPH Asia 2017 | [BibTeX](./citations/li2017flame.txt)
+
+### Full-Body Synthesis
+
+#### Parametric Template
+
+- **Tex2Shape**, Alldieck et al., ICCV 2019 | [BibTeX](./citations/alldieck2019tex2shape.txt)
+- **CAPE**, Ma et al., CVPR 2020 | [BibTeX](./citations/ma2020learning.txt)
+- **ExPose**, Choutas et al., ECCV 2020 | [BibTeX](./citations/choutas2020monocular.txt)
+- **STAR**, Osman et al., ECCV 2020 | [BibTeX](./citations/osman2020star.txt)
+- **HybrIK**, Li et al., CVPR 2021 | [BibTeX](./citations/li2021hybrik.txt)
+
+#### Implicit / Hybrid
+
+- **PIFu**, Saito et al., ICCV 2019 | [BibTeX](./citations/saito2019pifu.txt)
+- **ARCH**, Huang et al., CVPR 2020 | [BibTeX](./citations/huang2020arch.txt)
+- **PIFuHD**, Saito et al., CVPR 2020 | [BibTeX](./citations/saito2020pifuhd.txt)
+- **PaMIR**, Zheng et al., TPAMI 2021 | [BibTeX](./citations/zheng2021pamir.txt)
+- **SMPLicit**, Corona et al., CVPR 2021 | [BibTeX](./citations/smplicit.txt)
+- **ICON**, Xiu et al., CVPR 2022 | [BibTeX](./citations/xiu2022icon.txt)
+- **gDNA**, Chen et al., ECCV 2022 | [BibTeX](./citations/gdna.txt)
+- **ECON**, Xiu et al., CVPR 2023 | [BibTeX](./citations/xiu2023econ.txt)
+- **S3F**, Corona et al., ICCV 2023 | [BibTeX](./citations/corona2023structured3d.txt)
+
+#### GAN / Diffusion Generative
+
+- **StylePeople**, Grigorev et al., 2021 | [BibTeX](./citations/grigorev2021stylepeople.txt)
+- **AvatarGen**, Zhang et al., 2022 | [BibTeX](./citations/zhang2022avatargen.txt)
+- **AvatarCLIP**, Hong et al., SIGGRAPH 2022 | [BibTeX](./citations/hong2022avatarclip.txt)
+- **Get3DHuman**, Xiong et al., 2023 | [BibTeX](./citations/get3dhuman.txt)
+- **GETAvatar**, Zhang et al., NeurIPS 2023 | [BibTeX](./citations/zhang2023getavatar.txt)
+- **AvatarCraft**, Jiang et al., 2023 | [BibTeX](./citations/jiang2023avatarcraft.txt)
+- **DreamHuman**, Kolotouros et al., 2023 | [BibTeX](./citations/dreamhuman.txt)
+- **ChuPa**, Kim et al., 2023 | [BibTeX](./citations/kim2023chupa.txt)
+- **DreamAvatar**, Cao et al., 2024 | [BibTeX](./citations/cao2024dreamavatar.txt)
+- **TADA!**, Liao et al., CVPR 2024 | [BibTeX](./citations/tada.txt)
+
+#### Feed-Forward / Real-Time
+
+- **InstantAvatar**, Jiang et al., CVPR 2023 | [BibTeX](./citations/jiang2023instantavatar.txt)
+- **SHERF**, Hu et al., 2023 | [BibTeX](./citations/hu2023sherf.txt)
+- **Human GS**, Moreau et al., 2024 | [BibTeX](./citations/humangaussian.txt)
+- **HUGS**, Kocabas et al., CVPR 2024 | [BibTeX](./citations/kocabas2024hugs.txt)
+- **3DGS-Avatar**, Qian et al., 2024 | [BibTeX](./citations/3dgsAvatar.txt)
+- **LHM**, Qiu et al., 2025 | [BibTeX](./citations/qiu2025lhm.txt)
+- **OmniAvatar**, Gan et al., 2025 | [BibTeX](./citations/gan2025omniavatar.txt)
+
+### Head & Face Synthesis
+
+#### Morphable + Neural
+
+- **i3DMM**, Yenamandra et al., 2021 | [BibTeX](./citations/yenamandra2021i3dmm.txt)
+- **NerFace**, Gafni et al., 2021 | [BibTeX](./citations/gafni2021nerface.txt)
+- **EG3D**, Chan et al., CVPR 2022 | [BibTeX](./citations/chan2022efficient.txt)
+- **NPHM**, Giebenhain et al., 2023 | [BibTeX](./citations/giebenhain2023learning.txt)
+- **Next3D**, Sun et al., CVPR 2023 | [BibTeX](./citations/sun2023next3d.txt)
+- **PanoHead**, An et al., CVPR 2023 | [BibTeX](./citations/an2023panohead.txt)
+- **RODIN**, Wang et al., 2023 | [BibTeX](./citations/rodin.txt)
+- **HeadSculpt**, Han et al., 2023 | [BibTeX](./citations/headArtist.txt)
+
+#### Mesh-Anchored Gaussians
+
+- **GaussianAvatars**, Qian et al., CVPR 2024 | [BibTeX](./citations/qian2024gaussianavatars.txt)
+- **FlashAvatar**, Xiang et al., 2024 | [BibTeX](./citations/xiang2024flashavatar.txt)
+- **MonoGaussianAvatar**, Chen et al., 2024 | [BibTeX](./citations/chen2024monogaussianavatar.txt)
+- **RGCA (Relightable)**, Saito et al., 2024 | [BibTeX](./citations/saito2024relightable.txt)
+
+#### Feed-Forward Reconstruction
+
+- **GAGAvatar**, Chu et al., 2024 | [BibTeX](./citations/chu2024generalizable.txt)
+- **Arc2Avatar**, Gerogiannis et al., 2025 | [BibTeX](./citations/gerogiannis2025arc2avatar.txt)
+- **HRAvatar**, Zhang et al., 2025 | [BibTeX](./citations/zhang2025hravatar.txt)
+- **LAM**, He et al., 2025 | [BibTeX](./citations/he2025lam.txt)
+- **Avat3r**, Kirschstein et al., 2025 | [BibTeX](./citations/kirschstein2025avat3r.txt)
+
+#### Rendering & Animation
+
+- **SadTalker**, Zhang et al., CVPR 2023 | [BibTeX](./citations/zhang2023sadtalker.txt)
+- **TexTalker**, Li et al., 2025 | [BibTeX](./citations/li2025towards.txt)
+
+### Rigging & Skinning
+
+- **RigNet**, Xu et al., SIGGRAPH 2020 | [BibTeX](./citations/xu2020rignet.txt)
+- **SkinningNet**, Mosella-Montoro et al., 2022 | [BibTeX](./citations/mosella2022skinningnet.txt)
+- **DeePSD**, Bertiche et al., 2021 | [BibTeX](./citations/bertiche2021deepsd.txt)
+- *(Note: TADA!, ChuPa, LAM, and HRAvatar also include rigging capabilities -- see above)*
+
+---
+
+## Scenes & Environments
+
+### Layout Generation
+
+- **ATISS**, Paschalidou et al., NeurIPS 2021 | [BibTeX](./citations/atiss.txt)
+- **ProcTHOR**, Deitke et al., CVPR 2022 | [BibTeX](./citations/procthor.txt)
+- **Pose2Room**, Nie et al., 2022 | [BibTeX](./citations/nie2022pose2room.txt)
+- **DiffuScene**, Tang et al., 2024 | [BibTeX](./citations/diffuscene.txt)
+- **Holodeck**, Yang et al., CVPR 2024 | [BibTeX](./citations/yang2024holodeck.txt)
+- **LayoutGPT**, Feng et al., 2023 | [BibTeX](./citations/feng2023layoutgpt.txt)
+- **LLplace**, Yang et al., 2024 | [Paper](https://arxiv.org/abs/2406.03866) | [BibTeX](./citations/yang2024llplace.txt)
+- **CityCraft**, Deng et al., 2024 | [Paper](https://arxiv.org/abs/2406.04983) | [BibTeX](./citations/deng2024citycraft.txt)
+
+### Scene Population & Asset Grounding
+
+- **MIME**, Yi et al., 2023 | [BibTeX](./citations/yi2023mime.txt)
+- **AnyHome**, Fu et al., 2024 | [BibTeX](./citations/anyhome.txt)
+- **Open-Universe**, Aguina-Kang et al., 2024 | [Paper](https://arxiv.org/abs/2403.09675) | [BibTeX](./citations/aguinakang2024openuniverse.txt)
+- **SceneCraft**, Hu et al., 2024 | [BibTeX](./citations/hu2024scenecraft.txt)
+- **PhyScene**, Yang et al., 2024 | [BibTeX](./citations/yang2024physcene.txt)
+- **UnrealLLM**, Tang et al., 2025 | [BibTeX](./citations/tang2025unrealllm.txt)
+- **Layout2Scene**, Chen et al., 2025 | [Paper](https://arxiv.org/abs/2501.02519) | [BibTeX](./citations/chen2025layout2scene.txt)
+- **3D-GPT**, Sun et al., 2025 | [BibTeX](./citations/3dgpt.txt)
+- **PhysGen3D**, Chen et al., 2025 | [BibTeX](./citations/chen2025physgen3d.txt)
+
+### World-Scale Generation
+
+- **Text2Light**, Chen et al., 2022 | [BibTeX](./citations/text2light.txt)
+- **Text2Room**, Hollein et al., 2023 | [BibTeX](./citations/text2room.txt)
+- **Infinigen**, Raistrick et al., CVPR 2023 | [BibTeX](./citations/raistrick2023infinite.txt)
+- **CityDreamer**, Xie et al., 2024 | [BibTeX](./citations/cityDreamer.txt)
+- **Infinigen Indoors**, Raistrick et al., 2024 | [BibTeX](./citations/raistrick2024infinigenindoors.txt)
+- **LayerPano3D**, Yang et al., 2025 | [BibTeX](./citations/shuaiyang2025layerpano3d.txt)
+- **WorldCraft**, Liu et al., 2025 | [Paper](https://arxiv.org/abs/2502.15601) | [BibTeX](./citations/liu2025worldcraft.txt)
+
+---
+
+## Evaluation & Benchmarks
+
+The survey identifies four evaluation dimensions for production-ready 3D generation:
+
+| Dimension | Metrics |
+|-----------|---------|
+| **Geometric Fidelity** | Chamfer Distance (CD), F-Score, Normal Consistency, Coverage (COV), Minimum Matching Distance (MMD) |
+| **Appearance Quality** | PSNR, SSIM, LPIPS, FID, CLIP Score |
+| **Asset Usability** | UV distortion, rig quality, engine import success rate, production-readiness score |
+| **Scene-Level** | Physical plausibility, traversability, human preference evaluation |
+
+A key finding of this survey is that existing benchmarks systematically overestimate deployment readiness by focusing on geometric and appearance metrics while neglecting asset usability criteria required for interactive applications.
+
+---
+
+## Industry & Companies
+
+| Company | Key Product | Type | Link |
+|---------|------------|------|------|
+| Tripo AI | Tripo V2.5 | Closed | [tripo3d.ai](https://www.tripo3d.ai/) |
+| Tencent | Hunyuan3D | Open + Closed | [3d.hunyuan.tencent.com](https://3d.hunyuan.tencent.com/) |
+| ByteDance | MVDream | Open | - |
+| Meshy AI | Meshy 5 | Closed | [meshy.ai](https://www.meshy.ai/) |
+| Deemos | Rodin Gen 1.5 | Closed | [hyperhuman.deemos.com](https://hyperhuman.deemos.com/) |
+| DreamTech | - | Closed | [dreamtech.com](https://www.dreamtech.com/) |
+| Luma AI | Genie | Closed | [lumalabs.ai](https://lumalabs.ai/) |
+| CSM AI | - | Closed | [csm.ai](https://www.csm.ai/) |
+| Stability AI | SF3D | Open | [stability.ai](https://stability.ai/) |
+| NVIDIA | Edify 3D | Closed | [build.nvidia.com](https://build.nvidia.com/) |
+| SUDO AI | - | Closed | [sudo.ai](https://www.sudo.ai/) |
+
+---
 
 ## Citation
-If you find this project useful in your research, please consider citing:
-```BibTeX
-@article{liu2024comprehensive,
-  title={A Comprehensive Survey on 3D Content Generation},
-  author={Liu, Jian and Huang, Xiaoshui and Huang, Tianyu and Chen, Lu and Hou, Yuenan and Tang, Shixiang and Liu, Ziwei and Ouyang, Wanli and Zuo, Wangmeng and Jiang, Junjun and others},
-  journal={arXiv preprint arXiv:2402.01166},
-  year={2024}
+
+If you find this survey useful, please cite our paper:
+
+```bibtex
+@article{wu2026production,
+  title={From Visual Synthesis to Interactive Worlds: A Survey of Production-Ready 3D Generation},
+  author={Wu, Jiafeng and Lou, Zhuofan and Liu, Jian and Du, Dazhao and Guo, Chunchao and Guo, Song},
+  journal={ACM Computing Surveys},
+  year={2026}
 }
 ```
 
-## Contact
-contact: `liujian2498065510@gmail.com`.  
+If you also use resources from the v1 collection, please additionally cite:
+
+```bibtex
+@article{liu2023awesome,
+  title={Awesome-AIGC-3D: A curated list of AIGC 3D papers},
+  author={Liu, Jian},
+  journal={GitHub repository},
+  year={2023},
+  url={https://github.com/hitcslj/Awesome-AIGC-3D}
+}
+```
+
+---
+
+## Contributing
+
+We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
+
+> **Note:** Pull requests should target the **v2** branch. The `main` branch preserves the original v1 awesome list.
+
+---
+
+## Acknowledgments
+
+This work was supported by the Hong Kong University of Science and Technology (HKUST) and Tencent Hunyuan.
+
+---
+
+## v1 Paper Collection
+
+The original awesome list curated by Jian Liu is preserved on the [**main branch**](https://github.com/hitcslj/Awesome-AIGC-3D/tree/main). It contains a broader collection of AIGC 3D papers organized by topic (3D generation, 4D generation, editing, etc.) without the production-pipeline focus of v2.
+
+---
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=hitcslj/Awesome-AIGC-3D&type=Date)](https://star-history.com/#hitcslj/Awesome-AIGC-3D&Date)

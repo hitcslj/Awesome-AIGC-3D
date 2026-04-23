@@ -1,0 +1,6 @@
+@article{hong20243dtopia,
+  title={3DTopia: Large Text-to-3D Generation Model with Hybrid Diffusion Priors},
+  author={Hong, Fangzhou and Tang, Jiaxiang and Cao, Ziang and Shi, Min and Wu, Tong and Chen, Zhaoxi and Wang, Tengfei and Pan, Liang and Lin, Dahua and Liu, Ziwei},
+  journal={arXiv preprint arXiv:2403.02234},
+  year={2024}
+}

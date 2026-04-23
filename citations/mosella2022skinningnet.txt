@@ -1,0 +1,7 @@
+@inproceedings{mosella2022skinningnet,
+  title={Skinningnet: Two-stream graph convolutional neural network for skinning prediction of synthetic characters},
+  author={Mosella-Montoro, Albert and Ruiz-Hidalgo, Javier},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={18593--18602},
+  year={2022}
+}

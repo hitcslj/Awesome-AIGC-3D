@@ -1,0 +1,12 @@
+@inproceedings{yang2019pointflow,
+  author       = {Guandao Yang and
+                  Xun Huang and
+                  Zekun Hao and
+                  Ming{-}Yu Liu and
+                  Serge J. Belongie and
+                  Bharath Hariharan},
+  title        = {PointFlow: 3D Point Cloud Generation With Continuous Normalizing Flows},
+  booktitle    = {{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages        = {4540--4549},
+  year         = {2019}
+}

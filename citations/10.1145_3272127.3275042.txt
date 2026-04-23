@@ -1,0 +1,10 @@
+@article{10.1145/3272127.3275042,
+  author = {Li, Minchen and Sell{\'a}n, Silvia and Jacobson, Alec and Stein, Oded},
+  title = {OptCuts: Joint Optimization of Surface Cuts and Parameterization},
+  year = {2018},
+  journal = {ACM Trans. Graph.},
+  volume = {37},
+  number = {6},
+  articleno = {247},
+  doi = {10.1145/3272127.3275042}
+}

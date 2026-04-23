@@ -1,0 +1,7 @@
+@inproceedings{barron2023zip,
+  title={Zip-nerf: Anti-aliased grid-based neural radiance fields},
+  author={Barron, Jonathan T and Mildenhall, Ben and Verbin, Dor and Srinivasan, Pratul P and Hedman, Peter},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={19697--19705},
+  year={2023}
+}

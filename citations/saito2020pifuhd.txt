@@ -1,0 +1,7 @@
+@inproceedings{saito2020pifuhd,
+  title={{PIFuHD}: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization},
+  author={Saito, Shunsuke and Simon, Tomas and Saragih, Jason and Joo, Hanbyul},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={84--93},
+  year={2020}
+}

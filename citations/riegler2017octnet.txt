@@ -1,0 +1,7 @@
+@inproceedings{riegler2017octnet,
+  title={Octnet: Learning deep 3d representations at high resolutions},
+  author={Riegler, Gernot and Osman Ulusoy, Ali and Geiger, Andreas},
+  booktitle={{Proceedings of the IEEE conference on computer vision and pattern recognition}},
+  pages={3577--3586},
+  year={2017}
+}

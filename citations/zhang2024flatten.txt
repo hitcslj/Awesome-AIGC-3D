@@ -1,0 +1,7 @@
+@article{zhang2024flatten,
+  title={Flatten Anything: Unsupervised Neural Surface Parameterization},
+  author={Zhang, Qijian and Ye, Junhui and Deng, Yun-Chun and Lu, Wenqian and Mandal, Chandrajit and Xu, Ying-Cong and Jia, Jiaya},
+  journal={Advances in Neural Information Processing Systems},
+  volume={36},
+  year={2024}
+}

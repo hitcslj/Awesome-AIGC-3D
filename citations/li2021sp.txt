@@ -1,0 +1,12 @@
+@article{li2021sp,
+  author       = {Ruihui Li and
+                  Xianzhi Li and
+                  Ka{-}Hei Hui and
+                  Chi{-}Wing Fu},
+  title        = {{SP-GAN:} sphere-guided 3D shape generation and manipulation},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {40},
+  number       = {4},
+  pages        = {151:1--151:12},
+  year         = {2021}
+}

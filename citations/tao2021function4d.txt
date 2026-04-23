@@ -1,0 +1,6 @@
+@InProceedings{tao2021function4d,
+title={Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors},
+author={Yu, Tao and Zheng, Zerong and Guo, Kaiwen and Liu, Pengpeng and Dai, Qionghai and Liu, Yebin},
+booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+year={2021},
+}

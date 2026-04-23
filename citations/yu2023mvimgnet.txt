@@ -1,0 +1,7 @@
+@inproceedings{yu2023mvimgnet,
+  title={{MVImgNet}: A Large-scale Dataset of Multi-view Images},
+  author={Yu, Xianggang and Xu, Mutian and Zhang, Yidan and Liu, Haolin and Ye, Chongjie and Wu, Yushuang and Yan, Zizheng and Zhu, Chenming and Xiong, Zhangyang and others},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={9150--9161},
+  year={2023}
+}

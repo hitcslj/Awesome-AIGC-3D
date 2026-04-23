@@ -1,0 +1,9 @@
+@article{loper2015smpl,
+  title={SMPL: A Skinned Multi-Person Linear Model},
+  author={Loper, Matthew and Mahmood, Naureen and Romero, Javier and Pons-Moll, Gerard and Black, Michael J},
+  journal={ACM Trans. Graph.},
+  volume={34},
+  number={6},
+  year={2015},
+  publisher={Association for Computing Machinery}
+}

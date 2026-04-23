@@ -1,0 +1,7 @@
+@inproceedings{metzer2023latent,
+  title={Latent-nerf for shape-guided generation of 3d shapes and textures},
+  author={Metzer, Gal and Richardson, Elad and Patashnik, Or and Giryes, Raja and Cohen-Or, Daniel},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={12663--12673},
+  year={2023}
+}

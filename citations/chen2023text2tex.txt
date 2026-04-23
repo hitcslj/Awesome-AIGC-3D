@@ -1,0 +1,7 @@
+@inproceedings{chen2023text2tex,
+  title={Text2tex: Text-driven texture synthesis via diffusion models},
+  author={Chen, Dave Zhenyu and Siddiqui, Yawar and Lee, Hsin-Ying and Tulyakov, Sergey and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={18558--18568},
+  year={2023}
+}

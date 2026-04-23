@@ -1,0 +1,7 @@
+@inproceedings{shu20193d,
+  title={3d point cloud generative adversarial network based on tree structured graph convolutions},
+  author={Shu, Dong Wook and Park, Sung Woo and Kwon, Junseok},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={3859--3868},
+  year={2019}
+}

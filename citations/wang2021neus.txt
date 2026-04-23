@@ -1,0 +1,13 @@
+@inproceedings{wang2021neus,
+  author       = {Peng Wang and
+                  Lingjie Liu and
+                  Yuan Liu and
+                  Christian Theobalt and
+                  Taku Komura and
+                  Wenping Wang},
+  title        = {NeuS: Learning Neural Implicit Surfaces by Volume Rendering for Multi-view
+                  Reconstruction},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  pages        = {27171--27183},
+  year         = {2021}
+}

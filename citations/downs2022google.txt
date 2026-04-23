@@ -1,0 +1,7 @@
+@inproceedings{downs2022google,
+  title={Google Scanned Objects: A High-Quality Dataset of 3D Scanned Household Items},
+  author={Downs, Laura and Francis, Anthony and Koenig, Nate and Kinman, Brandon and Hickman, Ryan and Reymann, Krista and McHenry, Thomas B and Vanhoucke, Vincent},
+  booktitle={{Proceedings of the IEEE International Conference on Robotics and Automation (ICRA)}},
+  pages={2553--2560},
+  year={2022}
+}

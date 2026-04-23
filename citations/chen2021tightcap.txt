@@ -1,0 +1,14 @@
+@article{chen2021tightcap,
+  author       = {Xin Chen and
+                  Anqi Pang and
+                  Wei Yang and
+                  Peihao Wang and
+                  Lan Xu and
+                  Jingyi Yu},
+  title        = {TightCap: 3D Human Shape Capture with Clothing Tightness Field},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {41},
+  number       = {1},
+  pages        = {9:1--9:17},
+  year         = {2022}
+}

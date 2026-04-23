@@ -1,0 +1,6 @@
+@inproceedings{srinivasan2024nuvo,
+  title={Nuvo: Neural UV Mapping for Unruly 3D Representations},
+  author={Srinivasan, Pratul P. and Prakash, Stephan J. and Guo, Ben and Poole, Ben and Barron, Jonathan T.},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  year={2024}
+}

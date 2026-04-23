@@ -1,0 +1,7 @@
+@inproceedings{hui2022neural,
+  title={Neural wavelet-domain diffusion for 3d shape generation},
+  author={Hui, Ka-Hei and Li, Ruihui and Hu, Jingyu and Fu, Chi-Wing},
+  booktitle={{ACM SIGGRAPH Asia Conference Proceedings}},
+  pages={1--9},
+  year={2022}
+}

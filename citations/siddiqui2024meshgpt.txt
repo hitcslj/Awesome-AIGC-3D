@@ -1,0 +1,7 @@
+@inproceedings{siddiqui2024meshgpt,
+  title={Meshgpt: Generating triangle meshes with decoder-only transformers},
+  author={Siddiqui, Yawar and Alliegro, Antonio and Artemov, Alexey and Tommasi, Tatiana and Sirigatti, Daniele and Rosov, Vladislav and Dai, Angela and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={19615--19625},
+  year={2024}
+}

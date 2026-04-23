@@ -1,0 +1,7 @@
+@inproceedings{mo2019partnet,
+  title={PartNet: A Large-Scale Benchmark for Fine-Grained and Hierarchical Part-Level 3D Object Understanding},
+  author={Mo, Kaichun and Zhu, Shilin and Chang, Angel X and Yi, Li and Tripathi, Subarna and Guibas, Leonidas J and Su, Hao},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={909--918},
+  year={2019}
+}

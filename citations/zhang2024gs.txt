@@ -1,0 +1,8 @@
+@inproceedings{zhang2024gs,
+  author = {Zhang, Kai and Bi, Sai and Tan, Hao and Xiangli, Yuanbo and Zhao, Nanxuan and Sunkavalli, Kalyan and Xu, Zexiang},
+  title = {GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting},
+  year = {2024},
+  doi = {10.1007/978-3-031-72670-5_1},
+  booktitle = {{European Conference on Computer Vision (ECCV)}},
+  pages = {1–19}
+}

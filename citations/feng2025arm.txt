@@ -1,0 +1,6 @@
+@article{feng2025arm,
+  title={ARM: Appearance Reconstruction Model for Relightable 3D Generation},
+  author={Feng, Xiang and Xu, Kangle and others},
+  journal={arXiv preprint arXiv:2503.17424},
+  year={2025}
+}

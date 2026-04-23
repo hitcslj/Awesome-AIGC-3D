@@ -1,0 +1,7 @@
+@inproceedings{wang20244ddress,
+  title={4D-DRESS: A 4D Dataset of Real-World Human Clothing With Semantic Annotations},
+  author={Wang, Wenbo and Ho, Hsuan-I and Guo, Chen and Rong, Boxiang and Grigorev, Artur and Song, Jie and Zarate, Juan Jose and Hilliges, Otmar},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={550--560},
+  year={2024}
+}

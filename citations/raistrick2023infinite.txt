@@ -1,0 +1,7 @@
+@inproceedings{raistrick2023infinite,
+  title={Infinite photorealistic worlds using procedural generation},
+  author={Raistrick, Alexander and Lipson, Lahav and Ma, Zeyu and Mei, Lingjie and Wang, Mingzhe and Zuo, Yiming and Kayan, Karhan and Wen, Hongyu and Han, Beining and Wang, Yihan and others},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={12630--12641},
+  year={2023}
+}

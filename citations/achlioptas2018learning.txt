@@ -1,0 +1,7 @@
+@inproceedings{achlioptas2018learning,
+  title        = {Learning representations and generative models for {3D} point clouds},
+  author       = {Achlioptas, Panos and Diamanti, Olga and Mitliagkas, Ioannis and Guibas, Leonidas},
+  booktitle    = {{International Conference on Machine Learning (ICML)}},
+  pages        = {40--49},
+  year         = {2018}
+}

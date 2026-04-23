@@ -1,0 +1,7 @@
+@inproceedings{ren2024xcube,
+  title={Xcube: Large-scale 3d generative modeling using sparse voxel hierarchies},
+  author={Ren, Xuanchi and Huang, Jiahui and Zeng, Xiaohui and Museth, Ken and Fidler, Sanja and Williams, Francis},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={4209--4219},
+  year={2024}
+}

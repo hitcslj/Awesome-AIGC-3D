@@ -1,0 +1,7 @@
+@inproceedings{nie2022pose2room,
+  title={Pose2room: understanding 3d scenes from human activities},
+  author={Nie, Yinyu and Dai, Angela and Han, Xiaoguang and Nie{\ss}ner, Matthias},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={425--443},
+  year={2022}
+}

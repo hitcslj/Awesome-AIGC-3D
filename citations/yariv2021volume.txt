@@ -1,0 +1,8 @@
+@article{yariv2021volume,
+  title={Volume rendering of neural implicit surfaces},
+  author={Yariv, Lior and Gu, Jiatao and Kasten, Yoni and Lipman, Yaron},
+  journal={Advances in neural information processing systems},
+  volume={34},
+  pages={4805--4815},
+  year={2021}
+}

@@ -1,0 +1,12 @@
+@article{fukaya2025intelligent,
+  author       = {Kaisei Fukaya and
+                  Damon Daylamani{-}Zad and
+                  Harry W. Agius},
+  title        = {Intelligent Generation of Graphical Game Assets: {A} Conceptual Framework
+                  and Systematic Review of the State of the Art},
+  journal      = {{ACM} Comput. Surv.},
+  volume       = {57},
+  number       = {5},
+  pages        = {118:1--118:38},
+  year         = {2025}
+}

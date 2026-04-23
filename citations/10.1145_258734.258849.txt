@@ -1,0 +1,8 @@
+@inproceedings{10.1145/258734.258849,
+author = {Garland, Michael and Heckbert, Paul S.},
+title = {Surface simplification using quadric error metrics},
+year = {1997},
+doi = {10.1145/258734.258849},
+booktitle = {ACM SIGGRAPH Conference Proceedings},
+pages = {209–216}
+}

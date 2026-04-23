@@ -1,0 +1,7 @@
+@inproceedings{an2023panohead,
+  title={Panohead: Geometry-aware 3d full-head synthesis in 360deg},
+  author={An, Sizhe and Xu, Hongyi and Shi, Yichun and Song, Guoxian and Ogras, Umit Y and Luo, Linjie},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={20950--20959},
+  year={2023}
+}

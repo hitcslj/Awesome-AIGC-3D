@@ -1,0 +1,17 @@
+@article{yu2024texgen,
+  author       = {Xin Yu and
+                  Ze Yuan and
+                  Yuan{-}Chen Guo and
+                  Ying{-}Tian Liu and
+                  Jianhui Liu and
+                  Yangguang Li and
+                  Yan{-}Pei Cao and
+                  Ding Liang and
+                  Xiaojuan Qi},
+  title        = {TEXGen: a Generative Diffusion Model for Mesh Textures},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {43},
+  number       = {6},
+  pages        = {213:1--213:14},
+  year         = {2024}
+}

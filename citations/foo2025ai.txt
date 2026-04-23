@@ -1,0 +1,11 @@
+@article{foo2025ai,
+  author       = {Lin Geng Foo and
+                  Hossein Rahmani and
+                  Jun Liu},
+  title        = {AI-Generated Content {(AIGC)} for Various Data Modalities: {A} Survey},
+  journal      = {{ACM} Comput. Surv.},
+  volume       = {57},
+  number       = {9},
+  pages        = {243:1--243:66},
+  year         = {2025}
+}

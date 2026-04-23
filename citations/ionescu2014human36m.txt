@@ -1,0 +1,10 @@
+@article{ionescu2014human36m,
+  title={{Human3.6M}: Large Scale Datasets and Predictive Methods for {3D} Human Sensing in Natural Environments},
+  author={Ionescu, Catalin and Papava, Dragos and Olaru, Vlad and Sminchisescu, Cristian},
+  journal={IEEE Trans. Pattern Anal. Mach. Intell.},
+  volume={36},
+  number={7},
+  pages={1325--1339},
+  year={2014},
+  publisher={IEEE}
+}

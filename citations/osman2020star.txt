@@ -1,0 +1,7 @@
+@inproceedings{osman2020star,
+  title={Star: Sparse trained articulated human body regressor},
+  author={Osman, Ahmed AA and Bolkart, Timo and Black, Michael J},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={598--613},
+  year={2020}
+}

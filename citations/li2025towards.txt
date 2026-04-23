@@ -1,0 +1,7 @@
+@inproceedings{li2025towards,
+  title={Towards high-fidelity 3d talking avatar with personalized dynamic texture},
+  author={Li, Xuanchen and Wang, Jianyu and Cheng, Yuhao and Zeng, Yikun and Ren, Xingyu and Zhu, Wenhan and Zhao, Weiming and Yan, Yichao},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={204--214},
+  year={2025}
+}

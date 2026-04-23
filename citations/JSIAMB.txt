@@ -1,0 +1,1 @@
+@String{JSIAMB = "J. Soc. Indust. Appl. Math. Ser. B Numer. Anal." }

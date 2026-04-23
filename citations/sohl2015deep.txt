@@ -1,0 +1,7 @@
+@inproceedings{sohl2015deep,
+  title={Deep unsupervised learning using nonequilibrium thermodynamics},
+  author={Sohl-Dickstein, Jascha and Weiss, Eric and Maheswaranathan, Niru and Ganguli, Surya},
+  booktitle={{International Conference on Machine Learning (ICML)}},
+  pages={2256--2265},
+  year={2015}
+}

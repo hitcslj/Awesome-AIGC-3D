@@ -1,0 +1,10 @@
+@article{wang2017cnn,
+  title={O-cnn: Octree-based convolutional neural networks for 3d shape analysis},
+  author={Wang, Peng-Shuai and Liu, Yang and Guo, Yu-Xiao and Sun, Chun-Yu and Tong, Xin},
+  journal={ACM Trans. Graph.},
+  volume={36},
+  number={4},
+  pages={1--11},
+  year={2017},
+  publisher={ACM New York, NY, USA}
+}

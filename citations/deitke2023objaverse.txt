@@ -1,0 +1,7 @@
+@inproceedings{deitke2023objaverse,
+  title={Objaverse: A universe of annotated 3d objects},
+  author={Deitke, Matt and Schwenk, Dustin and Salvador, Jordi and Weihs, Luca and Michel, Oscar and VanderBilt, Eli and Schmidt, Ludwig and Ehsani, Kiana and Kembhavi, Aniruddha and Farhadi, Ali},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={13142--13153},
+  year={2023}
+}

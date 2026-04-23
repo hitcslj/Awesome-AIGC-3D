@@ -1,0 +1,6 @@
+@misc{MicrosoftUVAtlas2023,
+  author = {{Microsoft}},
+  title  = {UVAtlas},
+  year   = {2023},
+  howpublished = {\url{https://github.com/microsoft/UVAtlas}},
+}

@@ -1,0 +1,7 @@
+@misc{rodinGen2025,
+  author       = {{Deemos Tech}},
+  title        = {Hyper3D Rodin Gen~1.5: Professional 3D Asset Generation},
+  year         = {2025},
+  howpublished = {\url{https://hyper3d.ai}},
+  note         = {Accessed: April 2026}
+}

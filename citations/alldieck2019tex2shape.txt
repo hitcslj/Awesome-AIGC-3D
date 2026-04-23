@@ -1,0 +1,7 @@
+@inproceedings{alldieck2019tex2shape,
+  title={Tex2shape: Detailed full human body geometry from a single image},
+  author={Alldieck, Thiemo and Pons-Moll, Gerard and Theobalt, Christian and Magnor, Marcus},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={2293--2303},
+  year={2019}
+}

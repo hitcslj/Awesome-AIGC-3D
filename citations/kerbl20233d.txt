@@ -1,0 +1,9 @@
+@article{kerbl20233d,
+  title={3d gaussian splatting for real-time radiance field rendering.},
+  author={Kerbl, Bernhard and Kopanas, Georgios and Leimk{\"u}hler, Thomas and Drettakis, George and others},
+  journal={ACM Trans. Graph.},
+  volume={42},
+  number={4},
+  pages={139--1},
+  year={2023}
+}

@@ -1,0 +1,7 @@
+@inproceedings{lin2023magic3d,
+  title={Magic3d: High-resolution text-to-3d content creation},
+  author={Lin, Chen-Hsuan and Gao, Jun and Tang, Luming and Takikawa, Towaki and Zeng, Xiaohui and Huang, Xun and Kreis, Karsten and Fidler, Sanja and Liu, Ming-Yu and Lin, Tsung-Yi},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={300--309},
+  year={2023}
+}

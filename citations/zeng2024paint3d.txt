@@ -1,0 +1,7 @@
+@inproceedings{zeng2024paint3d,
+  title={Paint3d: Paint anything 3d with lighting-less texture diffusion models},
+  author={Zeng, Xianfang and Chen, Xin and Qi, Zhongqi and Liu, Wen and Zhao, Zibo and Wang, Zhibin and Fu, Bin and Liu, Yong and Yu, Gang},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={4252--4262},
+  year={2024}
+}

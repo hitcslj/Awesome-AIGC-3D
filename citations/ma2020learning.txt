@@ -1,0 +1,7 @@
+@inproceedings{ma2020learning,
+  title={Learning to dress 3d people in generative clothing},
+  author={Ma, Qianli and Yang, Jinlong and Ranjan, Anurag and Pujades, Sergi and Pons-Moll, Gerard and Tang, Siyu and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={6469--6478},
+  year={2020}
+}

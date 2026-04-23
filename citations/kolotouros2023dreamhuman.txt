@@ -1,0 +1,11 @@
+@inproceedings{kolotouros2023dreamhuman,
+  author       = {Nikos Kolotouros and
+                  Thiemo Alldieck and
+                  Andrei Zanfir and
+                  Eduard Gabriel Bazavan and
+                  Mihai Fieraru and
+                  Cristian Sminchisescu},
+  title        = {DreamHuman: Animatable 3D Avatars from Text},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2023}
+}

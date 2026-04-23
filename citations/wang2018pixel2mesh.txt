@@ -1,0 +1,7 @@
+@inproceedings{wang2018pixel2mesh,
+  title={Pixel2mesh: Generating 3d mesh models from single rgb images},
+  author={Wang, Nanyang and Zhang, Yinda and Li, Zhuwen and Fu, Yanwei and Liu, Wei and Jiang, Yu-Gang},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={52--67},
+  year={2018}
+}

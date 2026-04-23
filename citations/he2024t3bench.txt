@@ -1,0 +1,7 @@
+@inproceedings{he2024t3bench,
+  title={{T}$^{3}${Bench}: Benchmarking Current Progress in Text-to-{3D} Generation},
+  author={He, Yuze and Bai, Yushi and Lin, Matthieu and Zhao, Wang and Hu, Yubin and Sheng, Jenny and Yi, Ran and Li, Juanzi and Liu, Yong-Jin},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={6027--6036},
+  year={2024}
+}

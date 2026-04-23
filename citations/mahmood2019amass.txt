@@ -1,0 +1,7 @@
+@inproceedings{mahmood2019amass,
+  title={AMASS: Archive of motion capture as surface shapes},
+  author={Mahmood, Naureen and Ghorbani, Nima and Troje, Nikolaus F and Pons-Moll, Gerard and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={5442--5451},
+  year={2019}
+}

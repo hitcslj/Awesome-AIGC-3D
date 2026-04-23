@@ -1,0 +1,6 @@
+@article{lei2025hunyuan3d,
+  title={Hunyuan3d studio: End-to-end ai pipeline for game-ready 3d asset generation},
+  author={Lei, Biwen and Li, Yang and Liu, Xinhai and Yang, Shuhui and Xu, Lixin and Huang, Jingwei and Tang, Ruining and Weng, Haohan and Liu, Jian and Xu, Jing and others},
+  journal={arXiv preprint arXiv:2509.12815},
+  year={2025}
+}

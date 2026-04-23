@@ -1,0 +1,13 @@
+@inproceedings{wang2023prolificdreamer,
+  author       = {Zhengyi Wang and
+                  Cheng Lu and
+                  Yikai Wang and
+                  Fan Bao and
+                  Chongxuan Li and
+                  Hang Su and
+                  Jun Zhu},
+  title        = {ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with
+                  Variational Score Distillation},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2023}
+}

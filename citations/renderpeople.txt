@@ -1,0 +1,7 @@
+@misc{renderpeople,
+  author = {{RenderPeople}},
+  title  = {RenderPeople Dataset},
+  year   = {2018},
+  howpublished = {\url{https://renderpeople.com}},
+  note   = {Accessed: 2026-03-07}
+}

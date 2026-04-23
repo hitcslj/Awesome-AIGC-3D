@@ -1,0 +1,6 @@
+@inproceedings{zheng2022sdfstylegan,
+  title = {SDF-StyleGAN: Implicit SDF-Based StyleGAN for 3D Shape Generation},
+  author = {Zheng, Xin-Yang and Liu, Yang and Wang, Peng-Shuai and Tong, Xin},
+  booktitle = {{Comput. Graph. Forum (SGP)}},
+  year = {2022},
+}

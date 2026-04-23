@@ -1,0 +1,6 @@
+@article{liang2023luciddreamer,
+  title={LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching},
+  author={Liang, Yixun and Yang, Xin and Lin, Jiantao and Li, Haodong and Xu, Xiaogang and Chen, Yingcong},
+  journal={arXiv preprint arXiv:2311.11284},
+  year={2023}
+}

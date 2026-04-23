@@ -1,0 +1,7 @@
+@inproceedings{grigorev2021stylepeople,
+  title={Stylepeople: A generative model of fullbody human avatars},
+  author={Grigorev, Artur and Iskakov, Karim and Ianina, Anastasia and Bashirov, Renat and Zakharkin, Ilya and Vakhitov, Alexander and Lempitsky, Victor},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5151--5160},
+  year={2021}
+}

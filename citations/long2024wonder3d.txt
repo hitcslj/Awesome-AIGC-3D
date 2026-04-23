@@ -1,0 +1,7 @@
+@inproceedings{long2024wonder3d,
+  title={Wonder3d: Single image to 3d using cross-domain diffusion},
+  author={Long, Xiaoxiao and Guo, Yuan-Chen and Lin, Cheng and Liu, Yuan and Dou, Zhiyang and Liu, Lingjie and Ma, Yuexin and Zhang, Song-Hai and Habermann, Marc and Theobalt, Christian and others},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={9970--9980},
+  year={2024}
+}

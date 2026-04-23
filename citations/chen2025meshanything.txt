@@ -1,0 +1,7 @@
+@inproceedings{chen2025meshanything,
+  title={Meshanything v2: Artist-created mesh generation with adjacent mesh tokenization},
+  author={Chen, Yiwen and Wang, Yikai and Luo, Yihao and Wang, Zhengyi and Chen, Zilong and Zhu, Jun and Zhang, Chi and Lin, Guosheng},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={13922--13931},
+  year={2025}
+}

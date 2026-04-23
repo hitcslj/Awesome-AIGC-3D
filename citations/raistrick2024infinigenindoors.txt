@@ -1,0 +1,7 @@
+@inproceedings{raistrick2024infinigenindoors,
+  title={Infinigen Indoors: Photorealistic Indoor Scenes using Procedural Generation},
+  author={Raistrick, Alexander and Mei, Lingjie and Kayan, Karhan and Yan, David and Zuo, Yiming and Han, Beining and Wen, Hongyu and Parakh, Meenal and Alexandropoulos, Stamatis and Lipson, Lahav and Ma, Zeyu and Deng, Jia},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={21783--21794},
+  year={2024}
+}

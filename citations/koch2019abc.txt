@@ -1,0 +1,7 @@
+@inproceedings{koch2019abc,
+  title={{ABC}: A Big CAD Model Dataset for Geometric Deep Learning},
+  author={Koch, Sebastian and Matveev, Albert and Jiang, Zhongshi and Williams, Francis and Artemov, Alexey and Burnaev, Evgeny and Alexa, Marc and Zorin, Denis and Panozzo, Daniele},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={9601--9611},
+  year={2019}
+}

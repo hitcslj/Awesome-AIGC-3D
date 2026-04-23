@@ -1,0 +1,7 @@
+@inproceedings{moreau2024humangs,
+  title={Human Gaussian Splatting: Real-time Rendering of Animatable Avatars},
+  author={Moreau, Arthur and Song, Jifei and Dhamo, Helisa and Shaw, Richard and Zhou, Yiren and P{\'e}rez-Pellitero, Eduardo},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={788--798},
+  year={2024}
+}

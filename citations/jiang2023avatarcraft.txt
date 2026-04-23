@@ -1,0 +1,7 @@
+@inproceedings{jiang2023avatarcraft,
+  title={Avatarcraft: Transforming text into neural human avatars with parameterized shape and pose control},
+  author={Jiang, Ruixiang and Wang, Can and Zhang, Jingbo and Chai, Menglei and He, Mingming and Chen, Dongdong and Liao, Jing},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={14371--14382},
+  year={2023}
+}

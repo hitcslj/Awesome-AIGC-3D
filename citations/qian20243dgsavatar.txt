@@ -1,0 +1,7 @@
+@inproceedings{qian20243dgsavatar,
+  title={{3DGS-Avatar}: Animatable Avatars via Deformable 3D Gaussian Splatting},
+  author={Qian, Zhiyin and Wang, Shaofei and Mihajlovic, Marko and Geiger, Andreas and Tang, Siyu},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5020--5030},
+  year={2024}
+}

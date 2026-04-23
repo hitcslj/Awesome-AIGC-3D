@@ -1,0 +1,9 @@
+@inproceedings{li2020learning,
+  title={Learning part generation and assembly for structure-aware shape synthesis},
+  author={Li, Jun and Niu, Chengjie and Xu, Kai},
+  booktitle={{Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)}},
+  volume={34},
+  number={07},
+  pages={11362--11369},
+  year={2020}
+}

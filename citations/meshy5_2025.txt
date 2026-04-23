@@ -1,0 +1,7 @@
+@misc{meshy5_2025,
+  author       = {{Meshy}},
+  title        = {Meshy 5: Image-to-3D and Text-to-3D Generation Platform},
+  year         = {2025},
+  howpublished = {\url{https://www.meshy.ai}},
+  note         = {Accessed: April 2026}
+}

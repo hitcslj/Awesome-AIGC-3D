@@ -1,0 +1,7 @@
+@inproceedings{yang2025fast3r,
+  title={Fast3r: Towards 3d reconstruction of 1000+ images in one forward pass},
+  author={Yang, Jianing and Sax, Alexander and Liang, Kevin J and Henaff, Mikael and Tang, Hao and Cao, Ang and Chai, Joyce and Meier, Franziska and Feiszli, Matt},
+  booktitle={{Proceedings of the Computer Vision and Pattern Recognition Conference}},
+  pages={21924--21935},
+  year={2025}
+}

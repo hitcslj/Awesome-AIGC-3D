@@ -1,0 +1,7 @@
+@inproceedings{tang2024diffuscene,
+  title={DiffuScene: Denoising Diffusion Models for Generative Indoor Scene Synthesis},
+  author={Tang, Jiapeng and Nie, Yinyu and Markhasin, Lev and Dai, Angela and Thies, Justus and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={20507--20518},
+  year={2024}
+}

@@ -1,0 +1,8 @@
+@inproceedings{deitke2022procthor,
+  title={ProcTHOR: Large-Scale Embodied AI Using Procedural Generation},
+  author={Deitke, Matt and VanderBilt, Eli and Herrasti, Alvaro and Weihs, Luca and Ehsani, Kiana and Salvador, Jordi and Han, Winson and Kolve, Eric and Kembhavi, Aniruddha and Mottaghi, Roozbeh},
+  booktitle={{Advances in Neural Information Processing Systems (NeurIPS)}},
+  volume={35},
+  pages={5982--5994},
+  year={2022}
+}

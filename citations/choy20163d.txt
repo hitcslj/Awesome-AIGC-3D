@@ -1,0 +1,7 @@
+@inproceedings{choy20163d,
+  title={3d-r2n2: A unified approach for single and multi-view 3d object reconstruction},
+  author={Choy, Christopher B and Xu, Danfei and Gwak, JunYoung and Chen, Kevin and Savarese, Silvio},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={628--644},
+  year={2016}
+}

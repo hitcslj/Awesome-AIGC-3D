@@ -1,0 +1,1 @@
+@String{PhilMag = "Philos. Mag." }

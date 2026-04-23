@@ -1,0 +1,1 @@
+@String{TexasPress = "University of Texas Press" }

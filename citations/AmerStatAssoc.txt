@@ -1,0 +1,1 @@
+@String{AmerStatAssoc = "J. Amer. Statist. Assoc." }

@@ -1,0 +1,7 @@
+@inproceedings{saito2019pifu,
+  title={Pifu: Pixel-aligned implicit function for high-resolution clothed human digitization},
+  author={Saito, Shunsuke and Huang, Zeng and Natsume, Ryota and Morishima, Shigeo and Kanazawa, Angjoo and Li, Hao},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={2304--2314},
+  year={2019}
+}

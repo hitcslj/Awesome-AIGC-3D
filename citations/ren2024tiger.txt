@@ -1,0 +1,7 @@
+@inproceedings{ren2024tiger,
+  title={TIGER: Time-Varying Denoising Model for 3D Point Cloud Generation with Diffusion Process},
+  author={Ren, Zhiyuan and Kim, Minchul and Liu, Feng and Liu, Xiaoming},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={9462--9471},
+  year={2024}
+}

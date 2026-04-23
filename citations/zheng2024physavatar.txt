@@ -1,0 +1,18 @@
+@inproceedings{zheng2024physavatar,
+  author       = {Yang Zheng and
+                  Qingqing Zhao and
+                  Guandao Yang and
+                  Wang Yifan and
+                  Donglai Xiang and
+                  Florian Dubost and
+                  Dmitry Lagun and
+                  Thabo Beeler and
+                  Federico Tombari and
+                  Leonidas J. Guibas and
+                  Gordon Wetzstein},
+  title        = {PhysAvatar: Learning the Physics of Dressed {3D} Avatars from Visual
+                  Observations},
+  booktitle    = {{European Conference on Computer Vision (ECCV)}},
+  pages        = {262--284},
+  year         = {2024}
+}

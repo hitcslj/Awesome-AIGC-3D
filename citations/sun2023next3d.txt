@@ -1,0 +1,7 @@
+@inproceedings{sun2023next3d,
+  title={Next3d: Generative neural texture rasterization for 3d-aware head avatars},
+  author={Sun, Jingxiang and Wang, Xuan and Wang, Lizhen and Li, Xiaoyu and Zhang, Yong and Zhang, Hongwen and Liu, Yebin},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={20991--21002},
+  year={2023}
+}

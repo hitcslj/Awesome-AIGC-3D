@@ -1,0 +1,9 @@
+@article{fu2021future,
+  title={{3D-FUTURE}: {3D} Furniture Shape with Text{URE}},
+  author={Fu, Huan and Jia, Rongfei and Gao, Lin and Gong, Mingming and Zhao, Binqiang and Maybank, Steve and Tao, Dacheng},
+  journal={Int. J. Comput. Vis.},
+  volume={129},
+  pages={3313--3337},
+  year={2021},
+  publisher={Springer}
+}

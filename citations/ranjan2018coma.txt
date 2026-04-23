@@ -1,0 +1,7 @@
+@inproceedings{ranjan2018coma,
+  title={Generating {3D} Faces using Convolutional Mesh Autoencoders},
+  author={Ranjan, Anurag and Bolkart, Timo and Sanyal, Soubhik and Black, Michael J},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={725--741},
+  year={2018}
+}

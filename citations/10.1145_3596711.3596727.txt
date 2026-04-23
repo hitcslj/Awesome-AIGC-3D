@@ -1,0 +1,9 @@
+@inbook{10.1145/3596711.3596727,
+author = {Garland, Michael and Heckbert, Paul S.},
+title = {Surface Simplification Using Quadric Error Metrics},
+year = {2023},
+publisher = {Association for Computing Machinery},
+edition = {1},
+booktitle = {Seminal Graphics Papers: Pushing the Boundaries, Volume 2},
+articleno = {15}
+}

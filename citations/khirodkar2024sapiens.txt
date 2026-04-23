@@ -1,0 +1,7 @@
+@inproceedings{khirodkar2024sapiens,
+  title={Sapiens: Foundation for human vision models},
+  author={Khirodkar, Rawal and Bagautdinov, Timur and Martinez, Julieta and Zhaoen, Su and James, Austin and Selednik, Peter and Anderson, Stuart and Saito, Shunsuke},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={206--228},
+  year={2024}
+}

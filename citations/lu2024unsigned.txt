@@ -1,0 +1,7 @@
+@inproceedings{lu2024unsigned,
+  title={Unsigned orthogonal distance fields: An accurate neural implicit representation for diverse 3d shapes},
+  author={Lu, Yujie and Wan, Long and Ding, Nayu and Wang, Yulong and Shen, Shuhan and Cai, Shen and Gao, Lin},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={20551--20560},
+  year={2024}
+}

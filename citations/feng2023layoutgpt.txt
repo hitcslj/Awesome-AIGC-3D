@@ -1,0 +1,15 @@
+@inproceedings{feng2023layoutgpt,
+  author       = {Weixi Feng and
+                  Wanrong Zhu and
+                  Tsu{-}Jui Fu and
+                  Varun Jampani and
+                  Arjun R. Akula and
+                  Xuehai He and
+                  Sugato Basu and
+                  Xin Eric Wang and
+                  William Yang Wang},
+  title        = {LayoutGPT: Compositional Visual Planning and Generation with Large
+                  Language Models},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2023}
+}

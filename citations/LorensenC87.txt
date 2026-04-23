@@ -1,0 +1,8 @@
+@inproceedings{LorensenC87,
+  author       = {William E. Lorensen and
+                  Harvey E. Cline},
+  title        = {Marching cubes: {A} high resolution 3D surface construction algorithm},
+  booktitle    = {{ACM SIGGRAPH Conference Proceedings}},
+  pages        = {163--169},
+  year         = {1987}
+}

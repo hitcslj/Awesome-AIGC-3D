@@ -1,0 +1,7 @@
+@inproceedings{kim2023chupa,
+  title={Chupa: Carving 3d clothed humans from skinned shape priors using 2d diffusion probabilistic models},
+  author={Kim, Byungjun and Kwon, Patrick and Lee, Kwangho and Lee, Myunggi and Han, Sookwan and Kim, Daesik and Joo, Hanbyul},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={15965--15976},
+  year={2023}
+}

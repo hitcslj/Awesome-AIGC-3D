@@ -1,0 +1,6 @@
+@article{xu2025seamcrafter,
+  title={SeamCrafter: Learning UV Seam Prediction from 3D Mesh Data},
+  author={Xu, Sicheng and Xiang, Jianfeng and Wang, Ruicheng and Deng, Yu and Yang, Jiaolong},
+  journal={arXiv preprint arXiv:2504.12256},
+  year={2025}
+}

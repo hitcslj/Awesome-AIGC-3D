@@ -1,0 +1,7 @@
+@inproceedings{heusel2017gans,
+  title={{GANs} Trained by a Two Time-Scale Update Rule Converge to a Local {Nash} Equilibrium},
+  author={Heusel, Martin and Ramsauer, Hubert and Unterthiner, Thomas and Nessler, Bernhard and Hochreiter, Sepp},
+  booktitle={{Advances in Neural Information Processing Systems (NeurIPS)}},
+  volume={30},
+  year={2017}
+}

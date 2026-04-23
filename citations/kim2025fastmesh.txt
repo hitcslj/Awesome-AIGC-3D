@@ -1,0 +1,6 @@
+@article{kim2025fastmesh,
+  title={FastMesh: Efficient Artistic Mesh Generation via Component Decoupling},
+  author={Kim, Jeonghwan and Lan, Yushi and Fortes, Armando and Chen, Yongwei and Pan, Xingang},
+  journal={arXiv preprint arXiv:2508.19188},
+  year={2025}
+}

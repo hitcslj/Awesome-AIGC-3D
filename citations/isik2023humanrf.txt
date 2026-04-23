@@ -1,0 +1,11 @@
+@article{isik2023humanrf,
+  title={HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion},
+  author={I{\c{s}}{\i}k, Mustafa and R{\"u}nz, Martin and Georgopoulos, Markos and Khakhulin, Taras and Starck, Jonathan and Agapito, Lourdes and Nie{\ss}ner, Matthias},
+  journal={ACM Trans. Graph.},
+  volume={42},
+  number={4},
+  pages={1--12},
+  year={2023},
+  publisher={ACM New York, NY, USA},
+  doi={10.1145/3592415}
+}

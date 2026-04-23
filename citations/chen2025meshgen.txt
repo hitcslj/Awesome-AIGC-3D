@@ -1,0 +1,6 @@
+@article{chen2025meshgen,
+  title={MeshGen: Generating PBR Textured Mesh with Render-Enhanced Auto-Encoder and Generative Data Augmentation},
+  author={Chen, Xin and others},
+  journal={arXiv preprint arXiv:2504.07811},
+  year={2025}
+}

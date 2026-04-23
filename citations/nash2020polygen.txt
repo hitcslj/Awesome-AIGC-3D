@@ -1,0 +1,7 @@
+@inproceedings{nash2020polygen,
+  title={Polygen: An autoregressive generative model of 3d meshes},
+  author={Nash, Charlie and Ganin, Yaroslav and Eslami, SM Ali and Battaglia, Peter},
+  booktitle={{International Conference on Machine Learning (ICML)}},
+  pages={7220--7229},
+  year={2020}
+}

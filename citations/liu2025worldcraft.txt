@@ -1,0 +1,6 @@
+@article{liu2025worldcraft,
+  title={WorldCraft: Photo-Realistic 3D World Creation and Customization via LLM Agents},
+  author={Liu, Xinhang and Tang, Chi-Keung and Tai, Yu-Wing},
+  journal={arXiv preprint arXiv:2502.15601},
+  year={2025}
+}

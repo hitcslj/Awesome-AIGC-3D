@@ -1,0 +1,8 @@
+@inproceedings{tang2025unrealllm,
+  title={UnrealLLM: Towards Highly Controllable and Interactable 3D Scene Generation by LLM-powered Procedural Content Generation},
+  author={Tang, Song and Zhao, Kaiyong and Wang, Lei and Li, Yuliang and Liu, Xuebo and Zou, Junyi and Wang, Qiang and Chu, Xiaowen},
+  booktitle={{Findings of the Association for Computational Linguistics: ACL 2025}},
+  pages={19417--19435},
+  year={2025},
+  doi={10.18653/v1/2025.findings-acl.994}
+}

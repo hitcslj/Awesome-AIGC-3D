@@ -1,0 +1,7 @@
+@misc{tripoai2025remesher,
+  author       = {Tripo AI Team},
+  title        = {Tripo AI: Intelligent Remesher},
+  year         = {2025},
+  howpublished = {Online},
+  url          = {https://studio.tripo3d.ai/workspace/remesh}
+}

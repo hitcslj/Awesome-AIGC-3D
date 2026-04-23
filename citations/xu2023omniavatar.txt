@@ -1,0 +1,7 @@
+@inproceedings{xu2023omniavatar,
+  title={Omniavatar: Geometry-guided controllable 3d head synthesis},
+  author={Xu, Hongyi and Song, Guoxian and Jiang, Zihang and Zhang, Jianfeng and Shi, Yichun and Liu, Jing and Ma, Wanchun and Feng, Jiashi and Luo, Linjie},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={12814--12824},
+  year={2023}
+}

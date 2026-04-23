@@ -1,0 +1,7 @@
+@inproceedings{xiu2022icon,
+  title={Icon: Implicit clothed humans obtained from normals},
+  author={Xiu, Yuliang and Yang, Jinlong and Tzionas, Dimitrios and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={13286--13296},
+  year={2022}
+}

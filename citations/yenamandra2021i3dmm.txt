@@ -1,0 +1,7 @@
+@inproceedings{yenamandra2021i3dmm,
+  title={i3dmm: Deep implicit 3d morphable model of human heads},
+  author={Yenamandra, Tarun and Tewari, Ayush and Bernard, Florian and Seidel, Hans-Peter and Elgharib, Mohamed and Cremers, Daniel and Theobalt, Christian},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={12803--12813},
+  year={2021}
+}

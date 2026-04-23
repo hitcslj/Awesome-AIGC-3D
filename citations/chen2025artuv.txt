@@ -1,0 +1,6 @@
+@article{chen2025artuv,
+  title={ArtUV: Generating Artist-Style UV Maps from a Single Image},
+  author={Chen, Xiaoxue and Xiang, Jianfeng and Wang, Ruicheng and Xu, Sicheng and Deng, Yu and Yang, Jiaolong},
+  journal={arXiv preprint arXiv:2504.09914},
+  year={2025}
+}

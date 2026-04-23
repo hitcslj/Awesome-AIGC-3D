@@ -1,0 +1,10 @@
+@article{han2024mvimgnet2,
+  title={{MVImgNet2.0}: A Larger-scale Dataset of Multi-view Images},
+  author={Han, Xiaoguang and Wu, Yushuang and Shi, Luyue and Liu, Haolin and Liao, Hongjie and Qiu, Lingteng and Yuan, Weihao and Gu, Xiaodong and Dong, Zilong and others},
+  journal={ACM Trans. Graph.},
+  volume={43},
+  number={6},
+  pages={1--16},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}

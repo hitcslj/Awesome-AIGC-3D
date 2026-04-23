@@ -1,0 +1,7 @@
+@inproceedings{chen2025partgen,
+  title={Partgen: Part-level 3d generation and reconstruction with multi-view diffusion models},
+  author={Chen, Minghao and Shapovalov, Roman and Laina, Iro and Monnier, Tom and Wang, Jianyuan and Novotny, David and Vedaldi, Andrea},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5881--5892},
+  year={2025}
+}

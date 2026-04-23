@@ -1,0 +1,11 @@
+@inproceedings{sf3d2024,
+  author       = {Mark Boss and
+                  Zixuan Huang and
+                  Aaryaman Vasishta and
+                  Varun Jampani},
+  title        = {{SF3D:} Stable Fast 3D Mesh Reconstruction with UV-unwrapping and
+                  Illumination Disentanglement},
+  booktitle    = {{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages        = {16240--16250},
+  year         = {2025}
+}

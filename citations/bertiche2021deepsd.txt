@@ -1,0 +1,11 @@
+@inproceedings{bertiche2021deepsd,
+  author       = {Hugo Bertiche and
+                  Meysam Madadi and
+                  Emilio Tylson and
+                  Sergio Escalera},
+  title        = {{DeePSD}: Automatic Deep Skinning and Pose Space Deformation for {3D}
+                  Garment Animation},
+  booktitle    = {{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages        = {5471--5480},
+  year         = {2021}
+}

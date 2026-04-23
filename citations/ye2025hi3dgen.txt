@@ -1,0 +1,6 @@
+@article{ye2025hi3dgen,
+  title={Hi3DGen: High-fidelity 3D Geometry Generation from Images via Normal Bridging},
+  author={Ye, Chongjie and Wu, Yushuang and Lu, Ziteng and Chang, Jiahao and Guo, Xiaoyang and Zhou, Jiaqing and Zhao, Hao and Han, Xiaoguang},
+  journal={arXiv preprint arXiv:2503.22236}, 
+  year={2025}
+}

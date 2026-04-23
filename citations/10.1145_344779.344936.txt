@@ -1,0 +1,8 @@
+@inproceedings{10.1145/344779.344936,
+author = {Pfister, Hanspeter and Zwicker, Matthias and van Baar, Jeroen and Gross, Markus},
+title = {Surfels: surface elements as rendering primitives},
+year = {2000},
+doi = {10.1145/344779.344936},
+booktitle = {ACM SIGGRAPH Conference Proceedings},
+pages = {335–342}
+}

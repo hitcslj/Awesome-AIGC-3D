@@ -1,0 +1,10 @@
+@article{muller2022instant,
+  title={Instant neural graphics primitives with a multiresolution hash encoding},
+  author={M{\"u}ller, Thomas and Evans, Alex and Schied, Christoph and Keller, Alexander},
+  journal={ACM Trans. Graph.},
+  volume={41},
+  number={4},
+  pages={1--15},
+  year={2022},
+  publisher={ACM New York, NY, USA}
+}

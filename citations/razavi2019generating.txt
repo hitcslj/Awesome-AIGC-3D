@@ -1,0 +1,7 @@
+@article{razavi2019generating,
+  title={Generating diverse high-fidelity images with vq-vae-2},
+  author={Razavi, Ali and Van den Oord, Aaron and Vinyals, Oriol},
+  journal={Advances in neural information processing systems},
+  volume={32},
+  year={2019}
+}

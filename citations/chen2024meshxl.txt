@@ -1,0 +1,8 @@
+@article{chen2024meshxl,
+  title={Meshxl: Neural coordinate field for generative 3d foundation models},
+  author={Chen, Sijin and Chen, Xin and Pang, Anqi and Zeng, Xianfang and Cheng, Wei and Fu, Yijun and Yin, Fukun and Wang, Zhibin and Yu, Jingyi and Yu, Gang and others},
+  journal={Advances in Neural Information Processing Systems},
+  volume={37},
+  pages={97141--97166},
+  year={2024}
+}

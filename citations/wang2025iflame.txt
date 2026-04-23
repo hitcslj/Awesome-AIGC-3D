@@ -1,0 +1,6 @@
+@article{wang2025iflame,
+  title={iflame: Interleaving full and linear attention for efficient mesh generation},
+  author={Wang, Hanxiao and Zhang, Biao and Quan, Weize and Yan, Dong-Ming and Wonka, Peter},
+  journal={arXiv preprint arXiv:2503.16653},
+  year={2025}
+}

@@ -1,0 +1,1 @@
+@String{MathAnaAppl = "J. Math. Anal. Appl." }

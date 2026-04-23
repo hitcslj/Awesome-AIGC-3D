@@ -1,0 +1,6 @@
+@article{chen2025layout2scene,
+  title={Layout2Scene: 3D Semantic Layout Guided Scene Generation via Geometry and Appearance Diffusion Priors},
+  author={Chen, Minglin and Wang, Longguang and Ao, Sheng and Zhang, Ye and Xu, Kai and Guo, Yulan},
+  journal={arXiv preprint arXiv:2501.02519},
+  year={2025}
+}

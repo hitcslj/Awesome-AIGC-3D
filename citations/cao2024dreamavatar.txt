@@ -1,0 +1,7 @@
+@inproceedings{cao2024dreamavatar,
+  title={Dreamavatar: Text-and-shape guided 3d human avatar generation via diffusion models},
+  author={Cao, Yukang and Cao, Yan-Pei and Han, Kai and Shan, Ying and Wong, Kwan-Yee K},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={958--968},
+  year={2024}
+}

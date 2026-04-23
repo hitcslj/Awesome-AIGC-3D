@@ -1,0 +1,7 @@
+@inproceedings{barron2022mip,
+  title={Mip-nerf 360: Unbounded anti-aliased neural radiance fields},
+  author={Barron, Jonathan T and Mildenhall, Ben and Verbin, Dor and Srinivasan, Pratul P and Hedman, Peter},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5470--5479},
+  year={2022}
+}

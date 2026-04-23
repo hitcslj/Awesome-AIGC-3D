@@ -1,0 +1,6 @@
+@article{han2024flex3d,
+  title={Flex3d: Feed-forward 3d generation with flexible reconstruction model and input view curation},
+  author={Han, Junlin and Wang, Jianyuan and Vedaldi, Andrea and Torr, Philip and Kokkinos, Filippos},
+  journal={arXiv preprint arXiv:2410.00890},
+  year={2024}
+}

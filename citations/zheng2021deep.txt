@@ -1,0 +1,7 @@
+@inproceedings{zheng2021deep,
+  title={Deep implicit templates for 3d shape representation},
+  author={Zheng, Zerong and Yu, Tao and Dai, Qionghai and Liu, Yebin},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={1429--1439},
+  year={2021}
+}

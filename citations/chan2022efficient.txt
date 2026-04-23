@@ -1,0 +1,7 @@
+@inproceedings{chan2022efficient,
+  title={Efficient geometry-aware 3d generative adversarial networks},
+  author={Chan, Eric R and Lin, Connor Z and Chan, Matthew A and Nagano, Koki and Pan, Boxiao and De Mello, Shalini and Gallo, Orazio and Guibas, Leonidas J and Tremblay, Jonathan and Khamis, Sameh and others},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={16123--16133},
+  year={2022}
+}

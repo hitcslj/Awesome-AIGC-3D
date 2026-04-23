@@ -1,0 +1,13 @@
+@article{huang2018quadriflow,
+  author       = {Jingwei Huang and
+                  Yichao Zhou and
+                  Matthias Nie{\ss}ner and
+                  Jonathan Richard Shewchuk and
+                  Leonidas J. Guibas},
+  title        = {QuadriFlow: {A} Scalable and Robust Method for Quadrangulation},
+  journal      = {Comput. Graph. Forum},
+  volume       = {37},
+  number       = {5},
+  pages        = {147--160},
+  year         = {2018}
+}

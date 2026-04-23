@@ -1,0 +1,8 @@
+@article {10.1111:cgf.13498,
+    journal = {Comput. Graph. Forum},
+    title = {{QuadriFlow: A Scalable and Robust Method for Quadrangulation}},
+    author = {Huang, Jingwei and Zhou, Yichao and Niessner, Matthias and Shewchuk, Jonathan Richard and Guibas, Leonidas J.},
+    year = {2018},
+    publisher = {The Eurographics Association and John Wiley & Sons Ltd.},
+    DOI = {10.1111/cgf.13498}
+}

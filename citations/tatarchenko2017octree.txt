@@ -1,0 +1,7 @@
+@inproceedings{tatarchenko2017octree,
+  title={Octree generating networks: Efficient convolutional architectures for high-resolution 3d outputs},
+  author={Tatarchenko, Maxim and Dosovitskiy, Alexey and Brox, Thomas},
+  booktitle={{Proceedings of the IEEE international conference on computer vision}},
+  pages={2088--2096},
+  year={2017}
+}

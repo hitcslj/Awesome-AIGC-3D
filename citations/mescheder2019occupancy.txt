@@ -1,0 +1,7 @@
+@inproceedings{mescheder2019occupancy,
+  title={Occupancy networks: Learning 3d reconstruction in function space},
+  author={Mescheder, Lars and Oechsle, Michael and Niemeyer, Michael and Nowozin, Sebastian and Geiger, Andreas},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={4460--4470},
+  year={2019}
+}

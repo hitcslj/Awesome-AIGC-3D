@@ -1,0 +1,7 @@
+@inproceedings{gerogiannis2025arc2avatar,
+  title={Arc2avatar: Generating expressive 3d avatars from a single image via id guidance},
+  author={Gerogiannis, Dimitrios and Papantoniou, Foivos Paraperas and Potamias, Rolandos Alexandros and Lattas, Alexandros and Zafeiriou, Stefanos},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={10770--10782},
+  year={2025}
+}

@@ -1,0 +1,7 @@
+@inproceedings{patel2021agora,
+  title={{AGORA}: Avatars in Geography Optimized for Regression Analysis},
+  author={Patel, Priyanka and Huang, Chun-Hao P and Tesch, Joachim and Hoffmann, David T and Tripathi, Shashank and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={13468--13478},
+  year={2021}
+}

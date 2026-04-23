@@ -1,0 +1,7 @@
+@inproceedings{zhou20213d,
+  title={3d shape generation and completion through point-voxel diffusion},
+  author={Zhou, Linqi and Du, Yilun and Wu, Jiajun},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={5826--5835},
+  year={2021}
+}

@@ -1,0 +1,7 @@
+@inproceedings{chen2025physgen3d,
+  title={Physgen3d: Crafting a miniature interactive world from a single image},
+  author={Chen, Boyuan and Jiang, Hanxiao and Liu, Shaowei and Gupta, Saurabh and Li, Yunzhu and Zhao, Hao and Wang, Shenlong},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={6178--6189},
+  year={2025}
+}

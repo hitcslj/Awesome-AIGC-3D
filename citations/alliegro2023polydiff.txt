@@ -1,0 +1,6 @@
+@article{alliegro2023polydiff,
+  title={Polydiff: Generating 3d polygonal meshes with diffusion models},
+  author={Alliegro, Antonio and Siddiqui, Yawar and Tommasi, Tatiana and Nie{\ss}ner, Matthias},
+  journal={arXiv preprint arXiv:2312.11417},
+  year={2023}
+}

@@ -1,0 +1,11 @@
+@inproceedings{zheng2019deephuman,
+  author       = {Zerong Zheng and
+                  Tao Yu and
+                  Yixuan Wei and
+                  Qionghai Dai and
+                  Yebin Liu},
+  title        = {DeepHuman: 3D Human Reconstruction From a Single Image},
+  booktitle    = {{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages        = {7738--7748},
+  year         = {2019}
+}

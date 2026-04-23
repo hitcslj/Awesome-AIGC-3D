@@ -1,0 +1,7 @@
+@inproceedings{zheng2020structured3d,
+  title={{Structured3D}: A Large Photo-realistic Dataset for Structured {3D} Modeling},
+  author={Zheng, Jia and Zhang, Junfei and Li, Jing and Tang, Rui and Gao, Shenghua and Zhou, Zihan},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={519--535},
+  year={2020}
+}

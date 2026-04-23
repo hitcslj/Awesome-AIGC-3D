@@ -1,0 +1,7 @@
+@inproceedings{fu2024anyhome,
+  title={AnyHome: Open-Vocabulary Generation of Structured and Textured 3D Homes},
+  author={Fu, Rao and Wen, Zehao and Liu, Zichen and Sridhar, Srinath},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={52--70},
+  year={2024}
+}

@@ -1,0 +1,6 @@
+@article{lin2025partcrafter,
+  title={Partcrafter: Structured 3d mesh generation via compositional latent diffusion transformers},
+  author={Lin, Yuchen and Lin, Chenguo and Pan, Panwang and Yan, Honglei and Feng, Yiqiang and Mu, Yadong and Fragkiadaki, Katerina},
+  journal={arXiv preprint arXiv:2506.05573},
+  year={2025}
+}

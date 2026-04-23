@@ -1,0 +1,6 @@
+@article{chen2025hunyuanvideo,
+  title={Hunyuanvideo-avatar: High-fidelity audio-driven human animation for multiple characters},
+  author={Chen, Yi and Liang, Sen and Zhou, Zixiang and Huang, Ziyao and Ma, Yifeng and Tang, Junshu and Lin, Qin and Zhou, Yuan and Lu, Qinglin},
+  journal={arXiv preprint arXiv:2505.20156},
+  year={2025}
+}

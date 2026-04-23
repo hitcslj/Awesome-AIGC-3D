@@ -1,0 +1,1 @@
+@String{QuartApplMath = "Quart. Appl. Math." }

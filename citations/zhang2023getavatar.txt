@@ -1,0 +1,7 @@
+@inproceedings{zhang2023getavatar,
+  title={{GETAvatar}: Generative Textured Meshes for Animatable Human Avatars},
+  author={Zhang, Xuanmeng and Zhang, Jianfeng and Chacko, Rohan and Xu, Hongyi and Song, Guoxian and Yang, Yi and Feng, Jiashi},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={2273--2282},
+  year={2023}
+}

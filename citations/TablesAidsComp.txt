@@ -1,0 +1,1 @@
+@String{TablesAidsComp = "Math. Tables Aids Comput." }

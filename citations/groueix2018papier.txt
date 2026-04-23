@@ -1,0 +1,7 @@
+@inproceedings{groueix2018papier,
+  title={A papier-m{\^a}ch{\'e} approach to learning 3d surface generation},
+  author={Groueix, Thibault and Fisher, Matthew and Kim, Vladimir G and Russell, Bryan C and Aubry, Mathieu},
+  booktitle={{Proceedings of the IEEE conference on computer vision and pattern recognition}},
+  pages={216--224},
+  year={2018}
+}

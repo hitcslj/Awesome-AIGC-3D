@@ -1,0 +1,6 @@
+@article{deng2024citycraft,
+  title={Citycraft: A real crafter for 3d city generation},
+  author={Deng, Jie and Chai, Wenhao and Huang, Junsheng and Zhao, Zhonghan and Huang, Qixuan and Gao, Mingyan and Guo, Jianshu and Hao, Shengyu and Hu, Wenhao and Hwang, Jenq-Neng and others},
+  journal={arXiv preprint arXiv:2406.04983},
+  year={2024}
+}

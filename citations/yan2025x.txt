@@ -1,0 +1,6 @@
+@article{yan2025x,
+  title={X-part: high fidelity and structure coherent shape decomposition},
+  author={Yan, Xinhao and Xu, Jiachen and Li, Yang and Ma, Changfeng and Yang, Yunhan and Wang, Chunshi and Zhao, Zibo and Lai, Zeqiang and Zhao, Yunfei and Chen, Zhuo and others},
+  journal={arXiv preprint arXiv:2509.08643},
+  year={2025}
+}

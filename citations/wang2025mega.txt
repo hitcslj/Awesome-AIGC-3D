@@ -1,0 +1,7 @@
+@inproceedings{wang2025mega,
+  title={Mega: Hybrid mesh-gaussian head avatar for high-fidelity rendering and head editing},
+  author={Wang, Cong and Kang, Di and Sun, Heyi and Qian, Shenhan and Wang, Zixuan and Bao, Linchao and Zhang, Song-Hai},
+  booktitle={{Proceedings of the computer vision and pattern recognition conference}},
+  pages={26274--26284},
+  year={2025}
+}

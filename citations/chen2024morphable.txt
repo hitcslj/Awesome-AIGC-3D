@@ -1,0 +1,7 @@
+@inproceedings{chen2024morphable,
+  title={Morphable Diffusion: 3D-Consistent Diffusion for Single-image Avatar Creation},
+  author={Chen, Xiyi and Mihajlovic, Marko and Wang, Shaofei and Prokudin, Sergey and Tang, Siyu},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={10359--10370},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{luo2023cap3d,
+  title={Scalable {3D} Captioning with Pretrained Models},
+  author={Luo, Tiange and Rockwell, Chris and Lee, Honglak and Johnson, Justin},
+  booktitle={{Advances in Neural Information Processing Systems (NeurIPS)}},
+  volume={36},
+  year={2023}
+}

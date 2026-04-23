@@ -1,0 +1,7 @@
+@inproceedings{cai2022humman,
+  title={Humman: Multi-modal 4d human dataset for versatile sensing and modeling},
+  author={Cai, Zhongang and Ren, Daxuan and Zeng, Ailing and Lin, Zhengyu and Yu, Tao and Wang, Wenjia and Fan, Xiangyu and Gao, Yang and Yu, Yifan and Pan, Liang and others},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={557--577},
+  year={2022}
+}

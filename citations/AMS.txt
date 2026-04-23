@@ -1,0 +1,1 @@
+@String{AMS = "American Mathematical Society" }

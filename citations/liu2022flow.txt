@@ -1,0 +1,9 @@
+@inproceedings{liu2022flow,
+  author       = {Xingchao Liu and
+                  Chengyue Gong and
+                  Qiang Liu},
+  title        = {Flow Straight and Fast: Learning to Generate and Transfer Data with
+                  Rectified Flow},
+  booktitle    = {{International Conference on Learning Representations (ICLR)}},
+  year         = {2023}
+}

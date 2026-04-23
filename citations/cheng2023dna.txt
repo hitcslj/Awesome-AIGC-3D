@@ -1,0 +1,7 @@
+@inproceedings{cheng2023dna,
+  title={Dna-rendering: A diverse neural actor repository for high-fidelity human-centric rendering},
+  author={Cheng, Wei and Chen, Ruixiang and Fan, Siming and Yin, Wanqi and Chen, Keyu and Cai, Zhongang and Wang, Jingbo and Gao, Yang and Yu, Zhengming and Lin, Zhengyu and others},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={19982--19993},
+  year={2023}
+}

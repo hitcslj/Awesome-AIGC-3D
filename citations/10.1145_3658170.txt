@@ -1,0 +1,10 @@
+@article{10.1145/3658170,
+  author = {Zhang, Valeriya and Li, Yanir and Chen, Noa and Cohen-Or, Daniel},
+  title = {DreamMat: High-quality PBR Material Generation with Geometry- and Light-Aware Diffusion Models},
+  year = {2024},
+  journal = {ACM Trans. Graph.},
+  volume = {43},
+  number = {4},
+  articleno = {127},
+  doi = {10.1145/3658170}
+}

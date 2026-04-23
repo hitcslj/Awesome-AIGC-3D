@@ -1,0 +1,7 @@
+@inproceedings{chen2024nc,
+  title={NC-SDF: Enhancing indoor scene reconstruction using neural sdfs with view-dependent normal compensation},
+  author={Chen, Ziyi and Wu, Xiaolong and Zhang, Yu},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5155--5165},
+  year={2024}
+}

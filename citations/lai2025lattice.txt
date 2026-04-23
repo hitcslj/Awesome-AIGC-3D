@@ -1,0 +1,6 @@
+@article{lai2025lattice,
+  title={LATTICE: Democratize High-Fidelity 3D Generation at Scale},
+  author={Lai, Zeqiang and Zhao, Yunfei and Zhao, Zibo and Liu, Haolin and Lin, Qingxiang and Huang, Jingwei and Guo, Chunchao and Yue, Xiangyu},
+  journal={arXiv preprint arXiv:2512.03052},
+  year={2025}
+}

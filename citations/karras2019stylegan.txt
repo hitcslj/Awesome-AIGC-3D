@@ -1,0 +1,7 @@
+@inproceedings{karras2019stylegan,
+  title={A Style-Based Generator Architecture for Generative Adversarial Networks},
+  author={Karras, Tero and Laine, Samuli and Aila, Timo},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={4401--4410},
+  year={2019}
+}

@@ -1,0 +1,15 @@
+@article{gao2019sdm,
+  author       = {Lin Gao and
+                  Jie Yang and
+                  Tong Wu and
+                  Yu{-}Jie Yuan and
+                  Hongbo Fu and
+                  Yu{-}Kun Lai and
+                  Hao Zhang},
+  title        = {{SDM-NET:} deep generative network for structured deformable mesh},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {38},
+  number       = {6},
+  pages        = {243:1--243:15},
+  year         = {2019}
+}

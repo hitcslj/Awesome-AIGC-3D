@@ -1,0 +1,7 @@
+@inproceedings{Maturana2015VoxNet,
+  title={VoxNet: A 3D Convolutional Neural Network for real-time object recognition},
+  author={Maturana, Daniel and Scherer, Sebastian},
+  booktitle={{Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}},
+  pages={922-928},
+  year={2015},
+}

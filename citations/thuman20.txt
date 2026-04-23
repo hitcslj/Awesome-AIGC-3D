@@ -1,0 +1,13 @@
+@inproceedings{thuman20,
+  author       = {Tao Yu and
+                  Zerong Zheng and
+                  Kaiwen Guo and
+                  Pengpeng Liu and
+                  Qionghai Dai and
+                  Yebin Liu},
+  title        = {Function4D: Real-Time Human Volumetric Capture From Very Sparse Consumer
+                  {RGBD} Sensors},
+  booktitle    = {{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages        = {5746--5756},
+  year         = {2021}
+}

@@ -1,0 +1,7 @@
+@inproceedings{li2021hybrik,
+  title={Hybrik: A hybrid analytical-neural inverse kinematics solution for 3d human pose and shape estimation},
+  author={Li, Jiefeng and Xu, Chao and Chen, Zhicun and Bian, Siyuan and Yang, Lixin and Lu, Cewu},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={3383--3393},
+  year={2021}
+}

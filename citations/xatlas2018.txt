@@ -1,0 +1,6 @@
+@misc{xatlas2018,
+  author = {Jonathan Young},
+  title  = {xatlas},
+  year   = {2018},
+  howpublished = {\url{https://github.com/jpcy/xatlas}},
+}

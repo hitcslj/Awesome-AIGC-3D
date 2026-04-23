@@ -1,0 +1,7 @@
+@inproceedings{xiang2025structured,
+  title={Structured 3d latents for scalable and versatile 3d generation},
+  author={Xiang, Jianfeng and Lv, Zelong and Xu, Sicheng and Deng, Yu and Wang, Ruicheng and Zhang, Bowen and Chen, Dong and Tong, Xin and Yang, Jiaolong},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={21469--21480},
+  year={2025}
+}

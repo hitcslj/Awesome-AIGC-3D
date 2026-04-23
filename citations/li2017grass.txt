@@ -1,0 +1,10 @@
+@article{li2017grass,
+  title={Grass: Generative recursive autoencoders for shape structures},
+  author={Li, Jun and Xu, Kai and Chaudhuri, Siddhartha and Yumer, Ersin and Zhang, Hao and Guibas, Leonidas},
+  journal={ACM Trans. Graph.},
+  volume={36},
+  number={4},
+  pages={1--14},
+  year={2017},
+  publisher={ACM New York, NY, USA}
+}

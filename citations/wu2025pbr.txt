@@ -1,0 +1,7 @@
+@inproceedings{wu2025pbr,
+  title={Pbr-nerf: Inverse rendering with physics-based neural fields},
+  author={Wu, Sean and Basu, Shamik and Broedermann, Tim and Van Gool, Luc and Sakaridis, Christos},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={10974--10984},
+  year={2025}
+}

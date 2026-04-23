@@ -1,0 +1,7 @@
+@inproceedings{jiang2023instantavatar,
+  title={InstantAvatar: Learning Avatars From Monocular Video in 60 Seconds},
+  author={Jiang, Tianjian and Chen, Xu and Song, Jie and Hilliges, Otmar},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={16922--16932},
+  year={2023}
+}

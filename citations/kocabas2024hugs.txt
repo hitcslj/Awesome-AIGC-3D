@@ -1,0 +1,7 @@
+@inproceedings{kocabas2024hugs,
+  title={Hugs: Human gaussian splats},
+  author={Kocabas, Muhammed and Chang, Jen-Hao Rick and Gabriel, James and Tuzel, Oncel and Ranjan, Anurag},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={505--515},
+  year={2024}
+}

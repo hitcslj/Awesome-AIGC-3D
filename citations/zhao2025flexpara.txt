@@ -1,0 +1,6 @@
+@article{zhao2025flexpara,
+  title={FlexPara: Flexible Surface Parameterization via Multi-chart Learning},
+  author={Zhao, Qijian and Zhang, Qijian and Ye, Junhui and others},
+  journal={arXiv preprint arXiv:2504.01894},
+  year={2025}
+}

@@ -1,0 +1,7 @@
+@inproceedings{dai2017scannet,
+  title={{ScanNet}: Richly-Annotated {3D} Reconstructions of Indoor Scenes},
+  author={Dai, Angela and Chang, Angel X and Savva, Manolis and Halber, Maciej and Funkhouser, Thomas and Nie{\ss}ner, Matthias},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5828--5839},
+  year={2017}
+}

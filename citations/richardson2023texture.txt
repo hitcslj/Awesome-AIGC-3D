@@ -1,0 +1,7 @@
+@inproceedings{richardson2023texture,
+  title={Texture: Text-guided texturing of 3d shapes},
+  author={Richardson, Elad and Metzer, Gal and Alaluf, Yuval and Giryes, Raja and Cohen-Or, Daniel},
+  booktitle={{ACM SIGGRAPH Conference Proceedings}},
+  pages={1--11},
+  year={2023}
+}

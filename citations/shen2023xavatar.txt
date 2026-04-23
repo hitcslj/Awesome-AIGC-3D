@@ -1,0 +1,7 @@
+@inproceedings{shen2023xavatar,
+  title={X-Avatar: Expressive Human Avatars},
+  author={Shen, Kaiyue and Guo, Chen and Kaufmann, Manuel and Zarate, Juan Jose and Valentin, Julien and Song, Jie and Hilliges, Otmar},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={16911--16921},
+  year={2023}
+}

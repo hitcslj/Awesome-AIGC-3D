@@ -1,0 +1,13 @@
+@inproceedings{han2023headsculpt,
+  author       = {Xiao Han and
+                  Yukang Cao and
+                  Kai Han and
+                  Xiatian Zhu and
+                  Jiankang Deng and
+                  Yi{-}Zhe Song and
+                  Tao Xiang and
+                  Kwan{-}Yee K. Wong},
+  title        = {HeadSculpt: Crafting 3D Head Avatars with Text},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year         = {2023}
+}

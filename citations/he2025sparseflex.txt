@@ -1,0 +1,7 @@
+@inproceedings{he2025sparseflex,
+  title={Sparseflex: High-resolution and arbitrary-topology 3d shape modeling},
+  author={He, Xianglong and Zou, Zi-Xin and Chen, Chia-Hao and Guo, Yuan-Chen and Liang, Ding and Yuan, Chun and Ouyang, Wanli and Cao, Yan-Pei and Li, Yangguang},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={14822--14833},
+  year={2025}
+}

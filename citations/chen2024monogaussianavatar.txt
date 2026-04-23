@@ -1,0 +1,7 @@
+@inproceedings{chen2024monogaussianavatar,
+  title={Monogaussianavatar: Monocular gaussian point-based head avatar},
+  author={Chen, Yufan and Wang, Lizhen and Li, Qijing and Xiao, Hongjiang and Zhang, Shengping and Yao, Hongxun and Liu, Yebin},
+  booktitle={{ACM SIGGRAPH Conference Proceedings}},
+  pages={1--9},
+  year={2024}
+}

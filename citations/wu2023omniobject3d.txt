@@ -1,0 +1,7 @@
+@inproceedings{wu2023omniobject3d,
+  title={{OmniObject3D}: Large-Vocabulary {3D} Object Dataset for Realistic Perception, Reconstruction and Generation},
+  author={Wu, Tong and Zhang, Jiarui and Fu, Xiao and Wang, Yuxin and Ren, Jiawei and Pan, Liang and Wu, Wayne and Yang, Lei and Wang, Jiaqi and Qian, Chen and others},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={803--814},
+  year={2023}
+}

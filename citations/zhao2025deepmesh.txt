@@ -1,0 +1,7 @@
+@inproceedings{zhao2025deepmesh,
+  title={Deepmesh: Auto-regressive artist-mesh creation with reinforcement learning},
+  author={Zhao, Ruowen and Ye, Junliang and Wang, Zhengyi and Liu, Guangce and Chen, Yiwen and Wang, Yikai and Zhu, Jun},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={10612--10623},
+  year={2025}
+}

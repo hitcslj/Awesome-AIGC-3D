@@ -1,0 +1,6 @@
+@inproceedings{Zhirong15CVPR,
+    	Author = {Z. Wu and S. Song and A. Khosla and F. Yu and L. Zhang and X. Tang and J. Xiao},
+    	Title = {3D ShapeNets: A Deep Representation for Volumetric Shapes},
+    	Booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+    	Year = {2015}
+}

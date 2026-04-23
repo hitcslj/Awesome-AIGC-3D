@@ -1,0 +1,7 @@
+@inproceedings{yi2023mime,
+  title={Mime: Human-aware 3d scene generation},
+  author={Yi, Hongwei and Huang, Chun-Hao P and Tripathi, Shashank and Hering, Lea and Thies, Justus and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={12965--12976},
+  year={2023}
+}

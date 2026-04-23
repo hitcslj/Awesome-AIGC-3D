@@ -1,0 +1,7 @@
+@inproceedings{choutas2020monocular,
+  title={Monocular expressive body regression through body-driven attention},
+  author={Choutas, Vasileios and Pavlakos, Georgios and Bolkart, Timo and Tzionas, Dimitrios and Black, Michael J},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={20--40},
+  year={2020}
+}

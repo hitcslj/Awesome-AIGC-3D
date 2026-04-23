@@ -1,0 +1,16 @@
+@inproceedings{chen2024meshanything,
+  author       = {Yiwen Chen and
+                  Tong He and
+                  Di Huang and
+                  Weicai Ye and
+                  Sijin Chen and
+                  Jiaxiang Tang and
+                  Zhongang Cai and
+                  Lei Yang and
+                  Gang Yu and
+                  Guosheng Lin and
+                  Chi Zhang},
+  title        = {MeshAnything: Artist-Created Mesh Generation with Autoregressive Transformers},
+  booktitle    = {{International Conference on Learning Representations (ICLR)}},
+  year         = {2025}
+}

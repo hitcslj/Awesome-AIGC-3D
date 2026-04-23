@@ -1,0 +1,7 @@
+@inproceedings{yeshwanth2023scannetpp,
+  title={{ScanNet++}: A High-Fidelity Dataset of {3D} Indoor Scenes},
+  author={Yeshwanth, Chandan and Liu, Yueh-Cheng and Nie{\ss}ner, Matthias and Dai, Angela},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={12--22},
+  year={2023}
+}

@@ -1,0 +1,12 @@
+@article{yu2025gamefactory,
+  author       = {Jiwen Yu and
+                  Yiran Qin and
+                  Xintao Wang and
+                  Pengfei Wan and
+                  Di Zhang and
+                  Xihui Liu},
+  title        = {GameFactory: Creating New Games with Generative Interactive Videos},
+  journal      = {CoRR},
+  volume       = {abs/2501.08325},
+  year         = {2025}
+}

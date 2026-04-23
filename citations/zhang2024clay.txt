@@ -1,0 +1,10 @@
+@article{zhang2024clay,
+  title={Clay: A controllable large-scale generative model for creating high-quality 3d assets},
+  author={Zhang, Longwen and Wang, Ziyu and Zhang, Qixuan and Qiu, Qiwei and Pang, Anqi and Jiang, Haoran and Yang, Wei and Xu, Lan and Yu, Jingyi},
+  journal={ACM Trans. Graph.},
+  volume={43},
+  number={4},
+  pages={1--20},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}

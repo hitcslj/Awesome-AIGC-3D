@@ -1,0 +1,1 @@
+@String{ProcAMS = "Proc. Amer. Math. Soc." }

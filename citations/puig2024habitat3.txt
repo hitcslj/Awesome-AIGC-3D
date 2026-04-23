@@ -1,0 +1,6 @@
+@inproceedings{puig2024habitat3,
+  title={Habitat 3.0: A Co-Habitat for Humans, Avatars and Robots},
+  author={Puig, Xavier and Undersander, Eric and Szot, Andrew and Cote, Mikael Dallaire and Yang, Tsung-Yen and Partsey, Ruslan and Desai, Ruta and Clegg, Alexander William and Hlavac, Michal and Min, So Yeon and others},
+  booktitle={{International Conference on Learning Representations (ICLR)}},
+  year={2024}
+}

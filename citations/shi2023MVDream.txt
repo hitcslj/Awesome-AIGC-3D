@@ -1,0 +1,11 @@
+@inproceedings{shi2023MVDream,
+  author       = {Yichun Shi and
+                  Peng Wang and
+                  Jianglong Ye and
+                  Long Mai and
+                  Kejie Li and
+                  Xiao Yang},
+  title        = {MVDream: Multi-view Diffusion for 3D Generation},
+  booktitle    = {{International Conference on Learning Representations (ICLR)}},
+  year         = {2024}
+}

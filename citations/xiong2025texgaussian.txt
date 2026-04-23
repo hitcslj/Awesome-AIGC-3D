@@ -1,0 +1,6 @@
+@article{xiong2025texgaussian,
+  title={TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting},
+  author={Xiong, Bojun and Liu, Jian and Hu, Wei and Guo, Chunchao},
+  journal={arXiv preprint arXiv:2411.19654},
+  year={2025}
+}

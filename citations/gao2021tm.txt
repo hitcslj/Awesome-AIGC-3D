@@ -1,0 +1,14 @@
+@article{gao2021tm,
+  author       = {Lin Gao and
+                  Tong Wu and
+                  Yu{-}Jie Yuan and
+                  Ming{-}Xian Lin and
+                  Yu{-}Kun Lai and
+                  Hao (Richard) Zhang},
+  title        = {{TM-NET:} deep generative networks for textured meshes},
+  journal      = {{ACM} Trans. Graph.},
+  volume       = {40},
+  number       = {6},
+  pages        = {263:1--263:15},
+  year         = {2021}
+}

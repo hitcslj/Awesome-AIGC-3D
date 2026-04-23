@@ -1,0 +1,6 @@
+@article{zhang2025motionplus,
+  title={Motion-x++: A large-scale multimodal 3d whole-body human motion dataset},
+  author={Zhang, Yuhong and Lin, Jing and Zeng, Ailing and Wu, Guanlin and Lu, Shunlin and Fu, Yurong and Cai, Yuanhao and Zhang, Ruimao and Wang, Haoqian and Zhang, Lei},
+  journal={arXiv preprint arXiv:2501.05098},
+  year={2025}
+}

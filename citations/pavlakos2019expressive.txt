@@ -1,0 +1,7 @@
+@inproceedings{pavlakos2019expressive,
+  title={Expressive body capture: 3d hands, face, and body from a single image},
+  author={Pavlakos, Georgios and Choutas, Vasileios and Ghorbani, Nima and Bolkart, Timo and Osman, Ahmed AA and Tzionas, Dimitrios and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={10975--10985},
+  year={2019}
+}

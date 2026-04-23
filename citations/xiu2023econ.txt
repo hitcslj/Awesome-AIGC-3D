@@ -1,0 +1,7 @@
+@inproceedings{xiu2023econ,
+  title={Econ: Explicit clothed humans optimized via normal integration},
+  author={Xiu, Yuliang and Yang, Jinlong and Cao, Xu and Tzionas, Dimitrios and Black, Michael J},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={512--523},
+  year={2023}
+}

@@ -1,0 +1,10 @@
+@article{li2017flame,
+  title={Learning a Model of Facial Shape and Expression from {4D} Scans},
+  author={Li, Tianye and Bolkart, Timo and Black, Michael J and Li, Hao and Romero, Javier},
+  journal={ACM Trans. Graph.},
+  volume={36},
+  number={6},
+  pages={194:1--194:17},
+  year={2017},
+  publisher={ACM}
+}

@@ -1,0 +1,10 @@
+@article{wu2024blockfusion,
+  title={Blockfusion: Expandable 3d scene generation using latent tri-plane extrapolation},
+  author={Wu, Zhennan and Li, Yang and Yan, Han and Shang, Taizhang and Sun, Weixuan and Wang, Senbo and Cui, Ruikai and Liu, Weizhe and Sato, Hiroyuki and Li, Hongdong and others},
+  journal={ACM Trans. Graph.},
+  volume={43},
+  number={4},
+  pages={1--17},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}

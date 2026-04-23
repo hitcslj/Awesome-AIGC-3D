@@ -1,0 +1,7 @@
+@inproceedings{guo2022humanml3d,
+  title={Generating Diverse and Natural 3D Human Motions From Text},
+  author={Guo, Chuan and Zou, Shihao and Zuo, Xinxin and Wang, Sen and Ji, Wei and Li, Xingyu and Cheng, Li},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={5152--5161},
+  year={2022}
+}

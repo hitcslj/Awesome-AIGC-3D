@@ -1,0 +1,7 @@
+@inproceedings{he2025lam,
+  title={LAM: large avatar model for one-shot animatable gaussian head},
+  author={He, Yisheng and Gu, Xiaodong and Ye, Xiaodan and Xu, Chao and Zhao, Zhengyi and Dong, Yuan and Yuan, Weihao and Dong, Zilong and Bo, Liefeng},
+  booktitle={{Proceedings of the Special Interest Group on Computer Graphics and Interactive Techniques Conference Conference Papers}},
+  pages={1--13},
+  year={2025}
+}

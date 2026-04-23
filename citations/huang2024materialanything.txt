@@ -1,0 +1,6 @@
+@article{huang2024materialanything,
+  title={Material Anything: Generating Materials for Any 3D Object via Diffusion},
+  author={Huang, Xin and Xu, Tengfei and Liu, Haian and others},
+  journal={arXiv preprint arXiv:2411.15138},
+  year={2024}
+}

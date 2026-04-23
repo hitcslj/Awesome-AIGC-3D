@@ -1,0 +1,6 @@
+@article{siddiqui2024assetgen,
+  title={Meta 3D AssetGen: Text-to-Mesh Generation with High-Quality Geometry, Texture, and PBR Materials},
+  author={Siddiqui, Yawar and Alliegro, Antonio and Artemov, Alexey and Tommasi, Tatiana and others},
+  journal={arXiv preprint arXiv:2407.02445},
+  year={2024}
+}

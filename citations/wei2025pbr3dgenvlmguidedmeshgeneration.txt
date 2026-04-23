@@ -1,0 +1,6 @@
+@article{wei2025pbr3dgenvlmguidedmeshgeneration,
+  title={PBR3DGen: VLM-Guided PBR Material Generation for Arbitrary 3D Meshes},
+  author={Wei, Tianhao and others},
+  journal={arXiv preprint arXiv:2504.12836},
+  year={2025}
+}

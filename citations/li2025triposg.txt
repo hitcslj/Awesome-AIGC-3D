@@ -1,0 +1,9 @@
+@misc{li2025triposg,
+      title={TripoSG: High-Fidelity 3D Shape Synthesis using Large-Scale Rectified Flow Models}, 
+      author={Yangguang Li and Zi-Xin Zou and Zexiang Liu and Dehu Wang and Yuan Liang and Zhipeng Yu and Xingchao Liu and Yuan-Chen Guo and Ding Liang and Wanli Ouyang and Yan-Pei Cao},
+      year={2025},
+      eprint={2502.06608},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.06608}, 
+}

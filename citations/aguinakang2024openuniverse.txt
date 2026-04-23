@@ -1,0 +1,6 @@
+@article{aguinakang2024openuniverse,
+  title={Open-Universe Indoor Scene Generation using LLM Program Synthesis and Uncurated Object Databases},
+  author={Aguina-Kang, Rio and Gumin, Maxim and Han, Do Heon and Morris, Stewart and Yoo, Seung Jean and Ganeshan, Aditya and Jones, R. Kenny and Wei, Qiuhong Anna and Fu, Kailiang and Ritchie, Daniel},
+  journal={arXiv preprint arXiv:2403.09675},
+  year={2024}
+}

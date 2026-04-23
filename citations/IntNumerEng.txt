@@ -1,0 +1,1 @@
+@String{IntNumerEng = "Internat. J. Numer. Methods Engrg." }

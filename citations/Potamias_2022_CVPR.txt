@@ -1,0 +1,7 @@
+@InProceedings{Potamias_2022_CVPR,
+    author    = {Potamias, Rolandos Alexandros and Ploumpis, Stylianos and Zafeiriou, Stefanos},
+    title     = {Neural Mesh Simplification},
+    booktitle = {{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+    year      = {2022},
+    pages     = {18583-18592}
+}

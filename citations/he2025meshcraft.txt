@@ -1,0 +1,6 @@
+@article{he2025meshcraft,
+  title={Meshcraft: Exploring efficient and controllable mesh generation with flow-based dits},
+  author={He, Xianglong and Chen, Junyi and Huang, Di and Liu, Zexiang and Huang, Xiaoshui and Ouyang, Wanli and Yuan, Chun and Li, Yangguang},
+  journal={arXiv preprint arXiv:2503.23022},
+  year={2025}
+}

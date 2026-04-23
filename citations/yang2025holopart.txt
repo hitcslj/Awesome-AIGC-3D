@@ -1,0 +1,6 @@
+@article{yang2025holopart,
+  title={Holopart: Generative 3d part amodal segmentation},
+  author={Yang, Yunhan and Guo, Yuan-Chen and Huang, Yukun and Zou, Zi-Xin and Yu, Zhipeng and Li, Yangguang and Cao, Yan-Pei and Liu, Xihui},
+  journal={arXiv preprint arXiv:2504.07943},
+  year={2025}
+}

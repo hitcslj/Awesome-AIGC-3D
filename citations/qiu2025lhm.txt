@@ -1,0 +1,7 @@
+@inproceedings{qiu2025lhm,
+  title={LHM: Large Animatable Human Reconstruction Model for Single Image to 3D in Seconds},
+  author={Qiu, Lingteng and Gu, Xiaodong and Li, Peihao and Zuo, Qi and Shen, Weichao and Zhang, Junfei and Qiu, Kejie and Yuan, Weihao and Chen, Guanying and Dong, Zilong and others},
+  booktitle={{Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)}},
+  pages={14184--14194},
+  year={2025}
+}

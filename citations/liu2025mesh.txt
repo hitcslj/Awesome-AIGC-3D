@@ -1,0 +1,6 @@
+@article{liu2025mesh,
+  title={Mesh-rft: Enhancing mesh generation via fine-grained reinforcement fine-tuning},
+  author={Liu, Jian and Xu, Jing and Guo, Song and Li, Jing and Guo, Jingfeng and Yu, Jiaao and Weng, Haohan and Lei, Biwen and Yang, Xianghui and Chen, Zhuo and others},
+  journal={arXiv preprint arXiv:2505.16761},
+  year={2025}
+}

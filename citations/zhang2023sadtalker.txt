@@ -1,0 +1,7 @@
+@inproceedings{zhang2023sadtalker,
+  title={{SadTalker}: Learning Realistic {3D} Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation},
+  author={Zhang, Wenxuan and Cun, Xiaodong and Wang, Xuan and Zhang, Yong and Shen, Xi and Guo, Yu and Shan, Ying and Wang, Fei},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={8652--8661},
+  year={2023}
+}

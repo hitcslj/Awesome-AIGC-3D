@@ -1,0 +1,6 @@
+@inproceedings{ramakrishnan2021hm3d,
+  title={Habitat-{M}atterport {3D} Dataset ({HM3D}): 1000 Large-Scale Environments for Embodied {AI}},
+  author={Ramakrishnan, Santhosh K and Gokaslan, Aaron and Wijmans, Erik and Maksymets, Oleksandr and Clegg, Alexander and Turner, John and Undersander, Eric and Galuba, Wojciech and Westbury, Andrew and Chang, Angel X and others},
+  booktitle={{Advances in Neural Information Processing Systems (NeurIPS)}},
+  year={2021}
+}

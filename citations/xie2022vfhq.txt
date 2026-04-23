@@ -1,0 +1,11 @@
+@inproceedings{xie2022vfhq,
+  author       = {Liangbin Xie and
+                  Xintao Wang and
+                  Honglun Zhang and
+                  Chao Dong and
+                  Ying Shan},
+  title        = {{VFHQ:} {A} High-Quality Dataset and Benchmark for Video Face Super-Resolution},
+  booktitle    = {{IEEE/CVF CVPR Workshops}},
+  pages        = {656--665},
+  year         = {2022}
+}

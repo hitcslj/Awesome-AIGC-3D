@@ -1,0 +1,10 @@
+@article{dong2025neurcross,
+  title={NeurCross: A Neural Approach to Computing Cross Fields for Quad Mesh Generation},
+  author={Dong, Qiujie and Wen, Huibiao and Xu, Rui and Chen, Shuangmin and Zhou, Jiaran and Xin, Shiqing and Tu, Changhe and Komura, Taku and Wang, Wenping},
+  journal={ACM Trans. Graph.},
+  volume={44},
+  number={4},
+  pages={1--17},
+  year={2025},
+  publisher={ACM New York, NY, USA}
+}

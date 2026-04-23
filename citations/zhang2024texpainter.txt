@@ -1,0 +1,6 @@
+@article{zhang2024texpainter,
+  title={TexPainter: Generative Mesh Texturing with Multi-view Consistency},
+  author={Zhang, Hongkun and Li, Zherong and Pan, Hao and Wang, Peng-Shuai},
+  journal={arXiv preprint arXiv:2406.18539},
+  year={2024}
+}

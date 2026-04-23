@@ -1,0 +1,7 @@
+@inproceedings{shao2024splattingavatar,
+  title={Splattingavatar: Realistic real-time human avatars with mesh-embedded gaussian splatting},
+  author={Shao, Zhijing and Wang, Zhaolong and Li, Zhuang and Wang, Duotun and Lin, Xiangru and Zhang, Yu and Fan, Mingming and Wang, Zeyu},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={1606--1616},
+  year={2024}
+}

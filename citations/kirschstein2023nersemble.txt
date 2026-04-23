@@ -1,0 +1,10 @@
+@article{kirschstein2023nersemble,
+  title={{NeRSemble}: Multi-View Radiance Field Reconstruction of Human Heads},
+  author={Kirschstein, Tobias and Qian, Shenhan and Giebenhain, Simon and Walter, Tim and Nie{\ss}ner, Matthias},
+  journal={ACM Trans. Graph.},
+  volume={42},
+  number={4},
+  pages={1--14},
+  year={2023},
+  publisher={ACM}
+}

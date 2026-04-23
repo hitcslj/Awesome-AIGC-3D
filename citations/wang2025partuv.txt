@@ -1,0 +1,6 @@
+@article{wang2025partuv,
+  title={PartUV: Generating Semantically-Aligned UV Maps from Single Image},
+  author={Wang, Ruicheng and Xiang, Jianfeng and Xu, Sicheng and Yang, Jiaolong},
+  journal={arXiv preprint arXiv:2506.04173},
+  year={2025}
+}

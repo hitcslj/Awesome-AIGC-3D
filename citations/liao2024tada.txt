@@ -1,0 +1,7 @@
+@inproceedings{liao2024tada,
+  title={Tada! text to animatable digital avatars},
+  author={Liao, Tingting and Yi, Hongwei and Xiu, Yuliang and Tang, Jiaxiang and Huang, Yangyi and Thies, Justus and Black, Michael J},
+  booktitle={{Proceedings of the International Conference on 3D Vision (3DV)}},
+  pages={1508--1519},
+  year={2024}
+}

@@ -1,0 +1,7 @@
+@inproceedings{nagrani2017voxceleb,
+  title={{VoxCeleb}: A Large-Scale Speaker Identification Dataset},
+  author={Nagrani, Arsha and Chung, Joon Son and Zisserman, Andrew},
+  booktitle={{Proceedings of Interspeech 2017}},
+  pages={2616--2620},
+  year={2017}
+}

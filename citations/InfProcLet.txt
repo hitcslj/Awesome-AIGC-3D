@@ -1,0 +1,1 @@
+@String{InfProcLet = "Inform. Process. Lett." }

@@ -1,0 +1,7 @@
+@inproceedings{he2022celebvhq,
+  title={{CelebV-HQ}: A Large-Scale Video Facial Attributes Dataset},
+  author={He, Hao and Li, Yunzhe and Pan, Tiancheng and Liu, Zicheng and Chen, Yue and Lin, Dahua and Wang, Yaohui and Qiao, Yu},
+  booktitle={{European Conference on Computer Vision (ECCV)}},
+  pages={650--667},
+  year={2022}
+}

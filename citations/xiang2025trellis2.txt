@@ -1,0 +1,17 @@
+@article{xiang2025trellis2,
+  author       = {Jianfeng Xiang and
+                  Xiaoxue Chen and
+                  Sicheng Xu and
+                  Ruicheng Wang and
+                  Zelong Lv and
+                  Yu Deng and
+                  Hongyuan Zhu and
+                  Yue Dong and
+                  Hao Zhao and
+                  Nicholas Jing Yuan and
+                  Jiaolong Yang},
+  title        = {Native and Compact Structured Latents for 3D Generation},
+  journal      = {CoRR},
+  volume       = {abs/2512.14692},
+  year         = {2025}
+}

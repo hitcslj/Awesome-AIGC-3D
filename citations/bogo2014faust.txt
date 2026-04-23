@@ -1,0 +1,7 @@
+@inproceedings{bogo2014faust,
+  title={FAUST: Dataset and Evaluation for 3D Mesh Registration},
+  author={Bogo, Federica and Romero, Javier and Loper, Matthew and Black, Michael J.},
+  booktitle={{Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition}},
+  pages={3794--3801},
+  year={2014}
+}

@@ -1,0 +1,7 @@
+@inproceedings{corona2021smplicit,
+  title={Smplicit: Topology-aware generative model for clothed people},
+  author={Corona, Enric and Pumarola, Albert and Alenya, Guillem and Pons-Moll, Gerard and Moreno-Noguer, Francesc},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={11875--11885},
+  year={2021}
+}

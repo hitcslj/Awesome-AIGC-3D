@@ -1,0 +1,12 @@
+@inproceedings{paschalidou2021atiss,
+  author       = {Despoina Paschalidou and
+                  Amlan Kar and
+                  Maria Shugrina and
+                  Karsten Kreis and
+                  Andreas Geiger and
+                  Sanja Fidler},
+  title        = {{ATISS:} Autoregressive Transformers for Indoor Scene Synthesis},
+  booktitle    = {{Advances in Neural Information Processing Systems (NeurIPS)}},
+  pages        = {12013--12026},
+  year         = {2021}
+}

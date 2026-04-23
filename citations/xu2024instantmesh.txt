@@ -1,0 +1,6 @@
+@article{xu2024instantmesh,
+  title={Instantmesh: Efficient 3d mesh generation from a single image with sparse-view large reconstruction models},
+  author={Xu, Jiale and Cheng, Weihao and Gao, Yiming and Wang, Xintao and Gao, Shenghua and Shan, Ying},
+  journal={arXiv preprint arXiv:2404.07191},
+  year={2024}
+}

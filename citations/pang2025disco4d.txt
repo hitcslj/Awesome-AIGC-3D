@@ -1,0 +1,7 @@
+@inproceedings{pang2025disco4d,
+  title={Disco4D: Disentangled 4D Human Generation and Animation from a Single Image},
+  author={Pang, Hui En and Liu, Shuai and Cai, Zhongang and Yang, Lei and Zhang, Tianwei and Liu, Ziwei},
+  booktitle={{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)}},
+  pages={26331--26344},
+  year={2025}
+}
