@@ -1,17 +1,25 @@
 # From Visual Synthesis to Interactive Worlds <br> A Survey of Production-Ready 3D Generation
 
 <p align="center">
+  <a href="https://arxiv.org/abs/2026.xxxxx"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg"></a>
+  <a href="https://dl.acm.org/"><img alt="ACM CSUR" src="https://img.shields.io/badge/ACM-Computing%20Surveys-blue"></a>
+  <a href="https://christinebobby.github.io/production-ready-3d-survey/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-green"></a>
+  <a href="https://github.com/hitcslj/Awesome-AIGC-3D"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hitcslj/Awesome-AIGC-3D?style=social"></a>
+  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
+</p>
+
+<p align="center">
   <strong>Jiafeng Wu</strong><sup>1,2*†</sup> &nbsp;·&nbsp;
   <strong>Zhuofan Lou</strong><sup>1,3*†</sup> &nbsp;·&nbsp;
-  <strong>Jian Liu</strong><sup>1‡</sup> &nbsp;·&nbsp;
-  <strong>Chunchao Guo</strong><sup>4</sup><br>
+  <strong>Jian Liu</strong><sup>1‡</sup><br>
+  <strong>Chunchao Guo</strong><sup>4</sup> &nbsp;·&nbsp;
   <strong>Dazhao Du</strong><sup>1</sup> &nbsp;·&nbsp;
   <strong>Song Guo</strong><sup>1✉</sup>
 </p>
 
 <p align="center">
-  <strong><sup>1</sup> The Hong Kong University of Science and Technology</strong> &nbsp;·&nbsp;
-  <strong><sup>2</sup> Huazhong University of Science and Technology</strong><br>
+  <strong><sup>1</sup> The Hong Kong University of Science and Technology</strong><br>
+  <strong><sup>2</sup> Huazhong University of Science and Technology</strong> &nbsp;·&nbsp;
   <strong><sup>3</sup> Sichuan University</strong> &nbsp;·&nbsp;
   <strong><sup>4</sup> Tencent</strong>
 </p>
@@ -21,15 +29,8 @@
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2026.xxxxx"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg"></a>
-  <a href="https://dl.acm.org/"><img alt="ACM CSUR" src="https://img.shields.io/badge/ACM-Computing%20Surveys-blue"></a>
-  <a href="https://christinebobby.github.io/production-ready-3d-survey/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-green"></a>
-  <a href="https://github.com/hitcslj/Awesome-AIGC-3D"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hitcslj/Awesome-AIGC-3D?style=social"></a>
-  <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
-</p>
-
-<p align="center">
-  <em>Pipeline-first survey companion for production-ready 3D generation in interactive worlds.</em>
+  <strong>✦ Pipeline-first survey companion ✦</strong><br>
+  <em>for production-ready 3D generation in interactive worlds</em>
 </p>
 
 <p align="center">
@@ -57,10 +58,10 @@ Three-dimensional content generation has progressed from producing isolated, vis
 
 > **At a Glance**
 >
-> 🧭 Organized by a production-ready, pipeline-first taxonomy rather than isolated algorithm families.
-> 📦 Covers three asset tiers: general objects, characters and avatars, and scenes and environments.
-> 🛠 Tracks the full asset workflow from data foundations through geometry, topology, UV/PBR appearance, rigging, and scene assembly.
-> 📚 Consolidates methods, datasets, evaluation criteria, and industry references in one companion list.
+> - 🧭 Organized by a production-ready, pipeline-first taxonomy rather than isolated algorithm families.
+> - 📦 Covers three asset tiers: general objects, characters and avatars, and scenes and environments.
+> - 🛠 Tracks the full asset workflow from data foundations through geometry, topology, UV/PBR appearance, rigging, and scene assembly.
+> - 📚 Consolidates methods, datasets, evaluation criteria, and industry references in one companion list.
 
 ---
 
