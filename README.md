@@ -59,7 +59,7 @@ Three-dimensional content generation has progressed from producing isolated, vis
 >
 > - 🧭 Organized by a production-ready, pipeline-first taxonomy rather than isolated algorithm families.
 > - 📦 Covers three asset tiers: general objects, characters and avatars, and scenes and environments.
-> - 🛠 Tracks the full asset workflow from data foundations through geometry, topology, UV/PBR appearance, rigging, and scene assembly.
+> - 🛠 Tracks the full asset workflow from data foundations through geometry, topology, appearance, rigging, and scene assembly.
 > - 📚 Consolidates methods, datasets, evaluation criteria, and industry references in one companion list.
 
 ---
@@ -103,7 +103,7 @@ Three-dimensional content generation has progressed from producing isolated, vis
 The survey is organized around a **two-dimensional taxonomy**:
 
 - **Horizontal axis (asset types):** General Objects, Characters & Avatars, Scenes & Environments
-- **Vertical axis (pipeline stages):** Data Foundations &rarr; Geometry &rarr; Topology &rarr; UV &rarr; PBR Materials &rarr; Rigging &rarr; Scene Assembly
+- **Vertical axis (pipeline stages):** Data Foundations &rarr; Geometry &rarr; Topology &rarr; Appearance &rarr; Rigging &rarr; Scene Assembly
 
 This structure mirrors the production pipeline used in game engines and interactive applications, enabling direct assessment of where each method fits within a deployment workflow.
 
