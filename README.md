@@ -29,8 +29,7 @@
 </p>
 
 <p align="center">
-  <strong>✦ Pipeline-first survey companion ✦</strong><br>
-  <em>for production-ready 3D generation in interactive worlds</em>
+  <strong>✦ Production-Oriented 3D Generation Survey ✦</strong><br>
 </p>
 
 <p align="center">
