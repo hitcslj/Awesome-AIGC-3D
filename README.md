@@ -48,7 +48,7 @@
 
 ## News
 
-- 🔥 **[2026-04]** v2.0: Introduces a production-ready two-dimensional taxonomy spanning asset tiers and pipeline stages, and expands the collection to data foundations, geometry, topology, UV/PBR appearance, rigging, scene assembly, evaluation, and industry systems.
+- 🔥 **[2026-04]** v2.0: Introduces a production-ready two-dimensional taxonomy spanning asset tiers and pipeline stages, and expands the collection to data foundations, geometry, topology, appearance, rigging, scene assembly, evaluation, and industry systems.
 - 📚 **[2025-08]** v1.0: Established the initial curated 3D AIGC paper collection, organized object, scene, and avatar methods under 3D-native, 2D-prior, and hybrid paradigms, and tracked surveys, datasets, talks, companies, and implementations.
 
 ## Abstract
