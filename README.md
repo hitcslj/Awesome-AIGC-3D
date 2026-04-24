@@ -1,21 +1,23 @@
 # From Visual Synthesis to Interactive Worlds <br> A Survey of Production-Ready 3D Generation
 
 <p align="center">
-  Jiafeng Wu<sup>1,2*</sup><sup>†</sup>, Zhuofan Lou<sup>1,3*</sup><sup>†</sup>, Jian Liu<sup>1‡</sup>, Chunchao Guo<sup>4</sup>, Dazhao Du<sup>1</sup>, Song Guo<sup>1✉</sup>
+  <strong>Jiafeng Wu</strong><sup>1,2*†</sup> &nbsp;·&nbsp;
+  <strong>Zhuofan Lou</strong><sup>1,3*†</sup> &nbsp;·&nbsp;
+  <strong>Jian Liu</strong><sup>1‡</sup> &nbsp;·&nbsp;
+  <strong>Chunchao Guo</strong><sup>4</sup><br>
+  <strong>Dazhao Du</strong><sup>1</sup> &nbsp;·&nbsp;
+  <strong>Song Guo</strong><sup>1✉</sup>
 </p>
 
 <p align="center">
-  <sup>1</sup> The Hong Kong University of Science and Technology &middot;
-  <sup>2</sup> Huazhong University of Science and Technology &middot;
-  <sup>3</sup> Sichuan University &middot;
-  <sup>4</sup> Tencent
+  <strong><sup>1</sup> The Hong Kong University of Science and Technology</strong> &nbsp;·&nbsp;
+  <strong><sup>2</sup> Huazhong University of Science and Technology</strong><br>
+  <strong><sup>3</sup> Sichuan University</strong> &nbsp;·&nbsp;
+  <strong><sup>4</sup> Tencent</strong>
 </p>
 
 <p align="center">
-  <sup>*</sup> Equal contribution.
-  <sup>†</sup> Work done during internship at HKUST.
-  <sup>‡</sup> Project lead.
-  <sup>✉</sup> Corresponding author.
+  <em><strong>*</strong> Equal contribution &nbsp;·&nbsp; <strong>†</strong> Work done during internship at HKUST &nbsp;·&nbsp; <strong>‡</strong> Project lead &nbsp;·&nbsp; <strong>✉</strong> Corresponding author</em>
 </p>
 
 <p align="center">
