@@ -14,7 +14,7 @@
   <strong>Jian Liu</strong><sup>1‡</sup><br>
   <strong>Chunchao Guo</strong><sup>4</sup> &nbsp;·&nbsp;
   <strong>Dazhao Du</strong><sup>1</sup> &nbsp;·&nbsp;
-  <strong>Song Guo</strong><sup>1✉</sup>
+  <strong>Song Guo</strong><sup>1§</sup>
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <em><strong>*</strong> Equal contribution &nbsp;·&nbsp; <strong>†</strong> Work done during internship at HKUST &nbsp;·&nbsp; <strong>‡</strong> Project lead &nbsp;·&nbsp; <strong>✉</strong> Corresponding author</em>
+  <em><strong>*</strong> Equal contribution &nbsp;·&nbsp; <strong>†</strong> Work done during internship at HKUST &nbsp;·&nbsp; <strong>‡</strong> Project lead &nbsp;·&nbsp; <strong>§</strong> Corresponding author</em>
 </p>
 
 <p align="center">
