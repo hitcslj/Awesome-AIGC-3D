@@ -9,21 +9,12 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
-  <strong>Jiafeng Wu</strong><sup>1,2*†</sup> &nbsp;·&nbsp;
-  <strong>Zhuofan Lou</strong><sup>1,3*†</sup> &nbsp;·&nbsp;
-  <strong>Jian Liu</strong><sup>1‡</sup><br>
-  <strong>Chunchao Guo</strong><sup>4</sup> &nbsp;·&nbsp;
-  <strong>Dazhao Du</strong><sup>1</sup> &nbsp;·&nbsp;
-  <strong>Song Guo</strong><sup>1§</sup>
-=======
   <a href="https://github.com/ChristineBobby"><strong>Jiafeng Wu</strong></a><sup>1,2*†</sup> &nbsp;·&nbsp;
   <a href="https://github.com/ZhuofanLou"><strong>Zhuofan Lou</strong></a><sup>1,3*†</sup> &nbsp;·&nbsp;
   <a href="https://hitcslj.github.io/"><strong>Jian Liu</strong></a><sup>1‡</sup><br>
   <a href="https://www.researchgate.net/scientific-contributions/Chunchao-Guo-2292911630"><strong>Chunchao Guo</strong></a><sup>4</sup> &nbsp;·&nbsp;
   <a href="https://ddz16.github.io/"><strong>Dazhao Du</strong></a><sup>1</sup> &nbsp;·&nbsp;
   <a href="https://cse.hkust.edu.hk/~songguo/"><strong>Song Guo</strong></a><sup>1§</sup>
->>>>>>> 33b8a57 (update)
 </p>
 
 <p align="center">
