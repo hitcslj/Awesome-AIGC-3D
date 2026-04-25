@@ -1,4 +1,4 @@
-# From Visual Synthesis to Interactive Worlds <br> A Survey of Production-Ready 3D Generation
+# From Visual Synthesis to Interactive Worlds <br> Toward Production-Ready 3D Generation
 
 <p align="center">
   <a href="https://arxiv.org/abs/2026.xxxxx"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg"></a>
@@ -525,7 +525,7 @@ If you find this survey useful, please cite our paper:
 
 ```bibtex
 @article{wu2026production,
-  title={From Visual Synthesis to Interactive Worlds: A Survey of Production-Ready 3D Generation},
+  title={From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Generation},
   author={Wu, Jiafeng and Lou, Zhuofan and Liu, Jian and Du, Dazhao and Guo, Chunchao and Guo, Song},
   journal={ACM Computing Surveys},
   year={2026}
