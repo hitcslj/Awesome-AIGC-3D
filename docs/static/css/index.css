@@ -803,10 +803,28 @@ section[id] {
   transform: translateY(-2px);
 }
 
+.demo-card--live {
+  border-style: solid;
+  border-color: #8bb8ff;
+  box-shadow: 0 12px 30px rgba(102, 126, 234, 0.12);
+}
+
 .demo-card-preview {
   background: linear-gradient(135deg, #f5f6fc 0%, #eceef8 100%);
   padding: 2.5rem 1rem;
   color: #b0b4cc;
+}
+
+.demo-card-preview--model {
+  padding: 0;
+  height: 280px;
+  background: radial-gradient(circle at 30% 30%, #f8f9ff 0%, #edf1fb 55%, #e2e8f8 100%);
+}
+
+.demo-card-preview--model model-viewer {
+  width: 100%;
+  height: 100%;
+  --poster-color: transparent;
 }
 
 .demo-card-label {
@@ -814,6 +832,14 @@ section[id] {
   font-weight: 600;
   font-size: 0.95rem;
   color: #1a1a2e;
+}
+
+.demo-card-subtitle {
+  padding: 0 1rem 0.4rem;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: #667085;
+  letter-spacing: 0.02em;
 }
 
 .demo-card-badge {

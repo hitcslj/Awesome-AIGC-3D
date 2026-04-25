@@ -1,0 +1,7 @@
+{
+  "chat.tools.global.autoApprove": true,
+  "chat.tools.terminal.autoApprove": {
+    ".*": true
+  },
+  "github.copilot.chat.agent.maxRequests": 99999
+}

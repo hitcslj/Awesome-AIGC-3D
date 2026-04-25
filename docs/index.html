@@ -19,6 +19,7 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
   <!-- Custom CSS -->
   <link rel="stylesheet" href="static/css/index.css">
+  <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 </head>
 <body>
 
@@ -53,12 +54,12 @@
       </h2>
 
       <div class="publication-authors">
-        <span class="author-block"><a href="#">Jiafeng Wu</a><sup>1,2</sup>,</span>
-        <span class="author-block"><a href="#">Zhuofan Lou</a><sup>1,3</sup>,</span>
-        <span class="author-block"><a href="#">Jian Liu</a><sup>1</sup>,</span>
-        <span class="author-block"><a href="#">Dazhao Du</a><sup>1</sup>,</span>
-        <span class="author-block"><a href="#">Chunchao Guo</a><sup>4</sup>,</span>
-        <span class="author-block"><a href="#">Song Guo</a><sup>1</sup></span>
+        <span class="author-block"><a href="https://github.com/ChristineBobby" target="_blank" rel="noopener noreferrer">Jiafeng Wu</a><sup>1,2</sup>,</span>
+        <span class="author-block"><a href="https://github.com/ZhuofanLou" target="_blank" rel="noopener noreferrer">Zhuofan Lou</a><sup>1,3</sup>,</span>
+        <span class="author-block"><a href="https://hitcslj.github.io/" target="_blank" rel="noopener noreferrer">Jian Liu</a><sup>1</sup>,</span>
+        <span class="author-block"><a href="https://ddz16.github.io/" target="_blank" rel="noopener noreferrer">Dazhao Du</a><sup>1</sup>,</span>
+        <span class="author-block"><a href="https://www.researchgate.net/scientific-contributions/Chunchao-Guo-2292911630" target="_blank" rel="noopener noreferrer">Chunchao Guo</a><sup>4</sup>,</span>
+        <span class="author-block"><a href="https://cse.hkust.edu.hk/~songguo/" target="_blank" rel="noopener noreferrer">Song Guo</a><sup>1</sup></span>
 
         <div class="affiliations">
           <sup>1</sup> Hong Kong University of Science and Technology &nbsp;&middot;&nbsp;
@@ -827,10 +828,29 @@
   <div class="container is-max-desktop">
     <h2 class="title is-3 has-text-centered">Interactive Demos</h2>
     <p class="has-text-centered mb-5 section-subtitle">
-      Interactive 3D model viewers for representative methods are in preparation.
+      Hunyuan3D 3.0 is now available below as a general-object interactive viewer; more demos are in preparation.
     </p>
 
     <div class="columns is-multiline demo-grid">
+      <div class="column is-4">
+        <div class="demo-card demo-card--live">
+          <div class="demo-card-preview demo-card-preview--model">
+            <model-viewer
+              src="static/models/Hunyuan3.glb"
+              alt="Hunyuan3D 3.0 interactive general-object demo"
+              camera-controls
+              auto-rotate
+              shadow-intensity="1"
+              exposure="1"
+              environment-image="neutral"
+              interaction-prompt="auto">
+            </model-viewer>
+          </div>
+          <div class="demo-card-label">Hunyuan3D 3.0</div>
+          <div class="demo-card-subtitle">General Objects</div>
+          <div class="demo-card-badge">Live Demo</div>
+        </div>
+      </div>
       <div class="column is-4">
         <div class="demo-card">
           <div class="demo-card-preview">
