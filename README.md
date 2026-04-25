@@ -1,4 +1,4 @@
-# From Visual Synthesis to Interactive Worlds <br> Toward Production-Ready 3D Generation
+# From Visual Synthesis to Interactive Worlds: <br> Toward Production-Ready 3D Generation
 
 <p align="center">
   <a href="https://arxiv.org/abs/2026.xxxxx"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg"></a>
