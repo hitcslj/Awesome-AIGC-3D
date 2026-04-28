@@ -557,7 +557,7 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## Acknowledgments
 
-This work was supported by The Hong Kong University of Science and Technology (HKUST) and Tencent Hunyuan.
+This work was supported by The Hong Kong University of Science and Technology and Tencent.
 
 ---
 
