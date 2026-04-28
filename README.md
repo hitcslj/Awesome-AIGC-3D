@@ -1,8 +1,7 @@
 # From Visual Synthesis to Interactive Worlds: <br> Toward Production-Ready 3D Asset Generation
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2026.xxxxx"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2026.xxxxx-b31b1b.svg"></a>
-  <a href="https://dl.acm.org/"><img alt="ACM CSUR" src="https://img.shields.io/badge/ACM-Computing%20Surveys-blue"></a>
+  <a href="https://arxiv.org/pdf/2604.23629"><img alt="arXiv" src="https://img.shields.io/badge/arXiv-2604.23629-b31b1b.svg"></a>
   <a href="https://christinebobby.github.io/production-ready-3d-survey/"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-green"></a>
   <a href="https://github.com/hitcslj/Awesome-AIGC-3D"><img alt="GitHub stars" src="https://img.shields.io/github/stars/hitcslj/Awesome-AIGC-3D?style=social"></a>
   <a href="LICENSE"><img alt="License" src="https://img.shields.io/badge/License-MIT-yellow.svg"></a>
@@ -524,11 +523,14 @@ A key finding of this survey is that existing benchmarks systematically overesti
 If you find this survey useful, please cite our paper:
 
 ```bibtex
-@article{wu2026production,
-  title={From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Generation},
-  author={Wu, Jiafeng and Lou, Zhuofan and Liu, Jian and Du, Dazhao and Guo, Chunchao and Guo, Song},
-  journal={ACM Computing Surveys},
-  year={2026}
+@misc{wu2026visualsynthesisinteractiveworlds,
+  title={From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation},
+  author={Jiafeng Wu and Zhuofan Lou and Jian Liu and Dazhao Du and Chunchao Guo and Song Guo},
+  year={2026},
+  eprint={2604.23629},
+  archivePrefix={arXiv},
+  primaryClass={cs.GR},
+  url={https://arxiv.org/abs/2604.23629},
 }
 ```
 

@@ -1,6 +1,6 @@
 # Contributing to Awesome-AIGC-3D v2
 
-Thank you for contributing! This repository is the companion to our ACM Computing Surveys paper *"From Visual Synthesis to Interactive Worlds: A Survey of Production-Ready 3D Generation"*.
+Thank you for contributing! This repository is the companion to our [arXiv paper](https://arxiv.org/abs/2604.23629) *"From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation"*.
 
 ## How to Add a Paper
 
