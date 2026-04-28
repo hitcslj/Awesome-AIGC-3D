@@ -557,13 +557,13 @@ We welcome contributions! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guid
 
 ## Acknowledgments
 
-This work was supported by the Hong Kong University of Science and Technology (HKUST) and Tencent Hunyuan.
+This work was supported by The Hong Kong University of Science and Technology (HKUST) and Tencent Hunyuan.
 
 ---
 
 ## v1 Paper Collection
 
-The original awesome list curated by Jian Liu is preserved on the [**main branch**](https://github.com/hitcslj/Awesome-AIGC-3D/tree/main). It contains a broader collection of AIGC 3D papers organized by topic without the production-pipeline focus of v2.
+The original awesome list curated is preserved on the [**main branch**](https://github.com/hitcslj/Awesome-AIGC-3D/tree/main). It contains a broader collection of AIGC 3D papers organized by topic without the production-pipeline focus of v2.
 
 ---
 
