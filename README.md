@@ -523,14 +523,11 @@ A key finding of this survey is that existing benchmarks systematically overesti
 If you find this survey useful, please cite our paper:
 
 ```bibtex
-@misc{wu2026visualsynthesisinteractiveworlds,
+@article{wu2026visual,
   title={From Visual Synthesis to Interactive Worlds: Toward Production-Ready 3D Asset Generation},
-  author={Jiafeng Wu and Zhuofan Lou and Jian Liu and Dazhao Du and Chunchao Guo and Song Guo},
-  year={2026},
-  eprint={2604.23629},
-  archivePrefix={arXiv},
-  primaryClass={cs.GR},
-  url={https://arxiv.org/abs/2604.23629},
+  author={Wu, Jiafeng and Lou, Zhuofan and Liu, Jian and Du, Dazhao and Guo, Chunchao and Guo, Song},
+  journal={arXiv preprint arXiv:2604.23629},
+  year={2026}
 }
 ```
 
