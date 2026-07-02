@@ -1,0 +1,6 @@
+@article{han2026ink3d,
+  title={Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models},
+  author={Han, Yue and Li, Chong and Liu, Zhening and Huang, Cong and Deng, Fang and Liu, Yong and Wei, Fangyun and Lu, Yan},
+  journal={arXiv preprint arXiv:2607.01222},
+  year={2026}
+}
