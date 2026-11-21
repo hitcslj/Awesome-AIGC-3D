@@ -20,7 +20,7 @@
   <strong><sup>1</sup> The Hong Kong University of Science and Technology</strong><br>
   <strong><sup>2</sup> Huazhong University of Science and Technology</strong> &nbsp;·&nbsp;
   <strong><sup>3</sup> Sichuan University</strong> &nbsp;·&nbsp;
-  <strong><sup>4</sup> Tencent</strong>
+  <strong><sup>4</sup> Independent Researcher</strong>
 </p>
 
 <p align="center">
