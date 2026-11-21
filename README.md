@@ -313,6 +313,7 @@ This structure mirrors the production pipeline used in game engines and interact
 | **3DTopia-XL** | 2024 | arXiv 2024 | Primitive diffusion for high-quality 3D assets with joint UV/PBR objectives | [📄](https://arxiv.org/abs/2409.12957) | [💻](https://github.com/3DTopia/3DTopia-XL) | - | [📖](./citations/3dtopia-xl.txt) |
 | **Meta 3D AssetGen** | 2024 | arXiv 2024 | Unified UV + geometry + PBR material pipeline | [📄](https://arxiv.org/abs/2407.02445) | - | - | [📖](./citations/meta3dAsset.txt) |
 | **PBR3DGen** | 2025 | arXiv 2025 | VLM-guided mesh generation with PBR materials | [📄](https://arxiv.org/abs/2504.12836) | - | - | [📖](./citations/wei2025pbr3dgenvlmguidedmeshgeneration.txt) |
+| **Ink3D** | 2026 | ECCV 2026 | Video-prior texture synthesis with native 3D baking and clean boundaries | [📄](https://arxiv.org/abs/2607.01222) | [💻](https://github.com/YueHan99/Ink3D.TextureGen) | [🌐](https://yuehan99.github.io/Ink3D-TextureGen/) | [📖](./citations/ink3d.txt) |
 
 ---
 
