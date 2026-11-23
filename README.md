@@ -508,6 +508,7 @@ A key finding of this survey is that existing benchmarks systematically overesti
 | Tencent | Hunyuan3D | Open + Closed | [3d.hunyuan.tencent.com](https://3d.hunyuan.tencent.com/) |
 | ByteDance | MVDream | Open | - |
 | Meshy AI | Meshy 5 | Closed | [meshy.ai](https://www.meshy.ai/) |
+| Image3D | Image-to-3D Generator | Closed | [image3d.io](https://image3d.io/) |
 | Deemos | Rodin Gen 1.5 | Closed | [hyperhuman.deemos.com](https://hyperhuman.deemos.com/) |
 | DreamTech | - | Closed | [dreamtech.com](https://www.dreamtech.com/) |
 | Luma AI | Genie | Closed | [lumalabs.ai](https://lumalabs.ai/) |
